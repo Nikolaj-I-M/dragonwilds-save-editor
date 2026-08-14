@@ -1,0 +1,38 @@
+{
+	"meta_data": {
+		"char_name": "Aventureiro de Teste"
+	},
+	"GameProgress": {
+		"Inventory": {
+			"MaxSlotIndex": 33,
+			"0": {
+				"GUID": "AAAAAAAAAAAAAAAAAAAAAA",
+				"ItemData": "P3_Aq0nAXu5dlFuBNGgyaw",
+				"Durability": 1300
+			},
+			"1": {
+				"GUID": "BBBBBBBBBBBBBBBBBBBBBB",
+				"ItemData": "Dvo6TE2d7YNnoni8XbKYzw",
+				"Count": 250
+			},
+			"8": {
+				"GUID": "CCCCCCCCCCCCCCCCCCCCCC",
+				"ItemData": "Mw42KUu2HuXm3baIbHa_8g",
+				"Count": 12
+			},
+			"33": {
+				"GUID": "DDDDDDDDDDDDDDDDDDDDDD",
+				"ItemData": "Dvo6TE2d7YNnoni8XbKYzw",
+				"Count": 999
+			}
+		},
+		"Character": {
+			"Health": {
+				"CurrentValue": 100.0
+			},
+			"Stamina": {
+				"CurrentValue": 100.0
+			}
+		}
+	}
+}

@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dragonwilds — Editor de Save</title>
+<link rel="icon" href="assets/theme/T_Icon_Rune_Law.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700;900&family=Alegreya+Sans:ital,wght@0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+
+<canvas id="embers" aria-hidden="true"></canvas>
+<div class="vignette" aria-hidden="true"></div>
+
+<header class="topbar">
+  <div class="brand">
+    <img class="brand-dragon" src="assets/theme/dragon_visage.png" alt="">
+    <div class="brand-text">
+      <h1 data-i18n="app_title">Dragonwilds — Editor de Save</h1>
+      <span class="brand-sub">RuneScape: Dragonwilds</span>
+    </div>
+  </div>
+
+  <div class="char-badge" id="char-badge" hidden>
+    <span class="char-badge-name" id="char-name"></span>
+    <span class="char-badge-file" id="char-file"></span>
+  </div>
+
+  <div class="topbar-actions">
+    <span class="dirty-dot" id="dirty-dot" hidden title=""></span>
+    <button class="btn" id="btn-open">📂 <span data-i18n="open_save">Abrir Save</span></button>
+    <button class="btn btn-gold" id="btn-save" disabled>💾 <span data-i18n="write_save">Salvar</span></button>
+    <select class="lang-select" id="lang-select" aria-label="Idioma">
+      <option value="pt-BR">PT-BR</option>
+      <option value="en">EN</option>
+    </select>
+  </div>
+</header>
+
+<main class="layout" id="layout" hidden>
+  <!-- Inventário -->
+  <section class="inventory" id="inventory"></section>
+
+  <!-- Painel lateral -->
+  <aside class="sidebar">
+    <div class="panel browser-panel">
+      <div class="panel-title">
+        <img src="assets/theme/T_Icon_Items_Normal.png" alt="" class="panel-title-img">
+      </div>
+      <div class="search-row">
+        <input type="search" id="search" class="search-input" placeholder="Buscar item…" autocomplete="off">
+        <span class="items-count" id="items-count"></span>
+      </div>
+      <div class="chips" id="chips"></div>
+      <div class="item-grid" id="item-grid" role="listbox"></div>
+    </div>
+
+    <div class="panel detail-panel" id="detail-panel">
+      <p class="hint" id="detail-hint" data-i18n="select_item_hint">Escolha um item da lista para ver os detalhes</p>
+      <div class="detail" id="detail" hidden>
+        <div class="detail-head">
+          <div class="detail-icon-wrap">
+            <div class="detail-icon-glow"></div>
+            <img class="detail-icon" id="detail-icon" alt="">
+            <span class="detail-emoji" id="detail-emoji" hidden></span>
+            <img class="detail-power" id="detail-power" alt="" hidden>
+          </div>
+          <div>
+            <h3 class="detail-name" id="detail-name"></h3>
+            <span class="detail-cat" id="detail-cat"></span>
+          </div>
+        </div>
+        <dl class="detail-stats" id="detail-stats"></dl>
+        <div class="qty-row">
+          <label data-i18n="quantity" for="qty">Quantidade</label>
+          <div class="stepper">
+            <button class="stepper-btn" id="qty-minus" aria-label="-">−</button>
+            <input type="number" id="qty" min="1" value="1">
+            <button class="stepper-btn" id="qty-plus" aria-label="+">+</button>
+            <button class="stepper-max" id="qty-max"><span data-i18n="max">Máx</span> <span id="qty-max-n"></span></button>
+          </div>
+        </div>
+        <button class="btn btn-gold btn-block" id="btn-add" disabled></button>
+        <button class="btn btn-danger btn-block" id="btn-clear" disabled data-i18n="clear_slot">Esvaziar slot</button>
+      </div>
+    </div>
+
+    <div class="panel character-panel">
+      <h2 class="panel-heading">🐉 <span data-i18n="character">Personagem</span></h2>
+      <div class="attr-row">
+        <span class="attr-label attr-health">❤ <span data-i18n="health">Vida</span></span>
+        <input type="number" id="attr-health" min="1" step="1">
+      </div>
+      <div class="attr-bar"><div class="attr-bar-fill health" id="bar-health"></div></div>
+      <div class="attr-row">
+        <span class="attr-label attr-stamina">⚡ <span data-i18n="stamina">Estamina</span></span>
+        <input type="number" id="attr-stamina" min="0" step="1">
+      </div>
+      <div class="attr-bar"><div class="attr-bar-fill stamina" id="bar-stamina"></div></div>
+      <button class="btn btn-block" id="btn-attrs" data-i18n="apply">Aplicar</button>
+      <p class="note" data-i18n="attributes_note"></p>
+    </div>
+  </aside>
+</main>
+
+<!-- Estado vazio -->
+<section class="hero" id="hero">
+  <img class="hero-dragon" src="assets/theme/dragon_visage.png" alt="">
+  <h2 data-i18n="no_save_title">Nenhum save aberto</h2>
+  <p data-i18n="no_save_subtitle"></p>
+  <button class="btn btn-gold btn-lg" id="btn-hero-open">📂 <span data-i18n="open_save">Abrir Save</span></button>
+  <div class="recents" id="recents" hidden>
+    <h3 data-i18n="recent_files">Arquivos recentes</h3>
+    <ul id="recents-list"></ul>
+  </div>
+</section>
+
+<div class="tooltip" id="tooltip" hidden></div>
+<div class="toasts" id="toasts"></div>
+
+<script src="js/app.js"></script>
+</body>
+</html>

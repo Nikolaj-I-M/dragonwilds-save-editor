@@ -1,0 +1,14 @@
+# dependências e build
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+next-env.d.ts
+
+# python (legacy)
+__pycache__/
+*.pyc
+
+# sistema
+.DS_Store
+*.bak

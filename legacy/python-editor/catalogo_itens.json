@@ -1,0 +1,7121 @@
+[
+ {
+  "id": "TuG7zUS90qgd7BOHhOxd8Q",
+  "nome_en": "Abraxus Ring",
+  "nome_ptbr": "Abraxus Ring",
+  "categoria": "Anéis",
+  "emoji": "💍",
+  "max_stack": 1,
+  "durabilidade": 100
+ },
+ {
+  "id": "Mw42KUu2HuXm3baIbHa_8g",
+  "nome_en": "Abyssal Ashes",
+  "nome_ptbr": "Cinzas Abissais",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "GHBDsEGyH5DJpTqa7xIC1w",
+  "nome_en": "Abyssal Spine",
+  "nome_ptbr": "Espinha Abissal",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "P3_Aq0nAXu5dlFuBNGgyaw",
+  "nome_en": "Abyssal Whip",
+  "nome_ptbr": "Abyssal Whip",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 1300
+ },
+ {
+  "id": "3_luxedD0kyY_dd3UKYvEQ",
+  "nome_en": "Adhesive",
+  "nome_ptbr": "Adhesive",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "ewbJ37oeTkypaVfRgI_GPg",
+  "nome_en": "Adventurer's Leggings",
+  "nome_ptbr": "Adventurer's Leggings",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 1,
+  "durabilidade": 500
+ },
+ {
+  "id": "VVq58NyN8EKOk3WUg2130Q",
+  "nome_en": "Adventurer's Longbow",
+  "nome_ptbr": "Adventurer's Longbow",
+  "categoria": "Arcos",
+  "emoji": "🏹",
+  "max_stack": 1,
+  "durabilidade": 850
+ },
+ {
+  "id": "FOjGigKnBkev9f-VWFFdYA",
+  "nome_en": "Adventurer's Tunic",
+  "nome_ptbr": "Adventurer's Tunic",
+  "categoria": "Peitorais",
+  "emoji": "👕",
+  "max_stack": 1,
+  "durabilidade": 500
+ },
+ {
+  "id": "3qvw7EnZoZI0IDyB7ZUCQg",
+  "nome_en": "Aetheric Fundamentals, a Primordial Primer",
+  "nome_ptbr": "Aetheric Fundamentals, a Primordial Primer",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "Dvo6TE2d7YNnoni8XbKYzw",
+  "nome_en": "Air Rune",
+  "nome_ptbr": "Runa de Ar",
+  "categoria": "Runas",
+  "emoji": "✨",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "u0YGp0XHrNClFea2YgtqHQ",
+  "nome_en": "Amulet of Accuracy",
+  "nome_ptbr": "Amulet of Accuracy",
+  "categoria": "Amuletos",
+  "emoji": "📿",
+  "max_stack": 1,
+  "durabilidade": 2500
+ },
+ {
+  "id": "bkZosEFhzpZdonqm9gx-vA",
+  "nome_en": "Amulet of Defence",
+  "nome_ptbr": "Amulet of Defence",
+  "categoria": "Amuletos",
+  "emoji": "📿",
+  "max_stack": 1,
+  "durabilidade": 2500
+ },
+ {
+  "id": "MQ9B9EFqxWoPzFSfC8X2dg",
+  "nome_en": "Amulet of Magic",
+  "nome_ptbr": "Amulet of Magic",
+  "categoria": "Amuletos",
+  "emoji": "📿",
+  "max_stack": 1,
+  "durabilidade": 2500
+ },
+ {
+  "id": "4EKck0Gae8VbebeQZ0DANA",
+  "nome_en": "Amulet of Strength",
+  "nome_ptbr": "Amulet of Strength",
+  "categoria": "Amuletos",
+  "emoji": "📿",
+  "max_stack": 1,
+  "durabilidade": 2500
+ },
+ {
+  "id": "tKokB0xYm6tJNHiWwmG2SQ",
+  "nome_en": "Anima-infused Bark",
+  "nome_ptbr": "Anima-infused Bark",
+  "categoria": "Barras",
+  "emoji": "🧱",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "EnjZ-B1MLkuduCRe1oLNQw",
+  "nome_en": "Animal Bone",
+  "nome_ptbr": "Animal Bone",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "ND81bEI1UktxBZK6a1kPtg",
+  "nome_en": "Animal Hide",
+  "nome_ptbr": "Pele de Animal",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "ab53An3iPkyjTqnHyme-0A",
+  "nome_en": "Animal Hide Scraps",
+  "nome_ptbr": "Retalhos de Pele de Animal",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "BNb1F0xxIE_NlYq3ypX6LA",
+  "nome_en": "Anti-dragon Shield",
+  "nome_ptbr": "Anti-dragon Shield",
+  "categoria": "Escudos",
+  "emoji": "🛡️",
+  "max_stack": 1,
+  "durabilidade": 1050
+ },
+ {
+  "id": "56queU2VGYTvp06IsYxZMw",
+  "nome_en": "Antifire Potion",
+  "nome_ptbr": "Antifire Potion",
+  "categoria": "Poções",
+  "emoji": "🧪",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "-oVBzksmuwIMiVWlc9G4aw",
+  "nome_en": "Antipoison Potion",
+  "nome_ptbr": "Antipoison Potion",
+  "categoria": "Poções",
+  "emoji": "🧪",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "AEnD3ErsJVZ3V7WT1YdPQQ",
+  "nome_en": "Antler",
+  "nome_ptbr": "Antler",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "h3G7NqBW-0i6TrNRlBD6Sg",
+  "nome_en": "Apprentice Hat",
+  "nome_ptbr": "Apprentice Hat",
+  "categoria": "Elmos",
+  "emoji": "⛑️",
+  "max_stack": 1,
+  "durabilidade": 1000
+ },
+ {
+  "id": "AIZLP8mwfEij7hwWUOr-aQ",
+  "nome_en": "Apprentice Leggings",
+  "nome_ptbr": "Apprentice Leggings",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 1,
+  "durabilidade": 1000
+ },
+ {
+  "id": "g9vfX7KsMkurrMZa7z1aPg",
+  "nome_en": "Apprentice Robe",
+  "nome_ptbr": "Apprentice Robe",
+  "categoria": "Peitorais",
+  "emoji": "👕",
+  "max_stack": 1,
+  "durabilidade": 1000
+ },
+ {
+  "id": "twHjF0oX62SopfSMJwt00g",
+  "nome_en": "Arcane Infusion",
+  "nome_ptbr": "Arcane Infusion",
+  "categoria": "Poções",
+  "emoji": "🧪",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "JceCAk6MoBgJWc209l6akw",
+  "nome_en": "Artisan Cape",
+  "nome_ptbr": "Artisan Cape",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "UhTvLU673YxiQSuGzOGeUA",
+  "nome_en": "Artisan Cape - Trimmed",
+  "nome_ptbr": "Artisan Cape - Trimmed",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "924KFU8kvGNESi-zN0doDw",
+  "nome_en": "Ash Battlestaff",
+  "nome_ptbr": "Cajado de Batalha de Freixo",
+  "categoria": "Cajados",
+  "emoji": "🪄",
+  "max_stack": 1,
+  "durabilidade": 900
+ },
+ {
+  "id": "2rxJ495rm0GDn4h5OWKiyQ",
+  "nome_en": "Ash Logs",
+  "nome_ptbr": "Troncos de Freixo",
+  "categoria": "Lenha",
+  "emoji": "🌲",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "AZfdA0yelBs6PZqj9sRp8Q",
+  "nome_en": "Ash Pile",
+  "nome_ptbr": "Ash Pile",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "Gv_wHkJnBgiXOfq0cCvggg",
+  "nome_en": "Ash Plank",
+  "nome_ptbr": "Tábua de Freixo",
+  "categoria": "Lenha",
+  "emoji": "🌲",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "ilFiZ9GcsUC5EOSxOrE74w",
+  "nome_en": "Ash Shortbow",
+  "nome_ptbr": "Arco Curto de Freixo",
+  "categoria": "Arcos",
+  "emoji": "🏹",
+  "max_stack": 1,
+  "durabilidade": 850
+ },
+ {
+  "id": "rml74kE3HftGhqabnwqNhw",
+  "nome_en": "Ash tree Seed",
+  "nome_ptbr": "Ash tree Seed",
+  "categoria": "Fazenda",
+  "emoji": "🌱",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "4wdYZE-FFMhS9Iia0ftWDg",
+  "nome_en": "Astral Rune",
+  "nome_ptbr": "Runa Astral",
+  "categoria": "Runas",
+  "emoji": "✨",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "yaZr2UqUzLXtDDC6b9lPzA",
+  "nome_en": "Attack Cape",
+  "nome_ptbr": "Attack Cape",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "UnU39kGv8GrkK6mUAfzXww",
+  "nome_en": "Attack Cape (Trimmed)",
+  "nome_ptbr": "Attack Cape (Trimmed)",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "JI5A3EN23h-KYFm7hUvaRg",
+  "nome_en": "Ava's Accumulator",
+  "nome_ptbr": "Ava's Accumulator",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "Z5QvWUvqmCXwNoqA4luI4A",
+  "nome_en": "Bag of Flour",
+  "nome_ptbr": "Bag of Flour",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "U3WG60uJFgZl-BWJIj6_Iw",
+  "nome_en": "Bag Of Noggin",
+  "nome_ptbr": "Bag Of Noggin",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 1,
+  "durabilidade": 500
+ },
+ {
+  "id": "wgV3TEOkcYod4tGRdutHqg",
+  "nome_en": "Baked Potato",
+  "nome_ptbr": "Baked Potato",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "1Gu7vU51PMnkRBu2wqlHHQ",
+  "nome_en": "Bandosian Amulet",
+  "nome_ptbr": "Amuleto Bandosiano",
+  "categoria": "Amuletos",
+  "emoji": "📿",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "5g2q0EbO7nKX_e-N1ogTGg",
+  "nome_en": "Beast-Training Notes",
+  "nome_ptbr": "Beast-Training Notes",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 3,
+  "durabilidade": null
+ },
+ {
+  "id": "SIm7DUR1h7EDCcGACB8JDA",
+  "nome_en": "Bedraggled Spellbook",
+  "nome_ptbr": "Bedraggled Spellbook",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "Lg6skUqRUr6NjjyUWJio7A",
+  "nome_en": "Beef & Tomato Stew",
+  "nome_ptbr": "Beef & Tomato Stew",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "P9AaJUmKwNjQ_lWuDOGRTQ",
+  "nome_en": "Berry Compote",
+  "nome_ptbr": "Berry Compote",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "jnxM90O5-e7GHmKF9e0dhA",
+  "nome_en": "Bird Nest",
+  "nome_ptbr": "Bird Nest",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "Bt9mnlMVnkipaZStzKEdmg",
+  "nome_en": "Bittercap Mushroom",
+  "nome_ptbr": "Bittercap Mushroom",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "xRSgEk-klTdIZpOgGo5yxw",
+  "nome_en": "Black Adventurer's Cape",
+  "nome_ptbr": "Black Adventurer's Cape",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "herfn0Otdu77KRWx1KdD_Q",
+  "nome_en": "Black Crossbow Limbs",
+  "nome_ptbr": "Black Crossbow Limbs",
+  "categoria": "Bestas",
+  "emoji": "🏹",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "W7PDB08-GCsvRcCkJBJM9w",
+  "nome_en": "Black Greataxe",
+  "nome_ptbr": "Black Greataxe",
+  "categoria": "Ferramentas",
+  "emoji": "⛏️",
+  "max_stack": 1,
+  "durabilidade": 1300
+ },
+ {
+  "id": "JSlAV05XOfg2HBO7L7dkqw",
+  "nome_en": "Black Knight Helmet",
+  "nome_ptbr": "Black Knight Helmet",
+  "categoria": "Elmos",
+  "emoji": "⛑️",
+  "max_stack": 1,
+  "durabilidade": 1750
+ },
+ {
+  "id": "A4rU30W0ig-T37mPaKBsgw",
+  "nome_en": "Black Knight Platebody",
+  "nome_ptbr": "Black Knight Platebody",
+  "categoria": "Peitorais",
+  "emoji": "👕",
+  "max_stack": 1,
+  "durabilidade": 1750
+ },
+ {
+  "id": "dDoydESE59uZ7G-6OGUeQg",
+  "nome_en": "Black Knight Platelegs",
+  "nome_ptbr": "Black Knight Platelegs",
+  "categoria": "Perneiras",
+  "emoji": "👖",
+  "max_stack": 1,
+  "durabilidade": 1750
+ },
+ {
+  "id": "GE1KcEN1F8prN5WT6LnDZg",
+  "nome_en": "Black Metal Bar",
+  "nome_ptbr": "Black Metal Bar",
+  "categoria": "Barras",
+  "emoji": "🧱",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "Sy-LHUCi7MgzAKel9DwJiw",
+  "nome_en": "Black Metal Scraps",
+  "nome_ptbr": "Black Metal Scraps",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "BofyKESeYThx2VqAw416Mw",
+  "nome_en": "Black Salvage Pile",
+  "nome_ptbr": "Black Salvage Pile",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "3B_L6E3AevxvOce0OOAxTg",
+  "nome_en": "Black Shield",
+  "nome_ptbr": "Black Shield",
+  "categoria": "Escudos",
+  "emoji": "🛡️",
+  "max_stack": 1,
+  "durabilidade": 1300
+ },
+ {
+  "id": "_mTHz0WtLkARIJOwX01_Dw",
+  "nome_en": "Black Sword",
+  "nome_ptbr": "Black Sword",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 1300
+ },
+ {
+  "id": "CxUwQN-Me0qnNfyc207f0g",
+  "nome_en": "Blightwood",
+  "nome_ptbr": "Blightwood",
+  "categoria": "Lenha",
+  "emoji": "🌲",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "yvkI8EKmmaD8zT-a7IVqOA",
+  "nome_en": "Blightwood Battlestaff",
+  "nome_ptbr": "Blightwood Battlestaff",
+  "categoria": "Cajados",
+  "emoji": "🪄",
+  "max_stack": 1,
+  "durabilidade": 1300
+ },
+ {
+  "id": "uKPqYU1A71NI-XK-ZqStTg",
+  "nome_en": "Blightwood Longbow",
+  "nome_ptbr": "Blightwood Longbow",
+  "categoria": "Arcos",
+  "emoji": "🏹",
+  "max_stack": 1,
+  "durabilidade": 1300
+ },
+ {
+  "id": "_oShik-jE3kWgsG82AEuNQ",
+  "nome_en": "Blightwood Shortbow",
+  "nome_ptbr": "Blightwood Shortbow",
+  "categoria": "Arcos",
+  "emoji": "🏹",
+  "max_stack": 1,
+  "durabilidade": 1300
+ },
+ {
+  "id": "emA_O0RntNNsrNuNVOTmow",
+  "nome_en": "Bloodblight Cape",
+  "nome_ptbr": "Bloodblight Cape",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "OeUUZEKiGnt36CqCIkqJgw",
+  "nome_en": "Bloodwood Sap",
+  "nome_ptbr": "Bloodwood Sap",
+  "categoria": "Lenha",
+  "emoji": "🌲",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "Nzf1rECKpuLNgX25lvNy5g",
+  "nome_en": "Blue Adventurer's Cape",
+  "nome_ptbr": "Blue Adventurer's Cape",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "fb2RhkyQZbMp8siy7s1smA",
+  "nome_en": "Blue Dragon Leather",
+  "nome_ptbr": "Couro de Dragão Azul",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "tM_S1EEP0EUAbNCCQZi5Og",
+  "nome_en": "Blue Dragon Scale",
+  "nome_ptbr": "Blue Dragon Scale",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "1qQozE_nJyZ7xv6VWcG7yw",
+  "nome_en": "Blue Dragon Scale Dust",
+  "nome_ptbr": "Blue Dragon Scale Dust",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "sM8FckDf5OipPo-BPZWpbw",
+  "nome_en": "Blue Dragonhide",
+  "nome_ptbr": "Pele de Dragão Azul",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "-cJ4kk5_eZwK-IiOoj8gIQ",
+  "nome_en": "Blue Dragonhide Body",
+  "nome_ptbr": "Corpete de Pele de Dragão Azul",
+  "categoria": "Peitorais",
+  "emoji": "👕",
+  "max_stack": 1,
+  "durabilidade": 1750
+ },
+ {
+  "id": "Bs2XUUW6ayb84R-jPoU-MA",
+  "nome_en": "Blue Dragonhide Chaps",
+  "nome_ptbr": "Perneiras de Pele de Dragão Azul",
+  "categoria": "Perneiras",
+  "emoji": "👖",
+  "max_stack": 1,
+  "durabilidade": 1750
+ },
+ {
+  "id": "YkQ4GEx0vEmn8emAt6fB_w",
+  "nome_en": "Blue Dragonhide Coif",
+  "nome_ptbr": "Coifa de Pele de Dragão Azul",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 1,
+  "durabilidade": 1750
+ },
+ {
+  "id": "MBpKrUpzJFvrLS6J3i29KQ",
+  "nome_en": "Blue Dyad Cape",
+  "nome_ptbr": "Blue Dyad Cape",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "vYkYBU5IisN6p9Sp_-BDwg",
+  "nome_en": "Blue Hex Cape",
+  "nome_ptbr": "Blue Hex Cape",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "Akm81UDVNK4UCl-h10JwxA",
+  "nome_en": "Blurite Bar",
+  "nome_ptbr": "Blurite Bar",
+  "categoria": "Barras",
+  "emoji": "🧱",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "HogQf0rvQPyH3MWRnZKfGw",
+  "nome_en": "Blurite Bolt",
+  "nome_ptbr": "Blurite Bolt",
+  "categoria": "Flechas/Virotes",
+  "emoji": "🏹",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "FBidmkaAlCyLg6mpOaonMQ",
+  "nome_en": "Blurite Crossbow",
+  "nome_ptbr": "Blurite Crossbow",
+  "categoria": "Bestas",
+  "emoji": "🏹",
+  "max_stack": 1,
+  "durabilidade": 1300
+ },
+ {
+  "id": "8sdCrU7VnKISn-mcBqKD0w",
+  "nome_en": "Blurite Crossbow Limbs",
+  "nome_ptbr": "Blurite Crossbow Limbs",
+  "categoria": "Bestas",
+  "emoji": "🏹",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "HgH49UolaqYHza6Zg1IFYw",
+  "nome_en": "Blurite Ore",
+  "nome_ptbr": "Blurite Ore",
+  "categoria": "Minérios",
+  "emoji": "🪨",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "DOsOLkIUyXaO8-yRed2iUg",
+  "nome_en": "Bone Bolt",
+  "nome_ptbr": "Virote de Osso",
+  "categoria": "Flechas/Virotes",
+  "emoji": "🏹",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "djtTEkaTg3ARdre_xsNXCg",
+  "nome_en": "Bone Club",
+  "nome_ptbr": "Bone Club",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 850
+ },
+ {
+  "id": "P02SmEivYDi2N5u8rZc7ug",
+  "nome_en": "Bone Crossbow Limbs",
+  "nome_ptbr": "Bone Crossbow Limbs",
+  "categoria": "Bestas",
+  "emoji": "🏹",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "Euv3-bBtDUmx110jaD1g1Q",
+  "nome_en": "Bone Dagger",
+  "nome_ptbr": "Adaga de Osso",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 850
+ },
+ {
+  "id": "Xs6AJ0up43qfLeG1fRqk4g",
+  "nome_en": "Bone Pickaxe",
+  "nome_ptbr": "Picareta de Osso",
+  "categoria": "Ferramentas",
+  "emoji": "⛏️",
+  "max_stack": 1,
+  "durabilidade": 1350
+ },
+ {
+  "id": "4hYWzULKMjNsgOuwHL7UAA",
+  "nome_en": "Bramblemead Cape",
+  "nome_ptbr": "Bramblemead Cape",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "sXt7z0fgUQNUKW69bItr-w",
+  "nome_en": "Bread",
+  "nome_ptbr": "Pão",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "B_9Rt0HRTRhbZfSgUrQNTg",
+  "nome_en": "Broken Titan's Wrath",
+  "nome_ptbr": "Broken Titan's Wrath",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "XvhWN00lBZJCFb6r0p-tMg",
+  "nome_en": "Bronze Arrow",
+  "nome_ptbr": "Flecha de Bronze",
+  "categoria": "Flechas/Virotes",
+  "emoji": "🏹",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "Y2Y48OMHukKIilN4srd7cA",
+  "nome_en": "Bronze Bar",
+  "nome_ptbr": "Barra de Bronze",
+  "categoria": "Barras",
+  "emoji": "🧱",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "0Tp64UgXjCbF69aH3ZhQQA",
+  "nome_en": "Bronze Barbed Arrow",
+  "nome_ptbr": "Bronze Barbed Arrow",
+  "categoria": "Flechas/Virotes",
+  "emoji": "🏹",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "jgYiuU8aQY7BNHaUKFjZpQ",
+  "nome_en": "Bronze Bolt",
+  "nome_ptbr": "Virote de Bronze",
+  "categoria": "Flechas/Virotes",
+  "emoji": "🏹",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "CQbLYUZy7Pp_Ts6tlJow3A",
+  "nome_en": "Bronze Crossbow",
+  "nome_ptbr": "Besta de Bronze",
+  "categoria": "Bestas",
+  "emoji": "🏹",
+  "max_stack": 1,
+  "durabilidade": 1050
+ },
+ {
+  "id": "k_8lkkBlxSUG1qydAobddA",
+  "nome_en": "Bronze Crossbow Limbs",
+  "nome_ptbr": "Bronze Crossbow Limbs",
+  "categoria": "Bestas",
+  "emoji": "🏹",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "G4zoMkig_jVt9RSGpbYarg",
+  "nome_en": "Bronze Dagger",
+  "nome_ptbr": "Adaga de Bronze",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 1050
+ },
+ {
+  "id": "l8ARoEESskYD1mag4nRKlQ",
+  "nome_en": "Bronze Fire Arrow",
+  "nome_ptbr": "Bronze Fire Arrow",
+  "categoria": "Flechas/Virotes",
+  "emoji": "🏹",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "PSWEV0JzVwxsalWCFqPbOw",
+  "nome_en": "Bronze Greatsword",
+  "nome_ptbr": "Espadão de Bronze",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 1050
+ },
+ {
+  "id": "lhrErX7MF0q9XlhdPdhCrA",
+  "nome_en": "Bronze Helmet",
+  "nome_ptbr": "Elmo de Bronze",
+  "categoria": "Elmos",
+  "emoji": "⛑️",
+  "max_stack": 1,
+  "durabilidade": 1250
+ },
+ {
+  "id": "VBJg2XpMOEGTd6Qk9lB4Kw",
+  "nome_en": "Bronze Logging Axe",
+  "nome_ptbr": "Machado de Lenhador de Bronze",
+  "categoria": "Ferramentas",
+  "emoji": "⛏️",
+  "max_stack": 1,
+  "durabilidade": 1800
+ },
+ {
+  "id": "lJqTrE_r-nkdhwyoPhfsAA",
+  "nome_en": "Bronze Mace",
+  "nome_ptbr": "Maça de Bronze",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 1,
+  "durabilidade": 1050
+ },
+ {
+  "id": "V-CGfkBdlbxvc-6TkU-K_A",
+  "nome_en": "Bronze Pickaxe",
+  "nome_ptbr": "Picareta de Bronze",
+  "categoria": "Ferramentas",
+  "emoji": "⛏️",
+  "max_stack": 1,
+  "durabilidade": 1800
+ },
+ {
+  "id": "N2kAI3uQgki-eP0rIoHYhQ",
+  "nome_en": "Bronze Platebody",
+  "nome_ptbr": "Peitoral de Bronze",
+  "categoria": "Peitorais",
+  "emoji": "👕",
+  "max_stack": 1,
+  "durabilidade": 1250
+ },
+ {
+  "id": "wQPcKK1XV0iF1_CADXUwEw",
+  "nome_en": "Bronze Platelegs",
+  "nome_ptbr": "Perneiras de Bronze",
+  "categoria": "Perneiras",
+  "emoji": "👖",
+  "max_stack": 1,
+  "durabilidade": 1250
+ },
+ {
+  "id": "QT6fSk6ZdpTAdxOHQmBDDA",
+  "nome_en": "Bronze Salvage Pile",
+  "nome_ptbr": "Bronze Salvage Pile",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "z1aZS0oEXuZ69Xe2iJ1A0A",
+  "nome_en": "Bronze Shield",
+  "nome_ptbr": "Escudo de Bronze",
+  "categoria": "Escudos",
+  "emoji": "🛡️",
+  "max_stack": 1,
+  "durabilidade": 1050
+ },
+ {
+  "id": "FTGL4ElVrhJ4zSmGTWqSQw",
+  "nome_en": "Bronze Spade",
+  "nome_ptbr": "Bronze Spade",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 1,
+  "durabilidade": 300
+ },
+ {
+  "id": "eqrPvUI8qhvjnbGRoIxNug",
+  "nome_en": "Bronze Sword",
+  "nome_ptbr": "Espada de Bronze",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 1050
+ },
+ {
+  "id": "jUhzF0avp4bpepKSoz7H2A",
+  "nome_en": "Bronze Warhammer",
+  "nome_ptbr": "Martelo de Guerra de Bronze",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 1050
+ },
+ {
+  "id": "IRhYFE04RuHPriOUTWp4Sg",
+  "nome_en": "Bronze Watering Can",
+  "nome_ptbr": "Bronze Watering Can",
+  "categoria": "Anéis",
+  "emoji": "💍",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "2wDHZkZRqZP5P3eH8whXPg",
+  "nome_en": "Burnt Bread",
+  "nome_ptbr": "Burnt Bread",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "C6qQW0EvfmEU_viIY32q5g",
+  "nome_en": "Burnt Cabbage",
+  "nome_ptbr": "Burnt Cabbage",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "y7xRMkrIHbH_Ny-uQuUjDA",
+  "nome_en": "Burnt Cadavaberries",
+  "nome_ptbr": "Burnt Cadavaberries",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "o-3rKkQUKC8olaWc0SljQg",
+  "nome_en": "Burnt Dwellberries",
+  "nome_ptbr": "Burnt Dwellberries",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "S2VJT0kN5V1UaoGPyQDShA",
+  "nome_en": "Burnt Egg",
+  "nome_ptbr": "Burnt Egg",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "yllgHEVevYQWCgidChNt1g",
+  "nome_en": "Burnt Fillet",
+  "nome_ptbr": "Burnt Fillet",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "m4B55EJCdkotk0KEocQ6jg",
+  "nome_en": "Burnt Flank",
+  "nome_ptbr": "Burnt Flank",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "RM7sjkfd1Xqn-8Or6rNxdQ",
+  "nome_en": "Burnt Haunch",
+  "nome_ptbr": "Burnt Haunch",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "tNmlCkWaQlxSRL-8PheVWw",
+  "nome_en": "Burnt Maple Syrup",
+  "nome_ptbr": "Burnt Maple Syrup",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "lI4zAkyhtQZQlV-8jh1CpA",
+  "nome_en": "Burnt Mushroom",
+  "nome_ptbr": "Burnt Mushroom",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "KeCpwk28n4LHrHqsptOIHg",
+  "nome_en": "Burnt Onion",
+  "nome_ptbr": "Burnt Onion",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "FahQp0v2g1hVGVeYFfGXNw",
+  "nome_en": "Burnt Peach",
+  "nome_ptbr": "Burnt Peach",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "S5Ekb0vJkGcCBTWlV5Ie7g",
+  "nome_en": "Burnt Potato",
+  "nome_ptbr": "Burnt Potato",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "n8pSqEJCBDGqd3ukRXQVrw",
+  "nome_en": "Burnt Pumpkin",
+  "nome_ptbr": "Burnt Pumpkin",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "YPxUfkgrbaDlMGa0aQBgfw",
+  "nome_en": "Burnt Rat Roast",
+  "nome_ptbr": "Burnt Rat Roast",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "ArdDhUW3LRqTHQG2zu5UYg",
+  "nome_en": "Burnt Redberries",
+  "nome_ptbr": "Burnt Redberries",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "OcXO909VQEKBY16kWc3G9Q",
+  "nome_en": "Burnt Steak",
+  "nome_ptbr": "Burnt Steak",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "Cnqff0Rv5kfQht2qDEdYJg",
+  "nome_en": "Burnt Tomato",
+  "nome_ptbr": "Burnt Tomato",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "vdz5gURsII92tQaXERfDsg",
+  "nome_en": "Burnt Undead Steak",
+  "nome_ptbr": "Burnt Undead Steak",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "atK88UfDNGTVALumf_S7yw",
+  "nome_en": "Burnt Watermelon",
+  "nome_ptbr": "Burnt Watermelon",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "Hq4CrUEukmw8b7i4xolVRg",
+  "nome_en": "BurntTrout",
+  "nome_ptbr": "BurntTrout",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "EHN6Hs9NFkur7chZVfchJg",
+  "nome_en": "Cabbage",
+  "nome_ptbr": "Repolho",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "LRrgT0uxL009Hq-oGeINEg",
+  "nome_en": "Cabbage seeds",
+  "nome_ptbr": "Cabbage seeds",
+  "categoria": "Fazenda",
+  "emoji": "🌱",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "Pek92ERqvxrFO_Gh7xufqA",
+  "nome_en": "Cadavaberries",
+  "nome_ptbr": "Cadavaberries",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "4_zoG0eScTmPyFaVcIxIqw",
+  "nome_en": "Cadavaberry Seeds",
+  "nome_ptbr": "Cadavaberry Seeds",
+  "categoria": "Fazenda",
+  "emoji": "🌱",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "yhTo-0sFyMXGYMWrwVpQ7Q",
+  "nome_en": "Cadaveberry Infusion",
+  "nome_ptbr": "Cadaveberry Infusion",
+  "categoria": "Poções",
+  "emoji": "🧪",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "XMOdf0Zc5L04hfSCIdpybA",
+  "nome_en": "Cauterised Undead Steak",
+  "nome_ptbr": "Cauterised Undead Steak",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "45qRbkCgpbXsxAuswso8Aw",
+  "nome_en": "Challenge Horn",
+  "nome_ptbr": "Challenge Horn",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "ZbaFNUQBjcQFiBmssky-4g",
+  "nome_en": "Challenge Horn Mouthpiece",
+  "nome_ptbr": "Challenge Horn Mouthpiece",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "x-SiNQenZEuF0yyTPkxhiw",
+  "nome_en": "Charcoal",
+  "nome_ptbr": "Charcoal",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "woAWUkDJFS_g2Y-viCDznQ",
+  "nome_en": "Cheeky Fryup",
+  "nome_ptbr": "Cheeky Fryup",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "SMdFlkruGF9Xveyh1Lz0lw",
+  "nome_en": "Chef's Hat",
+  "nome_ptbr": "Chef's Hat",
+  "categoria": "Elmos",
+  "emoji": "⛑️",
+  "max_stack": 1,
+  "durabilidade": 1250
+ },
+ {
+  "id": "lHKVrkMlSsZx5lKVZRH63Q",
+  "nome_en": "Chieftan's Blade",
+  "nome_ptbr": "Chieftan's Blade",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 1,
+  "durabilidade": 1050
+ },
+ {
+  "id": "LLV95ECQPPkItvyaC0gCzQ",
+  "nome_en": "Clay",
+  "nome_ptbr": "Argila",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "C-Blv0bNk7v6BOWLA8Cw-g",
+  "nome_en": "Clay Decoration",
+  "nome_ptbr": "Clay Decoration",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "sycphkkEs4cXKKC721kS2w",
+  "nome_en": "Clay Decoration (Unfired)",
+  "nome_ptbr": "Clay Decoration (Unfired)",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "zEg0M0VWEp6-wLOhkvYJ8A",
+  "nome_en": "Clay Mould",
+  "nome_ptbr": "Clay Mould",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "FXYVR0dXwrzmeo-goNwTHA",
+  "nome_en": "Clay Mould (Unfired)",
+  "nome_ptbr": "Clay Mould (Unfired)",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "uTmDj0pXttZKU7qob4UvNw",
+  "nome_en": "Clay Vessel",
+  "nome_ptbr": "Clay Vessel",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "xhvDCkkTzJPbihGOZo3Hvw",
+  "nome_en": "Clay Vessel (Unfired)",
+  "nome_ptbr": "Clay Vessel (Unfired)",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "hKYyX0vQ_pgLRAi2ugGK3w",
+  "nome_en": "Clean Water",
+  "nome_ptbr": "Água Limpa",
+  "categoria": "Ervas",
+  "emoji": "🌿",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "MsQyukIFtzlttaiTzrbgxw",
+  "nome_en": "Coal",
+  "nome_ptbr": "Carvão",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "ISwwk0SMdhURciK1Sr3i6Q",
+  "nome_en": "Coarse Animal Fur",
+  "nome_ptbr": "Pelo Animal Grosso",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "Dns4MEGuhT5fcRWocI5o9Q",
+  "nome_en": "Coarse Thread",
+  "nome_ptbr": "Coarse Thread",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "NUzVKEXAML0DLYSjTIBmNA",
+  "nome_en": "Coclear Malificarum",
+  "nome_ptbr": "Coclear Malificarum",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "8Ftd_kB5cANr16a6Bd8-OQ",
+  "nome_en": "Compost Bucket",
+  "nome_ptbr": "Compost Bucket",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "zjqmfU9J000ZgI2KPmKn1A",
+  "nome_en": "Construction Cape",
+  "nome_ptbr": "Construction Cape",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "JA0aYkWSKvomwwyEPugaew",
+  "nome_en": "Construction Cape (Trimmed)",
+  "nome_ptbr": "Construction Cape (Trimmed)",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "_4JQo0OOR41j8Pi0n5zQSg",
+  "nome_en": "Cooking Cape",
+  "nome_ptbr": "Cooking Cape",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "0sNNgEVZ-PmegQSXC8jsVA",
+  "nome_en": "Cooking Cape (Trimmed)",
+  "nome_ptbr": "Cooking Cape (Trimmed)",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "S7Kk_ZA9OEKZ8qwU9ciKCA",
+  "nome_en": "Copper Bar",
+  "nome_ptbr": "Barra de Cobre",
+  "categoria": "Barras",
+  "emoji": "🧱",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "A8Lx3sZhHEeG4GXsl4ZLZw",
+  "nome_en": "Copper Ore",
+  "nome_ptbr": "Minério de Cobre",
+  "categoria": "Minérios",
+  "emoji": "🪨",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "MFf5wEQrgk_E0d6hEWWVZw",
+  "nome_en": "Copper Salvage Pile",
+  "nome_ptbr": "Copper Salvage Pile",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "Qkty-0yfrzKyHcODIHnTag",
+  "nome_en": "Corpse Cotton",
+  "nome_ptbr": "Corpse Cotton",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "eE35XEZgqujcuBymNjnyBQ",
+  "nome_en": "Corpse Cotton Seeds",
+  "nome_ptbr": "Corpse Cotton Seeds",
+  "categoria": "Fazenda",
+  "emoji": "🌱",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "OILH0UHn-UXYOyCO-WZpeA",
+  "nome_en": "Corrupted Bonemeal",
+  "nome_ptbr": "Corrupted Bonemeal",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "uwJ2h0D8mYBU6yuUUpM1VA",
+  "nome_en": "Corrupted Bones",
+  "nome_ptbr": "Corrupted Bones",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "fsPKUkCx54AbTpGD4r0PxA",
+  "nome_en": "Corrupted Essence Sample",
+  "nome_ptbr": "Corrupted Essence Sample",
+  "categoria": "Criação de Runas",
+  "emoji": "✨",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "aNR2BUvdBFibOMGlrhZQ3Q",
+  "nome_en": "Crossbow Test",
+  "nome_ptbr": "Crossbow Test",
+  "categoria": "Bestas",
+  "emoji": "🏹",
+  "max_stack": 1,
+  "durabilidade": 850
+ },
+ {
+  "id": "FK7SwEPmPfVFztSXScvKQA",
+  "nome_en": "Crystal Bow",
+  "nome_ptbr": "Arco de Cristal",
+  "categoria": "Arcos",
+  "emoji": "🏹",
+  "max_stack": 1,
+  "durabilidade": 1050
+ },
+ {
+  "id": "JYGJbEV-DrOkn5SNR5sYKQ",
+  "nome_en": "Crystal Seed",
+  "nome_ptbr": "Semente de Cristal",
+  "categoria": "Fazenda",
+  "emoji": "🌱",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "ObT03UmkX-U-WJ667Rk0vA",
+  "nome_en": "Curse Fragment (Despair)",
+  "nome_ptbr": "Curse Fragment (Despair)",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "o9Nec0TWzFiYJIeiYQBjVw",
+  "nome_en": "Curse Fragment (Grief)",
+  "nome_ptbr": "Curse Fragment (Grief)",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "TQY6cUXdLjzqCIuXB3vAvw",
+  "nome_en": "Curse Fragment (Rage)",
+  "nome_ptbr": "Curse Fragment (Rage)",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "6Q2aa09-rSWpFnuKzGU7Ng",
+  "nome_en": "Cursed Essence",
+  "nome_ptbr": "Cursed Essence",
+  "categoria": "Criação de Runas",
+  "emoji": "✨",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "-Snbh0BHw6XkZgSMX_PiEQ",
+  "nome_en": "Cursed Leather",
+  "nome_ptbr": "Couro Amaldiçoado",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "M3Y6KEIGYrsnS8-j5ewQxw",
+  "nome_en": "Dark Mage Hood",
+  "nome_ptbr": "Dark Mage Hood",
+  "categoria": "Elmos",
+  "emoji": "⛑️",
+  "max_stack": 1,
+  "durabilidade": 1500
+ },
+ {
+  "id": "hWGilEcAZgtX2JWejH4ncA",
+  "nome_en": "Dark Mage Robe Legs",
+  "nome_ptbr": "Dark Mage Robe Legs",
+  "categoria": "Peitorais",
+  "emoji": "👕",
+  "max_stack": 1,
+  "durabilidade": 1500
+ },
+ {
+  "id": "9QZ0eUU7xVxKhq-_nMoCcQ",
+  "nome_en": "Dark Mage Robes",
+  "nome_ptbr": "Dark Mage Robes",
+  "categoria": "Peitorais",
+  "emoji": "👕",
+  "max_stack": 1,
+  "durabilidade": 1500
+ },
+ {
+  "id": "MQy_2E_pqnq7HbWzzSZKSA",
+  "nome_en": "Demonic Oil",
+  "nome_ptbr": "Demonic Oil",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "m3q-xERQoHTPDJehWwOFtQ",
+  "nome_en": "Diamond",
+  "nome_ptbr": "Diamante",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "wqBk-EZDxcfPtH6VdUnlNg",
+  "nome_en": "Dire Wolf Hide",
+  "nome_ptbr": "Pele de Lobo Atroz",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "Rex-3ECcbilpOVqd6zWpIQ",
+  "nome_en": "Dire Wolf Leather",
+  "nome_ptbr": "Couro de Lobo Atroz",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "xii8Q0dRJsnevvKv1g2bNQ",
+  "nome_en": "Dirty Water",
+  "nome_ptbr": "Água Suja",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "TODWPUpA_YR0EnaqhMstcQ",
+  "nome_en": "Divine Cabbage",
+  "nome_ptbr": "Divine Cabbage",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "eWL0U0dnOlww-eCyIIbDFA",
+  "nome_en": "Dorgeshuun Crossbow",
+  "nome_ptbr": "Dorgeshuun Crossbow",
+  "categoria": "Bestas",
+  "emoji": "🏹",
+  "max_stack": 1,
+  "durabilidade": 1300
+ },
+ {
+  "id": "I6vnJEJsqmY_vkCyq2O8ZQ",
+  "nome_en": "Doric's Smithing Supplies",
+  "nome_ptbr": "Doric's Smithing Supplies",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 10,
+  "durabilidade": null
+ },
+ {
+  "id": "J7PEt0SHxNA7Ymi68Dqmww",
+  "nome_en": "Doric's Superior Smithing Supplies",
+  "nome_ptbr": "Doric's Superior Smithing Supplies",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 10,
+  "durabilidade": null
+ },
+ {
+  "id": "riwrC0Y5m40rZQmr4XkJoQ",
+  "nome_en": "Dowdun Reach Cape",
+  "nome_ptbr": "Dowdun Reach Cape",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "jmA4D0DSEBYxDMWYne8frQ",
+  "nome_en": "Draconic Leather",
+  "nome_ptbr": "Couro Dracônico",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "YKrGVEhV12fODCGWxhK9qg",
+  "nome_en": "Draconic Leather Scraps",
+  "nome_ptbr": "Retalhos de Couro Dracônico",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "ALn1jUyxkFwgIHmHAGkoxg",
+  "nome_en": "Draconic Staff",
+  "nome_ptbr": "Draconic Staff",
+  "categoria": "Cajados",
+  "emoji": "🪄",
+  "max_stack": 1,
+  "durabilidade": 1100
+ },
+ {
+  "id": "9D2K3U9jvwZc85KkIZjAFQ",
+  "nome_en": "Draconic Visage",
+  "nome_ptbr": "Draconic Visage",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "5lnCBEUmEDbANTWVRn3nDA",
+  "nome_en": "Dragon Blood",
+  "nome_ptbr": "Dragon Blood",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "zGz3MkD3vLq_D1uuA2S44g",
+  "nome_en": "Dragon Slayer Reward Pack",
+  "nome_ptbr": "Dragon Slayer Reward Pack",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 10,
+  "durabilidade": null
+ },
+ {
+  "id": "6LQtMkNzIZBdrgyeiP0fqg",
+  "nome_en": "Dragon Slayer Reward Pack",
+  "nome_ptbr": "Dragon Slayer Reward Pack",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 10,
+  "durabilidade": null
+ },
+ {
+  "id": "qelCL0cKP9oFmYaJkKg6wA",
+  "nome_en": "Dragon Tooth",
+  "nome_ptbr": "Dragon Tooth",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "1ReHrk6Keawr5E-eQ8WTCg",
+  "nome_en": "Dragonbane Cape",
+  "nome_ptbr": "Dragonbane Cape",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "RyuOEkWEWdGcvQqo2dPOgA",
+  "nome_en": "Dragonblight Shield",
+  "nome_ptbr": "Dragonblight Shield",
+  "categoria": "Escudos",
+  "emoji": "🛡️",
+  "max_stack": 1,
+  "durabilidade": 1300
+ },
+ {
+  "id": "4bMdm0gvxNqxKSaQjGtFmQ",
+  "nome_en": "Dragonbone Dagger",
+  "nome_ptbr": "Dragonbone Dagger",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 1300
+ },
+ {
+  "id": "qFp5MUMthbeEIx6vWCRNJA",
+  "nome_en": "Dragoncurse Shield",
+  "nome_ptbr": "Dragoncurse Shield",
+  "categoria": "Escudos",
+  "emoji": "🛡️",
+  "max_stack": 1,
+  "durabilidade": 1300
+ },
+ {
+  "id": "GutTdkwskIsX75i6-CilJA",
+  "nome_en": "Dragonkin Mage Hood",
+  "nome_ptbr": "Dragonkin Mage Hood",
+  "categoria": "Elmos",
+  "emoji": "⛑️",
+  "max_stack": 1,
+  "durabilidade": 1400
+ },
+ {
+  "id": "uDBybUNuv5UipiSXb8BG-A",
+  "nome_en": "Dragonkin Mage Robe Legs",
+  "nome_ptbr": "Dragonkin Mage Robe Legs",
+  "categoria": "Peitorais",
+  "emoji": "👕",
+  "max_stack": 1,
+  "durabilidade": 1400
+ },
+ {
+  "id": "rXtN2EZOq9NpnL-WyVpF8Q",
+  "nome_en": "Dragonkin Mage Robes",
+  "nome_ptbr": "Dragonkin Mage Robes",
+  "categoria": "Peitorais",
+  "emoji": "👕",
+  "max_stack": 1,
+  "durabilidade": 1500
+ },
+ {
+  "id": "vMLqpkZGH4brfHatrG1ktg",
+  "nome_en": "Dragonwolf Hide",
+  "nome_ptbr": "Pele de Lobo-Dragão",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "wmCh2EyCLaKL77eM21cPww",
+  "nome_en": "Dried Cadavaberries",
+  "nome_ptbr": "Dried Cadavaberries",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "QpxVI0bu8fcLkpuM7HrEaw",
+  "nome_en": "Dried Dwellberries",
+  "nome_ptbr": "Dried Dwellberries",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "QhL0n0vYFVaK0Jyu0N96vg",
+  "nome_en": "Dried Peach",
+  "nome_ptbr": "Dried Peach",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "sGZHV0IIuJLCDIyGNNBMbA",
+  "nome_en": "Dried Redberries",
+  "nome_ptbr": "Dried Redberries",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "EacnEk2SKqmy6zGxnrhpRw",
+  "nome_en": "Druid's Bandosian Amulet",
+  "nome_ptbr": "Amuleto Bandosiano do Druida",
+  "categoria": "Amuletos",
+  "emoji": "📿",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "PNna20ypp8utF-KAq0xgTA",
+  "nome_en": "Dubious Meat Pie",
+  "nome_ptbr": "Dubious Meat Pie",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "P-cDcE4TaF32sN-q8Z3T3w",
+  "nome_en": "Dust-covered Sketchbook",
+  "nome_ptbr": "Dust-covered Sketchbook",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "eCBq3UiiNADih26zDQBTVQ",
+  "nome_en": "Dwellberries",
+  "nome_ptbr": "Dwellberries",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "TitYzk-CcDdnIrGzbUT7hg",
+  "nome_en": "Dwellberry Crunchies",
+  "nome_ptbr": "Dwellberry Crunchies",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "08JlYEx5Tw0YVv-VhX8dmw",
+  "nome_en": "Dwellberry Crunchies",
+  "nome_ptbr": "Dwellberry Crunchies",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "KxVJGk9-oaTznrKsVgwMPQ",
+  "nome_en": "Dwellberry Glazed Roast Flank",
+  "nome_ptbr": "Dwellberry Glazed Roast Flank",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "Fy-bB0PP2zL0eQ6MBRBfrg",
+  "nome_en": "Dwellberry Glazed Roast Meat",
+  "nome_ptbr": "Dwellberry Glazed Roast Meat",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "x0HE4knFLcQj2sGI_4fYAA",
+  "nome_en": "Dwellberry Infusion",
+  "nome_ptbr": "Dwellberry Infusion",
+  "categoria": "Poções",
+  "emoji": "🧪",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "-jEah0znNr-2UVmbHK-Hqg",
+  "nome_en": "Dwellberry Infusion",
+  "nome_ptbr": "Dwellberry Infusion",
+  "categoria": "Poções",
+  "emoji": "🧪",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "9TCHHEYRZOvy0KWszdfntA",
+  "nome_en": "Dwellberry seeds",
+  "nome_ptbr": "Dwellberry seeds",
+  "categoria": "Fazenda",
+  "emoji": "🌱",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "lCE7i3iXGUuHv7FphIOcXg",
+  "nome_en": "Earth Rune",
+  "nome_ptbr": "Runa de Terra",
+  "categoria": "Runas",
+  "emoji": "✨",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "RduYgUn8zLSQC7-A2zSQ5Q",
+  "nome_en": "Ectoplasm",
+  "nome_ptbr": "Ectoplasm",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "rRqyCURhyronhl-sJzypDQ",
+  "nome_en": "Egg",
+  "nome_ptbr": "Ovo",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "0NmV_UHzkAdk2cyGPwiWGA",
+  "nome_en": "Emerald",
+  "nome_ptbr": "Esmeralda",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "SrnYYkzaT5NgG0qSqB2wWg",
+  "nome_en": "Enchanted Blurite Bolt",
+  "nome_ptbr": "Enchanted Blurite Bolt",
+  "categoria": "Flechas/Virotes",
+  "emoji": "🏹",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "lNc-PUngnrFoIP-h6Vlugg",
+  "nome_en": "Enchanted Bronze Bolt",
+  "nome_ptbr": "Enchanted Bronze Bolt",
+  "categoria": "Flechas/Virotes",
+  "emoji": "🏹",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "HMZvK0ItELqUlmm4i5HqSQ",
+  "nome_en": "Enchanted Iron Bolt",
+  "nome_ptbr": "Enchanted Iron Bolt",
+  "categoria": "Flechas/Virotes",
+  "emoji": "🏹",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "J1kfmEkc5vYMULq4SD95pw",
+  "nome_en": "Enchanted Mithril Bolt",
+  "nome_ptbr": "Enchanted Mithril Bolt",
+  "categoria": "Flechas/Virotes",
+  "emoji": "🏹",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "sPbq7UpGgQcvbduqbSGJOg",
+  "nome_en": "Enchanted Steel Bolt",
+  "nome_ptbr": "Enchanted Steel Bolt",
+  "categoria": "Flechas/Virotes",
+  "emoji": "🏹",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "cZ6va0BSo6_5Dg2Pi23lUQ",
+  "nome_en": "Evasive Infusion",
+  "nome_ptbr": "Infusão Evasiva",
+  "categoria": "Poções",
+  "emoji": "🧪",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "xyVlYUoDcHIK3m6-pTk6Zg",
+  "nome_en": "Eventide - A New Spawn",
+  "nome_ptbr": "Eventide - A New Spawn",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "CzzuQ0UmzK3-A5WiBJlCHw",
+  "nome_en": "Fallen Hoplite's Aspis",
+  "nome_ptbr": "Fallen Hoplite's Aspis",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 1,
+  "durabilidade": 1300
+ },
+ {
+  "id": "GWoGx0DvRmSKv-C5qrN4XA",
+  "nome_en": "Fallen Hoplite's Chest",
+  "nome_ptbr": "Fallen Hoplite's Chest",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 1,
+  "durabilidade": 1500
+ },
+ {
+  "id": "-BgOoUB7RMsOpKWrA-TvlQ",
+  "nome_en": "Fallen Hoplite's Helm",
+  "nome_ptbr": "Fallen Hoplite's Helm",
+  "categoria": "Elmos",
+  "emoji": "⛑️",
+  "max_stack": 1,
+  "durabilidade": 1500
+ },
+ {
+  "id": "GJGz00NubkS7VNGcOcqFdA",
+  "nome_en": "Fallen Hoplite's Tassets",
+  "nome_ptbr": "Fallen Hoplite's Tassets",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 1,
+  "durabilidade": 1500
+ },
+ {
+  "id": "2vSF4Se4MkWaZG0pHYcb8g",
+  "nome_en": "Fang Arrow",
+  "nome_ptbr": "Fang Arrow",
+  "categoria": "Flechas/Virotes",
+  "emoji": "🏹",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "eUkqBUfmU0Z7i1eWFoBlhA",
+  "nome_en": "Fang Barbed Arrow",
+  "nome_ptbr": "Fang Barbed Arrow",
+  "categoria": "Flechas/Virotes",
+  "emoji": "🏹",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "dc8yKUHcqpatyH2TAfF_vg",
+  "nome_en": "Fang Fire Arrow",
+  "nome_ptbr": "Fang Fire Arrow",
+  "categoria": "Flechas/Virotes",
+  "emoji": "🏹",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "8hjk70ccFwmYrzadV3T4MQ",
+  "nome_en": "Farming Cape",
+  "nome_ptbr": "Farming Cape",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "Zy0OukyYj_d3176y0io0zQ",
+  "nome_en": "Farming Cape (Trimmed)",
+  "nome_ptbr": "Farming Cape (Trimmed)",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "v5MSO2Wz4ke5xOGvKC5GlQ",
+  "nome_en": "Feathers",
+  "nome_ptbr": "Penas",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "bseydkEw3fTibEODEw9VJw",
+  "nome_en": "Fellhollow Cape",
+  "nome_ptbr": "Fellhollow Cape",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "F92_I0JuQtcVUGeHNkKn_g",
+  "nome_en": "Ferocious Infusion",
+  "nome_ptbr": "Ferocious Infusion",
+  "categoria": "Poções",
+  "emoji": "🧪",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "igveHUWYg2AeXe69EwW1PA",
+  "nome_en": "Ferocious Infusion",
+  "nome_ptbr": "Ferocious Infusion",
+  "categoria": "Poções",
+  "emoji": "🧪",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "TBfPmUBQqV_F0pCG34_XkQ",
+  "nome_en": "Fillet",
+  "nome_ptbr": "Fillet",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "cZiciUse9nReAtG6kIHa8w",
+  "nome_en": "Fine Cloth",
+  "nome_ptbr": "Fine Cloth",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "5MS2l0bmkh8K8PaYjdbviw",
+  "nome_en": "Fine Thread",
+  "nome_ptbr": "Fine Thread",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "6Z9gGkjXwODcqvCBFRmlEA",
+  "nome_en": "Fire Oil",
+  "nome_ptbr": "Fire Oil",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 999,
+  "durabilidade": 525
+ },
+ {
+  "id": "LaW8m0ibg39l4ESl58Ddtg",
+  "nome_en": "Fire Oil",
+  "nome_ptbr": "Fire Oil",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "_QMgbMYhjU-9jAD_euFbyQ",
+  "nome_en": "Fire Rune",
+  "nome_ptbr": "Runa de Fogo",
+  "categoria": "Runas",
+  "emoji": "✨",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "NeMd5ktRmFW1ZWqnCwsxKA",
+  "nome_en": "Flank Steak",
+  "nome_ptbr": "Flank Steak",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "J3Ord4Mjnk-zz-Of_0oL8w",
+  "nome_en": "Flax",
+  "nome_ptbr": "Linho",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "A9hQfkjtyPUlXI-8vKm2mA",
+  "nome_en": "Flax seeds",
+  "nome_ptbr": "Flax seeds",
+  "categoria": "Fazenda",
+  "emoji": "🌱",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "mZWtu9Ir9ECtl0a7cV7uJw",
+  "nome_en": "Fleece",
+  "nome_ptbr": "Fleece",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "PZdR5E2sYqyUe-2JgBsCfA",
+  "nome_en": "Fleet-Footed Infusion",
+  "nome_ptbr": "Fleet-Footed Infusion",
+  "categoria": "Poções",
+  "emoji": "🧪",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "O3DuSEokXuaKPYGrNvVlwA",
+  "nome_en": "Focused Artisan Potion",
+  "nome_ptbr": "Focused Artisan Potion",
+  "categoria": "Poções",
+  "emoji": "🧪",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "RomgrUiURBzTRI28nkVp8A",
+  "nome_en": "Focused Attack Potion",
+  "nome_ptbr": "Focused Attack Potion",
+  "categoria": "Poções",
+  "emoji": "🧪",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "MbWSZkyQnryh54WAtlg-xQ",
+  "nome_en": "Focused Construction Potion",
+  "nome_ptbr": "Focused Construction Potion",
+  "categoria": "Poções",
+  "emoji": "🧪",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "_nUun0yU3ymRFRq8DWWDQA",
+  "nome_en": "Focused Cooking Potion",
+  "nome_ptbr": "Focused Cooking Potion",
+  "categoria": "Poções",
+  "emoji": "🧪",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "-kNFWkMMc8GUHZW1VaElAg",
+  "nome_en": "Focused Farming Potion",
+  "nome_ptbr": "Focused Farming Potion",
+  "categoria": "Poções",
+  "emoji": "🧪",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "t1k7T0TV-Lou_TGjFa7tdQ",
+  "nome_en": "Focused Mining Potion",
+  "nome_ptbr": "Focused Mining Potion",
+  "categoria": "Poções",
+  "emoji": "🧪",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "39PNfE4HZA4y90yp0QkUQw",
+  "nome_en": "Focused Runecrafting Potion",
+  "nome_ptbr": "Focused Runecrafting Potion",
+  "categoria": "Runas",
+  "emoji": "✨",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "WtYl3UJM-qk92JOuu7c7rg",
+  "nome_en": "Focused Woodcutting Potion",
+  "nome_ptbr": "Focused Woodcutting Potion",
+  "categoria": "Lenha",
+  "emoji": "🌲",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "-OS_Ykn42MiPUQm0trK0mA",
+  "nome_en": "Forager's Sandwich",
+  "nome_ptbr": "Forager's Sandwich",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "KC5DW0XcQiikzPymCSlVZQ",
+  "nome_en": "Fortifying Crunchies",
+  "nome_ptbr": "Fortifying Crunchies",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "O9t9Kknjb4lXvNKsNl7Vrg",
+  "nome_en": "Fortifying Soup",
+  "nome_ptbr": "Fortifying Soup",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "Xq3aqE2osbcagCKBy8A_kg",
+  "nome_en": "Fortifying Stew",
+  "nome_ptbr": "Fortifying Stew",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "71LhGUmAvrlALY6KcS8W3Q",
+  "nome_en": "Fractured Cape",
+  "nome_ptbr": "Fractured Cape",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "DQdI2EZLlP0EJB2C6_R28w",
+  "nome_en": "Fried Cabbage",
+  "nome_ptbr": "Fried Cabbage",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "F1bM9Uvl1eIYiOmstBB_Qg",
+  "nome_en": "Fried Egg",
+  "nome_ptbr": "Fried Egg",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "yEEiukHPM7htB4WeWEXeWg",
+  "nome_en": "Fried Onions",
+  "nome_ptbr": "Fried Onions",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "i8oivkt7LRX5FSm2hBJC_A",
+  "nome_en": "Fruit Pie",
+  "nome_ptbr": "Fruit Pie",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "Br8lTU45wX65kDigZkkgAg",
+  "nome_en": "Fuel Pellet",
+  "nome_ptbr": "Fuel Pellet",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "q6popEFaVyrZbq6kc0-Drg",
+  "nome_en": "Garou Highborn's Cloak",
+  "nome_ptbr": "Garou Highborn's Cloak",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "XII5rkqVhw9I3sWWZNKteA",
+  "nome_en": "Garou Pack",
+  "nome_ptbr": "Mochila Garou",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "EZGayEl5U_ZQaZSscJGZQg",
+  "nome_en": "Ghostspeak Amulet",
+  "nome_ptbr": "Amuleto Fala-Fantasma",
+  "categoria": "Amuletos",
+  "emoji": "📿",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "vnB8VE9uS_fKRz6AHgTjMQ",
+  "nome_en": "Glass Decoration",
+  "nome_ptbr": "Glass Decoration",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "PeVzmkAypE8k92yqKOvaDQ",
+  "nome_en": "Glass Owl",
+  "nome_ptbr": "Glass Owl",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "fVBHgEoB-OOVgcarewJngQ",
+  "nome_en": "Glass Pane",
+  "nome_ptbr": "Glass Pane",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "fliBkkBZfNJwhpej98Q2xA",
+  "nome_en": "Glass Vessel",
+  "nome_ptbr": "Glass Vessel",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 20,
+  "durabilidade": null
+ },
+ {
+  "id": "2n1dCkUcVAbIIXGM5w7BOQ",
+  "nome_en": "Glazed Pumpkin Sandwich",
+  "nome_ptbr": "Glazed Pumpkin Sandwich",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "OJSTGEEY6uNu4beRiM4Qvw",
+  "nome_en": "Goblin \"Swingslash\"",
+  "nome_ptbr": "Goblin \"Swingslash\"",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 1,
+  "durabilidade": 850
+ },
+ {
+  "id": "zm9DtUc8ieNZpWe7ioL_KA",
+  "nome_en": "Goblin Pack",
+  "nome_ptbr": "Goblin Pack",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "24_UV0P2zlDAbcy48UOCkA",
+  "nome_en": "Goblin War Banner",
+  "nome_ptbr": "Goblin War Banner",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "9jFU2lh9l0qPbNTspGCBFA",
+  "nome_en": "Gold Bar",
+  "nome_ptbr": "Barra de Ouro",
+  "categoria": "Barras",
+  "emoji": "🧱",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "D-BzgHFSHkyc53teVzmBNA",
+  "nome_en": "Gold Ore",
+  "nome_ptbr": "Minério de Ouro",
+  "categoria": "Minérios",
+  "emoji": "🪨",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "N3j6PU0B10HRf2eg7RKk-g",
+  "nome_en": "Gold Salvage Pile",
+  "nome_ptbr": "Gold Salvage Pile",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "D-8qyESiEHxIW06KSbukYA",
+  "nome_en": "Gourmand Ring",
+  "nome_ptbr": "Gourmand Ring",
+  "categoria": "Anéis",
+  "emoji": "💍",
+  "max_stack": 1,
+  "durabilidade": 1000
+ },
+ {
+  "id": "83Kcm0CpBOcYsk-eo-dfMw",
+  "nome_en": "Granite",
+  "nome_ptbr": "Granite",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "yte2PUYaqeYZH02J_aviEg",
+  "nome_en": "Granite Maul",
+  "nome_ptbr": "Granite Maul",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 1050
+ },
+ {
+  "id": "FzZcg0K5osblXSuuSNACQA",
+  "nome_en": "Granite Maul Blueprints",
+  "nome_ptbr": "Granite Maul Blueprints",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "CRrbdEE2rAkyseGLyfPykw",
+  "nome_en": "Green Adventurer's Cape",
+  "nome_ptbr": "Green Adventurer's Cape",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "UzelPUO0iC4x54K2-iWu4g",
+  "nome_en": "Green Dragon Hide",
+  "nome_ptbr": "Pele de Dragão Verde",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "Mlkavkm7yQziKpK9IHNYeQ",
+  "nome_en": "Green Dragonhide Body",
+  "nome_ptbr": "Corpete de Pele de Dragão Verde",
+  "categoria": "Peitorais",
+  "emoji": "👕",
+  "max_stack": 1,
+  "durabilidade": 1250
+ },
+ {
+  "id": "t4RxskBsdSppCcuzclu5dw",
+  "nome_en": "Green Dragonhide Chaps",
+  "nome_ptbr": "Perneiras de Pele de Dragão Verde",
+  "categoria": "Perneiras",
+  "emoji": "👖",
+  "max_stack": 1,
+  "durabilidade": 1250
+ },
+ {
+  "id": "tlpgIklcNBMK7I2F3J2yrw",
+  "nome_en": "Green Dragonhide Coif",
+  "nome_ptbr": "Coifa de Pele de Dragão Verde",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 1,
+  "durabilidade": 1250
+ },
+ {
+  "id": "cVt3BEoa7Bh6k_KasKqLAA",
+  "nome_en": "Green Dragonhide Leather",
+  "nome_ptbr": "Couro de Dragão Verde",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "cJYRJkMwnjzYn8OanAzqPw",
+  "nome_en": "Green Dyad Cape",
+  "nome_ptbr": "Green Dyad Cape",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "H6zBeUnAuw2IqmuEx2dwWQ",
+  "nome_en": "Green Hex Cape",
+  "nome_ptbr": "Green Hex Cape",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "hS_GuEyi70Xf932m1rq7PA",
+  "nome_en": "Grieving Moon Staff",
+  "nome_ptbr": "Grieving Moon Staff",
+  "categoria": "Cajados",
+  "emoji": "🪄",
+  "max_stack": 1,
+  "durabilidade": 1050
+ },
+ {
+  "id": "ftNa7ksUxtKfXxixt-o_8w",
+  "nome_en": "Grilled Mushrooms",
+  "nome_ptbr": "Grilled Mushrooms",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "NyjLt0Sz3UzrqKWOZpiYmw",
+  "nome_en": "Grilled Tomatoes",
+  "nome_ptbr": "Grilled Tomatoes",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "rWBJXE0R1i0I_muWFNMOnQ",
+  "nome_en": "Grilled Trout",
+  "nome_ptbr": "Grilled Trout",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "GXtUfUZIYgpsYAGE4y5vEg",
+  "nome_en": "Ground Clay",
+  "nome_ptbr": "Ground Clay",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "Cu5DREB0z4_XYRGkXu8U9A",
+  "nome_en": "Ground Granite",
+  "nome_ptbr": "Ground Granite",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "c_9pmE2aOHVeZc67chNeNQ",
+  "nome_en": "Ground Limestone",
+  "nome_ptbr": "Ground Limestone",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "FcnXn0Sq3OS7tJKuCRAc1A",
+  "nome_en": "Ground Sandstone",
+  "nome_ptbr": "Ground Sandstone",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "guCjkksBOmEcLFut-VH-qg",
+  "nome_en": "Ground Stone",
+  "nome_ptbr": "Ground Stone",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "UyIYrQzoTkaR04aJNXLTJQ",
+  "nome_en": "Hard Leather",
+  "nome_ptbr": "Couro Duro",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "80wGME-slvLF2weULpj8eQ",
+  "nome_en": "Hard Leather",
+  "nome_ptbr": "Couro Duro",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "h7tqvcgrDk2iGdD7TYwiSA",
+  "nome_en": "Hard Leather Body",
+  "nome_ptbr": "Corpete de Couro Duro",
+  "categoria": "Peitorais",
+  "emoji": "👕",
+  "max_stack": 1,
+  "durabilidade": 1250
+ },
+ {
+  "id": "7Ajx5nOVUUW6l8nU2YiLOA",
+  "nome_en": "Hard Leather Chaps",
+  "nome_ptbr": "Perneiras de Couro Duro",
+  "categoria": "Perneiras",
+  "emoji": "👖",
+  "max_stack": 1,
+  "durabilidade": 1250
+ },
+ {
+  "id": "wLzThnOQEUaw90mBnn8QTw",
+  "nome_en": "Hard Leather Cowl",
+  "nome_ptbr": "Capuz de Couro Duro",
+  "categoria": "Elmos",
+  "emoji": "⛑️",
+  "max_stack": 1,
+  "durabilidade": 1250
+ },
+ {
+  "id": "OHb33k_owf3LCoO3uWcK3w",
+  "nome_en": "Hard Leather Scraps",
+  "nome_ptbr": "Retalhos de Couro Duro",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "mJ4P8qzfy0Wg8OxrYc_NBA",
+  "nome_en": "Harralander",
+  "nome_ptbr": "Harralander",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "xXgE7EGhfL-DrgWWABTBQw",
+  "nome_en": "Harralander Seeds",
+  "nome_ptbr": "Harralander Seeds",
+  "categoria": "Fazenda",
+  "emoji": "🌱",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "pqhdt0z6D2sMGRWhCf5mkQ",
+  "nome_en": "Haunch",
+  "nome_ptbr": "Haunch",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "rxKE_k4GIeA6PSC8dKu6TQ",
+  "nome_en": "Healing Potion",
+  "nome_ptbr": "Healing Potion",
+  "categoria": "Poções",
+  "emoji": "🧪",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "_gj4SUtBZXfY6Vm7zFko9w",
+  "nome_en": "Hearty Crunchies",
+  "nome_ptbr": "Hearty Crunchies",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "j36nJ0b9Xat20KicKMGzHw",
+  "nome_en": "Hearty Fortifying Soup",
+  "nome_ptbr": "Hearty Fortifying Soup",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "j3p4M0t12J8IVHeC1bN4yg",
+  "nome_en": "Hearty Soup",
+  "nome_ptbr": "Hearty Soup",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "SNCcLEdRbF7GAwSkvob6NQ",
+  "nome_en": "Hearty Stew",
+  "nome_ptbr": "Hearty Stew",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "DX96203Z9RTWnbiguX1FYg",
+  "nome_en": "Herd Ring",
+  "nome_ptbr": "Herd Ring",
+  "categoria": "Anéis",
+  "emoji": "💍",
+  "max_stack": 1,
+  "durabilidade": 1000
+ },
+ {
+  "id": "Hrp4NUzvyg8dz-Gm1-z2DQ",
+  "nome_en": "Hermit Ring",
+  "nome_ptbr": "Hermit Ring",
+  "categoria": "Anéis",
+  "emoji": "💍",
+  "max_stack": 1,
+  "durabilidade": 1000
+ },
+ {
+  "id": "kSC5h08_DEq2H7CMAVDN9Q",
+  "nome_en": "Hollow Bark",
+  "nome_ptbr": "Hollow Bark",
+  "categoria": "Barras",
+  "emoji": "🧱",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "s7HI6EmvRXRq7T69epFpxg",
+  "nome_en": "Hunter Stagbow",
+  "nome_ptbr": "Hunter Stagbow",
+  "categoria": "Arcos",
+  "emoji": "🏹",
+  "max_stack": 1,
+  "durabilidade": 1300
+ },
+ {
+  "id": "ALQSs0j7loBVpum0CaDH2w",
+  "nome_en": "Imaru's Head",
+  "nome_ptbr": "Imaru's Head",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "X_OJeEp1PR4l08yW6_vpUQ",
+  "nome_en": "Imaru's Talon",
+  "nome_ptbr": "Imaru's Talon",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 1,
+  "durabilidade": 1300
+ },
+ {
+  "id": "TRQBZ0gufJDy-HWCsXysNw",
+  "nome_en": "Imbued Granite Maul Head",
+  "nome_ptbr": "Imbued Granite Maul Head",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "1kW1mUsw1eKjlOiBCMXcUg",
+  "nome_en": "Imbued Leather Wrappings",
+  "nome_ptbr": "Faixas de Couro Imbuídas",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "F73O1kqSP2Z-Y5SYg9F01A",
+  "nome_en": "Infernal Fragment",
+  "nome_ptbr": "Infernal Fragment",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "ZT4FAUAaZw_DF6GNkkvZ8g",
+  "nome_en": "Inspiring Amulet of Attack",
+  "nome_ptbr": "Inspiring Amulet of Attack",
+  "categoria": "Anéis",
+  "emoji": "💍",
+  "max_stack": 1,
+  "durabilidade": 32000
+ },
+ {
+  "id": "x8-RhkKqeWm0aTeFQB7tFQ",
+  "nome_en": "Inspiring Amulet of Magic",
+  "nome_ptbr": "Inspiring Amulet of Magic",
+  "categoria": "Anéis",
+  "emoji": "💍",
+  "max_stack": 1,
+  "durabilidade": 32000
+ },
+ {
+  "id": "oO9ajk1av01ia2yV89in8g",
+  "nome_en": "Inspiring Amulet of Ranged",
+  "nome_ptbr": "Inspiring Amulet of Ranged",
+  "categoria": "Anéis",
+  "emoji": "💍",
+  "max_stack": 1,
+  "durabilidade": 32000
+ },
+ {
+  "id": "hAKS80q9h0YE2fKH-W8HXw",
+  "nome_en": "Inspiring Ring of Artisan",
+  "nome_ptbr": "Inspiring Ring of Artisan",
+  "categoria": "Anéis",
+  "emoji": "💍",
+  "max_stack": 1,
+  "durabilidade": 32000
+ },
+ {
+  "id": "U1Os5ksV_1mgE-uIXQwTfg",
+  "nome_en": "Inspiring Ring of Construction",
+  "nome_ptbr": "Inspiring Ring of Construction",
+  "categoria": "Anéis",
+  "emoji": "💍",
+  "max_stack": 1,
+  "durabilidade": 32000
+ },
+ {
+  "id": "4Nk2sUk3L3uP46uv4Ihn_A",
+  "nome_en": "Inspiring Ring of Cooking",
+  "nome_ptbr": "Inspiring Ring of Cooking",
+  "categoria": "Anéis",
+  "emoji": "💍",
+  "max_stack": 1,
+  "durabilidade": 32000
+ },
+ {
+  "id": "6hSlpEgZOEEhEWSHFD6dYQ",
+  "nome_en": "Inspiring Ring of Farming",
+  "nome_ptbr": "Inspiring Ring of Farming",
+  "categoria": "Anéis",
+  "emoji": "💍",
+  "max_stack": 1,
+  "durabilidade": 32000
+ },
+ {
+  "id": "GFXou0YGkMmxiM2yPMitnw",
+  "nome_en": "Inspiring Ring of Mining",
+  "nome_ptbr": "Inspiring Ring of Mining",
+  "categoria": "Anéis",
+  "emoji": "💍",
+  "max_stack": 1,
+  "durabilidade": 32000
+ },
+ {
+  "id": "qtlVPEDKintQLXmG96cfOQ",
+  "nome_en": "Inspiring Ring of Runecrafting",
+  "nome_ptbr": "Inspiring Ring of Runecrafting",
+  "categoria": "Anéis",
+  "emoji": "💍",
+  "max_stack": 1,
+  "durabilidade": 32000
+ },
+ {
+  "id": "ZLyl5EG2nofK0nqCQa2fRg",
+  "nome_en": "Inspiring Ring of Woodcutting",
+  "nome_ptbr": "Inspiring Ring of Woodcutting",
+  "categoria": "Anéis",
+  "emoji": "💍",
+  "max_stack": 1,
+  "durabilidade": 32000
+ },
+ {
+  "id": "_xTATEjgarvMXg2zfD5Sgw",
+  "nome_en": "Irit",
+  "nome_ptbr": "Irit",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "98YO40YpmUX_hU2NCcYo-w",
+  "nome_en": "Irit Seeds",
+  "nome_ptbr": "Irit Seeds",
+  "categoria": "Fazenda",
+  "emoji": "🌱",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "1-eS15sb9UW_8kRzIMyV6g",
+  "nome_en": "Iron Arrow",
+  "nome_ptbr": "Flecha de Ferro",
+  "categoria": "Flechas/Virotes",
+  "emoji": "🏹",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "Ng6eFNNuiU-VdxSoZtI6kA",
+  "nome_en": "Iron Bar",
+  "nome_ptbr": "Barra de Ferro",
+  "categoria": "Barras",
+  "emoji": "🧱",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "Xde3IkVxOOQUi3KnyJlf4Q",
+  "nome_en": "Iron Barbed Arrow",
+  "nome_ptbr": "Iron Barbed Arrow",
+  "categoria": "Flechas/Virotes",
+  "emoji": "🏹",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "zqjy1Eimxm0DyYOgnCMLrQ",
+  "nome_en": "Iron Bolt",
+  "nome_ptbr": "Virote de Ferro",
+  "categoria": "Flechas/Virotes",
+  "emoji": "🏹",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "igBY5kj2IGsY97C_dPJS2A",
+  "nome_en": "Iron Crossbow",
+  "nome_ptbr": "Besta de Ferro",
+  "categoria": "Bestas",
+  "emoji": "🏹",
+  "max_stack": 1,
+  "durabilidade": 1300
+ },
+ {
+  "id": "VlhCS0xKcZzgC3igVdQ38w",
+  "nome_en": "Iron Crossbow Limbs",
+  "nome_ptbr": "Iron Crossbow Limbs",
+  "categoria": "Bestas",
+  "emoji": "🏹",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "NmzyVLMIY0SYZfOAPICeKg",
+  "nome_en": "Iron Dagger",
+  "nome_ptbr": "Adaga de Ferro",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 1300
+ },
+ {
+  "id": "WuWEGkTx52fygdqsgCtQlg",
+  "nome_en": "Iron Fire Arrow",
+  "nome_ptbr": "Iron Fire Arrow",
+  "categoria": "Flechas/Virotes",
+  "emoji": "🏹",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "d-s3s5ciWkSi_Q4p-XaMoA",
+  "nome_en": "Iron Greataxe",
+  "nome_ptbr": "Iron Greataxe",
+  "categoria": "Ferramentas",
+  "emoji": "⛏️",
+  "max_stack": 1,
+  "durabilidade": 1300
+ },
+ {
+  "id": "kpJmEG1D10ylMOFHGfJQrA",
+  "nome_en": "Iron Greatsword",
+  "nome_ptbr": "Espadão de Ferro",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 1300
+ },
+ {
+  "id": "PxHJuE6PgUKY-zugyUXSUQ",
+  "nome_en": "Iron Helmet",
+  "nome_ptbr": "Elmo de Ferro",
+  "categoria": "Elmos",
+  "emoji": "⛑️",
+  "max_stack": 1,
+  "durabilidade": 1500
+ },
+ {
+  "id": "YvBVZjzx_UKN9z1wIPzlrA",
+  "nome_en": "Iron Logging Axe",
+  "nome_ptbr": "Machado de Lenhador de Ferro",
+  "categoria": "Ferramentas",
+  "emoji": "⛏️",
+  "max_stack": 1,
+  "durabilidade": 2400
+ },
+ {
+  "id": "hThLR2Lk6kODfRRmAs4YBQ",
+  "nome_en": "Iron Mace",
+  "nome_ptbr": "Maça de Ferro",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 1,
+  "durabilidade": 1300
+ },
+ {
+  "id": "rTRm3cGOmUm1h1BMEYzTwA",
+  "nome_en": "Iron Ore",
+  "nome_ptbr": "Minério de Ferro",
+  "categoria": "Minérios",
+  "emoji": "🪨",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "VfaynRGcAkammV5YUusfbA",
+  "nome_en": "Iron Pickaxe",
+  "nome_ptbr": "Picareta de Ferro",
+  "categoria": "Ferramentas",
+  "emoji": "⛏️",
+  "max_stack": 1,
+  "durabilidade": 2100
+ },
+ {
+  "id": "CAtRgsni70SltXq4uzs6Yg",
+  "nome_en": "Iron Platebody",
+  "nome_ptbr": "Peitoral de Ferro",
+  "categoria": "Peitorais",
+  "emoji": "👕",
+  "max_stack": 1,
+  "durabilidade": 1500
+ },
+ {
+  "id": "lWABtugu90SEqpE70Gf8ew",
+  "nome_en": "Iron Platelegs",
+  "nome_ptbr": "Perneiras de Ferro",
+  "categoria": "Perneiras",
+  "emoji": "👖",
+  "max_stack": 1,
+  "durabilidade": 1500
+ },
+ {
+  "id": "Tj74XUA3OnBMIT6cuvbIiQ",
+  "nome_en": "Iron Salvage Pile",
+  "nome_ptbr": "Iron Salvage Pile",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "_zH6rkxCUB_Le9yGzumsmg",
+  "nome_en": "Iron Secateurs",
+  "nome_ptbr": "Iron Secateurs",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "tkzekFdbDkCd-7MwOjfbnQ",
+  "nome_en": "Iron Shield",
+  "nome_ptbr": "Escudo de Ferro",
+  "categoria": "Escudos",
+  "emoji": "🛡️",
+  "max_stack": 1,
+  "durabilidade": 1300
+ },
+ {
+  "id": "gFA3V8-Y5UGLPAtJKYNnTw",
+  "nome_en": "Iron Sword",
+  "nome_ptbr": "Espada de Ferro",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 1300
+ },
+ {
+  "id": "o9zzhev_YEulDWv5D8vI3A",
+  "nome_en": "Iron Warhammer",
+  "nome_ptbr": "Martelo de Guerra de Ferro",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 1300
+ },
+ {
+  "id": "hzztKE-CsjtgVaWFJoTw2w",
+  "nome_en": "Jade",
+  "nome_ptbr": "Jade",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "iTb_WUUHO2kAez65O2a4PA",
+  "nome_en": "Kwuarm",
+  "nome_ptbr": "Kwuarm",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "8gFmQkZfAW468MqU3rXlug",
+  "nome_en": "Kwuarm Seeds",
+  "nome_ptbr": "Kwuarm Seeds",
+  "categoria": "Fazenda",
+  "emoji": "🌱",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "GC6S207zgsmHryqJEdEQaQ",
+  "nome_en": "Large Wardstone",
+  "nome_ptbr": "Large Wardstone",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 25,
+  "durabilidade": null
+ },
+ {
+  "id": "_c9JTkwKy8s88GWv586hbQ",
+  "nome_en": "Law Rune",
+  "nome_ptbr": "Runa da Lei",
+  "categoria": "Runas",
+  "emoji": "✨",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "KejxKZhqBEy2BmyMUMidlA",
+  "nome_en": "Leather",
+  "nome_ptbr": "Couro",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "XT0Zft6J30iLvjVNxnzw6Q",
+  "nome_en": "Leather Body",
+  "nome_ptbr": "Corpete de Couro",
+  "categoria": "Peitorais",
+  "emoji": "👕",
+  "max_stack": 1,
+  "durabilidade": 1000
+ },
+ {
+  "id": "Q6DUGmTWNkG5S1Ki_5Nz1w",
+  "nome_en": "Leather Chaps",
+  "nome_ptbr": "Perneiras de Couro",
+  "categoria": "Perneiras",
+  "emoji": "👖",
+  "max_stack": 1,
+  "durabilidade": 1000
+ },
+ {
+  "id": "-mOez0ZysUa2kkuZQY4s0w",
+  "nome_en": "Leather Cowl",
+  "nome_ptbr": "Capuz de Couro",
+  "categoria": "Elmos",
+  "emoji": "⛑️",
+  "max_stack": 1,
+  "durabilidade": 1000
+ },
+ {
+  "id": "xPzvUUSCo45hlMKe0e53vw",
+  "nome_en": "Leather Shield",
+  "nome_ptbr": "Escudo de Couro",
+  "categoria": "Escudos",
+  "emoji": "🛡️",
+  "max_stack": 1,
+  "durabilidade": 900
+ },
+ {
+  "id": "E_DXg0sq6DA6beKuzxv_rA",
+  "nome_en": "Leggings Of Lightness",
+  "nome_ptbr": "Leggings Of Lightness",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 1,
+  "durabilidade": 500
+ },
+ {
+  "id": "0SFGhElEGrRq5ieWLSjREA",
+  "nome_en": "Leonard The Bound",
+  "nome_ptbr": "Leonard The Bound",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "LbLCFEmVn7KnJBS59zUS4g",
+  "nome_en": "Lesser Antipoison Potion",
+  "nome_ptbr": "Lesser Antipoison Potion",
+  "categoria": "Poções",
+  "emoji": "🧪",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "u9KamEevDhDoqA-Ypsobrw",
+  "nome_en": "Lesser Attack Potion",
+  "nome_ptbr": "Lesser Attack Potion",
+  "categoria": "Poções",
+  "emoji": "🧪",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "7NPyZ03E4wudmtm9dqvgWw",
+  "nome_en": "Lesser Focused Artisan Potion",
+  "nome_ptbr": "Lesser Focused Artisan Potion",
+  "categoria": "Poções",
+  "emoji": "🧪",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "Oza9k0LVE1OmNtyDc5w_8w",
+  "nome_en": "Lesser Focused Attack Potion",
+  "nome_ptbr": "Lesser Focused Attack Potion",
+  "categoria": "Poções",
+  "emoji": "🧪",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "WQaIa0s7EnIKmw65TZ5RbA",
+  "nome_en": "Lesser Focused Construction Potion",
+  "nome_ptbr": "Lesser Focused Construction Potion",
+  "categoria": "Poções",
+  "emoji": "🧪",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "LrmZqkx8wzDkUYuVAfv2OA",
+  "nome_en": "Lesser Focused Cooking Potion",
+  "nome_ptbr": "Lesser Focused Cooking Potion",
+  "categoria": "Poções",
+  "emoji": "🧪",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "EUF4FU4_m_JXKUiL6yH6yg",
+  "nome_en": "Lesser Focused Farming Potion",
+  "nome_ptbr": "Lesser Focused Farming Potion",
+  "categoria": "Poções",
+  "emoji": "🧪",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "CaDZQEFq2q9uXb-T17sxWA",
+  "nome_en": "Lesser Focused Mining Potion",
+  "nome_ptbr": "Lesser Focused Mining Potion",
+  "categoria": "Poções",
+  "emoji": "🧪",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "CuP7oEL4UtnZaFWnPzenQg",
+  "nome_en": "Lesser Focused Runecrafting Potion",
+  "nome_ptbr": "Lesser Focused Runecrafting Potion",
+  "categoria": "Runas",
+  "emoji": "✨",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "6sTczU43FmxKI8aJ3SSWSA",
+  "nome_en": "Lesser Focused Woodcutting Potion",
+  "nome_ptbr": "Lesser Focused Woodcutting Potion",
+  "categoria": "Lenha",
+  "emoji": "🌲",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "-9Zin0B1C7GQgVKwKSR0hQ",
+  "nome_en": "Lesser Healing Potion",
+  "nome_ptbr": "Lesser Healing Potion",
+  "categoria": "Poções",
+  "emoji": "🧪",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "PTH4UEM3VLs9biqjMeB0hg",
+  "nome_en": "Lesser Lumberjack Potion",
+  "nome_ptbr": "Lesser Lumberjack Potion",
+  "categoria": "Poções",
+  "emoji": "🧪",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "qLXWx0NDd_CRXlmojVy3xg",
+  "nome_en": "Lesser Magic Potion",
+  "nome_ptbr": "Lesser Magic Potion",
+  "categoria": "Poções",
+  "emoji": "🧪",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "x2HUXkgtMUWqJ3i_oD1AcA",
+  "nome_en": "Lesser Quarrymaster Potion",
+  "nome_ptbr": "Lesser Quarrymaster Potion",
+  "categoria": "Poções",
+  "emoji": "🧪",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "Zo2PkUiV8Im58oWLYPyhZQ",
+  "nome_en": "Letter",
+  "nome_ptbr": "Letter",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "YVydsUwpZA6WfKWIbecQ5g",
+  "nome_en": "Letter",
+  "nome_ptbr": "Letter",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "L8a_IkpD4aR_LHC7SD85xA",
+  "nome_en": "Letter",
+  "nome_ptbr": "Letter",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "xSrYCktOQvdk2ae01DSUxw",
+  "nome_en": "Letter",
+  "nome_ptbr": "Letter",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "kcc_Jk87s3ioZUyeJI_edQ",
+  "nome_en": "Letter",
+  "nome_ptbr": "Letter",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "6k3tRk6VcDFr6D6eulRV_g",
+  "nome_en": "Letter",
+  "nome_ptbr": "Letter",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "Cs7b4U5s6SuaYi-wzmKYPg",
+  "nome_en": "Letter",
+  "nome_ptbr": "Letter",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "SF3UEEViXZZmN-C3FVDhPg",
+  "nome_en": "Letter",
+  "nome_ptbr": "Letter",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "PkzzMUGalquRRCyhTwQ_Uw",
+  "nome_en": "Letter",
+  "nome_ptbr": "Letter",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "5gtt00N-XHLfD9-bYjzpTw",
+  "nome_en": "Letter",
+  "nome_ptbr": "Letter",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "XOC2A06c5qYUarW6_XzFvg",
+  "nome_en": "Letter",
+  "nome_ptbr": "Letter",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "Bl-NTEpc9Mdkr_-BfBT_jA",
+  "nome_en": "Limestone",
+  "nome_ptbr": "Limestone",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "99TvyUt0VbALswaw-0FBPw",
+  "nome_en": "Lumberjack Potion",
+  "nome_ptbr": "Lumberjack Potion",
+  "categoria": "Poções",
+  "emoji": "🧪",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "rsh3kEIq_dINpkOrr8Xbhg",
+  "nome_en": "Magic Cape",
+  "nome_ptbr": "Magic Cape",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "Ze5ss0vtvZQvNiOaBhgXlw",
+  "nome_en": "Magic Cape (Trimmed)",
+  "nome_ptbr": "Magic Cape (Trimmed)",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "gzOyDURSCsyX8-6Q2MSm3A",
+  "nome_en": "Magical Focus",
+  "nome_ptbr": "Magical Focus",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "RTzyGUFEMKua2nOYgqEqng",
+  "nome_en": "Maple Battlestaff",
+  "nome_ptbr": "Cajado de Batalha de Bordo",
+  "categoria": "Cajados",
+  "emoji": "🪄",
+  "max_stack": 1,
+  "durabilidade": 1600
+ },
+ {
+  "id": "xGCRrEMgJu73_oKeaTVKIg",
+  "nome_en": "Maple Infusion",
+  "nome_ptbr": "Maple Infusion",
+  "categoria": "Poções",
+  "emoji": "🧪",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "ihb_x8sSRkCU2Nnatr2Ytw",
+  "nome_en": "Maple Logs",
+  "nome_ptbr": "Troncos de Bordo",
+  "categoria": "Lenha",
+  "emoji": "🌲",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "3sXwkkC6DYV0KQCK0VIG7Q",
+  "nome_en": "Maple Longbow",
+  "nome_ptbr": "Arco Longo de Bordo",
+  "categoria": "Arcos",
+  "emoji": "🏹",
+  "max_stack": 1,
+  "durabilidade": 1600
+ },
+ {
+  "id": "6elZUk7d7zVP8qCRjXN9uQ",
+  "nome_en": "Maple Sap",
+  "nome_ptbr": "Maple Sap",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "eqO3EET2-sZUr8KIeWRVBw",
+  "nome_en": "Maple Shortbow",
+  "nome_ptbr": "Arco Curto de Bordo",
+  "categoria": "Arcos",
+  "emoji": "🏹",
+  "max_stack": 1,
+  "durabilidade": 1600
+ },
+ {
+  "id": "fe0nGUckAo3g6m-XVSAkqQ",
+  "nome_en": "Maple Syrup",
+  "nome_ptbr": "Maple Syrup",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "OKB-WUFyUloiJoaQI8GlaQ",
+  "nome_en": "Maple Toastie",
+  "nome_ptbr": "Maple Toastie",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "OzJAo0L_wtEHut6bOPXo5Q",
+  "nome_en": "Marentill Seeds",
+  "nome_ptbr": "Marentill Seeds",
+  "categoria": "Fazenda",
+  "emoji": "🌱",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "U3fAKU2mI0apYz-rc0qWcQ",
+  "nome_en": "Marrentill",
+  "nome_ptbr": "Marrentill",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "QfPOk0c4rF6PIUqOxt0ytg",
+  "nome_en": "Meat Pizza",
+  "nome_ptbr": "Meat Pizza",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "WUq2qkrD-1bDaOG3fN6dMw",
+  "nome_en": "Meat Sandwich",
+  "nome_ptbr": "Meat Sandwich",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "CHZTiEgSmdmbf5Su1KhteA",
+  "nome_en": "Meat Stew",
+  "nome_ptbr": "Meat Stew",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "uYBo5UuEdMMdOyicMA9ikQ",
+  "nome_en": "Meat Stew",
+  "nome_ptbr": "Meat Stew",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "SXiW10MZjZ6nu7e3O4BOUw",
+  "nome_en": "Meat Twist Sandwich",
+  "nome_ptbr": "Meat Twist Sandwich",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "u-HYwkRw-MdC8hSQnS84Vw",
+  "nome_en": "Medium Wardstone",
+  "nome_ptbr": "Medium Wardstone",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 25,
+  "durabilidade": null
+ },
+ {
+  "id": "jPpy8kY7hqir8kO87fzzZg",
+  "nome_en": "Miner Ring",
+  "nome_ptbr": "Miner Ring",
+  "categoria": "Anéis",
+  "emoji": "💍",
+  "max_stack": 1,
+  "durabilidade": 1000
+ },
+ {
+  "id": "ombTOkWnPt1RdyKucOTA3A",
+  "nome_en": "Mining Cape",
+  "nome_ptbr": "Mining Cape",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "tPRZTkbhQOmzrMaV2Yk_WA",
+  "nome_en": "Mining Cape (Trimmed)",
+  "nome_ptbr": "Mining Cape (Trimmed)",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "R49qY0KT-YjRmT6a0YB04g",
+  "nome_en": "Missing Letter",
+  "nome_ptbr": "Missing Letter",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "D_xL3kw1nvzcQxCqPSLymw",
+  "nome_en": "Missing Letter",
+  "nome_ptbr": "Missing Letter",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "3PChfUy1T0FfXUKg0Uqcgg",
+  "nome_en": "Missing Letter",
+  "nome_ptbr": "Missing Letter",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "Rmi6eEWsjAHV4U-c_KOydQ",
+  "nome_en": "Mithril Arrows",
+  "nome_ptbr": "Flechas de Mitril",
+  "categoria": "Flechas/Virotes",
+  "emoji": "🏹",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "CiyC5Y3Qx0u0CTQt12QR1w",
+  "nome_en": "Mithril Bar",
+  "nome_ptbr": "Barra de Mitril",
+  "categoria": "Barras",
+  "emoji": "🧱",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "y5-f9kT-GnCQodazYiAcsA",
+  "nome_en": "Mithril Barbed Arrow",
+  "nome_ptbr": "Mithril Barbed Arrow",
+  "categoria": "Flechas/Virotes",
+  "emoji": "🏹",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "nFcRVkw9jTo4lpC5TG6Fcg",
+  "nome_en": "Mithril Bolts",
+  "nome_ptbr": "Virotes de Mitril",
+  "categoria": "Flechas/Virotes",
+  "emoji": "🏹",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "LTpN7kJQaQKo4IWE_rXaVw",
+  "nome_en": "Mithril Crossbow",
+  "nome_ptbr": "Besta de Mitril",
+  "categoria": "Bestas",
+  "emoji": "🏹",
+  "max_stack": 1,
+  "durabilidade": 1600
+ },
+ {
+  "id": "h32JKEgvPpgESZ6Ls8ct_w",
+  "nome_en": "Mithril Crossbow Limbs",
+  "nome_ptbr": "Mithril Crossbow Limbs",
+  "categoria": "Bestas",
+  "emoji": "🏹",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "cadgU0Sueb4ES9ucGlgbdA",
+  "nome_en": "Mithril Dagger",
+  "nome_ptbr": "Adaga de Mitril",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 1600
+ },
+ {
+  "id": "Dhd-hEsLnKZWq7yFkXChWw",
+  "nome_en": "Mithril Fire Arrow",
+  "nome_ptbr": "Mithril Fire Arrow",
+  "categoria": "Flechas/Virotes",
+  "emoji": "🏹",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "12xn5kR5tqqCCMCFAxTwfQ",
+  "nome_en": "Mithril Greataxe",
+  "nome_ptbr": "Mithril Greataxe",
+  "categoria": "Ferramentas",
+  "emoji": "⛏️",
+  "max_stack": 1,
+  "durabilidade": 1600
+ },
+ {
+  "id": "pQc5DE2EQITw_c2lRJxZ9A",
+  "nome_en": "Mithril Greatsword",
+  "nome_ptbr": "Espadão de Mitril",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 1600
+ },
+ {
+  "id": "18exoUG2NUZ8mIajJy0eXA",
+  "nome_en": "Mithril Helmet",
+  "nome_ptbr": "Elmo de Mitril",
+  "categoria": "Elmos",
+  "emoji": "⛑️",
+  "max_stack": 1,
+  "durabilidade": 1750
+ },
+ {
+  "id": "Qy1xxEdt6crGaqGd5DVCCw",
+  "nome_en": "Mithril Logging Axe",
+  "nome_ptbr": "Machado de Lenhador de Mitril",
+  "categoria": "Ferramentas",
+  "emoji": "⛏️",
+  "max_stack": 1,
+  "durabilidade": 2400
+ },
+ {
+  "id": "RCKyPkdEetFS7VWY7wIShw",
+  "nome_en": "Mithril Mace",
+  "nome_ptbr": "Maça de Mitril",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 1,
+  "durabilidade": 1600
+ },
+ {
+  "id": "NE9ro1p-LEeiL-80nPPyhw",
+  "nome_en": "Mithril Ore",
+  "nome_ptbr": "Minério de Mitril",
+  "categoria": "Minérios",
+  "emoji": "🪨",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "MDWp7UesApT1kjqhUNoR4w",
+  "nome_en": "Mithril Pickaxe",
+  "nome_ptbr": "Picareta de Mitril",
+  "categoria": "Ferramentas",
+  "emoji": "⛏️",
+  "max_stack": 1,
+  "durabilidade": 1800
+ },
+ {
+  "id": "ldb1VkxAV5TRQSq26Fm96Q",
+  "nome_en": "Mithril Platebody",
+  "nome_ptbr": "Peitoral de Mitril",
+  "categoria": "Peitorais",
+  "emoji": "👕",
+  "max_stack": 1,
+  "durabilidade": 1750
+ },
+ {
+  "id": "gxWXuEgU-z5m3uavbuBOGA",
+  "nome_en": "Mithril Platelegs",
+  "nome_ptbr": "Perneiras de Mitril",
+  "categoria": "Perneiras",
+  "emoji": "👖",
+  "max_stack": 1,
+  "durabilidade": 1750
+ },
+ {
+  "id": "tdu7-kbMc5g0n9-D2ywbSA",
+  "nome_en": "Mithril Salvage Pile",
+  "nome_ptbr": "Mithril Salvage Pile",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "R_xU504s0-u5Vh2MT5-ckg",
+  "nome_en": "Mithril Scimitar",
+  "nome_ptbr": "Cimitarra de Mitril",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 1600
+ },
+ {
+  "id": "gVZae0_5Q5EQfh-M02h3qA",
+  "nome_en": "Mithril Shield",
+  "nome_ptbr": "Escudo de Mitril",
+  "categoria": "Escudos",
+  "emoji": "🛡️",
+  "max_stack": 1,
+  "durabilidade": 1600
+ },
+ {
+  "id": "6W0QYE-dwt11yzu0iAGrlA",
+  "nome_en": "Mithril Sword",
+  "nome_ptbr": "Espada de Mitril",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 1600
+ },
+ {
+  "id": "kY3YrUjljLRP25mmWyGy2A",
+  "nome_en": "Mithril Warhammer",
+  "nome_ptbr": "Martelo de Guerra de Mitril",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 1600
+ },
+ {
+  "id": "_1F2mkEqVqGFC06z4Uw0Jw",
+  "nome_en": "Mixed Grill",
+  "nome_ptbr": "Mixed Grill",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "HjRGr0FDXpD-d-65HZbdXA",
+  "nome_en": "Mixed Platter",
+  "nome_ptbr": "Mixed Platter",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "qwgPgkOGqffCUdG9M7YR2Q",
+  "nome_en": "Molten Glass",
+  "nome_ptbr": "Molten Glass",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "7MA-NkEejSNBooCvO4XI9w",
+  "nome_en": "Monstrous Fang",
+  "nome_ptbr": "Monstrous Fang",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "y2L4-k3UhpNxZWuWioqAJA",
+  "nome_en": "Moon Ring",
+  "nome_ptbr": "Moon Ring",
+  "categoria": "Anéis",
+  "emoji": "💍",
+  "max_stack": 1,
+  "durabilidade": 1000
+ },
+ {
+  "id": "sIdr0kbfd2Vh-lG1MqtFaw",
+  "nome_en": "Mule Ring",
+  "nome_ptbr": "Mule Ring",
+  "categoria": "Anéis",
+  "emoji": "💍",
+  "max_stack": 1,
+  "durabilidade": 1000
+ },
+ {
+  "id": "5AYjnUqlwTP9f12w5x2rlQ",
+  "nome_en": "Mushroom Kebab",
+  "nome_ptbr": "Mushroom Kebab",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "bjjJ1kCgKXKvMPyJC4YQkQ",
+  "nome_en": "Mysterious Orb [Charged]",
+  "nome_ptbr": "Mysterious Orb [Charged]",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "kLFhCEF-uIEs1hW6ioa7pA",
+  "nome_en": "Mysterious Orb [Uncharged]",
+  "nome_ptbr": "Mysterious Orb [Uncharged]",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "tDzyYkIXSZN8A1m_VsrzWA",
+  "nome_en": "Mystic Cloth",
+  "nome_ptbr": "Mystic Cloth",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "L90H-kMtgkcomlmEb1cedg",
+  "nome_en": "Mystic Fibres",
+  "nome_ptbr": "Mystic Fibres",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "jkuS_UNrGr0A_D2otKhDaA",
+  "nome_en": "Mystic Hat",
+  "nome_ptbr": "Mystic Hat",
+  "categoria": "Elmos",
+  "emoji": "⛑️",
+  "max_stack": 1,
+  "durabilidade": 1750
+ },
+ {
+  "id": "Qle8dEYIAJhJGzu9dKb2lw",
+  "nome_en": "Mystic Robe Legs",
+  "nome_ptbr": "Mystic Robe Legs",
+  "categoria": "Peitorais",
+  "emoji": "👕",
+  "max_stack": 1,
+  "durabilidade": 1750
+ },
+ {
+  "id": "47JqmU5Nx6atMyiCXiJj9g",
+  "nome_en": "Mystic Robes",
+  "nome_ptbr": "Mystic Robes",
+  "categoria": "Peitorais",
+  "emoji": "👕",
+  "max_stack": 1,
+  "durabilidade": 1750
+ },
+ {
+  "id": "hceXwEDdifvrgFCOaBsV-w",
+  "nome_en": "Mystic Thread",
+  "nome_ptbr": "Mystic Thread",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "HoHTJUAlDeh09AeumxhAwA",
+  "nome_en": "Naphtha",
+  "nome_ptbr": "Naphtha",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "iKbF7k2XvufGqqyg5rK-vQ",
+  "nome_en": "Nature Rune",
+  "nome_ptbr": "Runa da Natureza",
+  "categoria": "Runas",
+  "emoji": "✨",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "9lHlikx8lMT7K8eLUajs1A",
+  "nome_en": "Necromancer's Crown",
+  "nome_ptbr": "Necromancer's Crown",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 1,
+  "durabilidade": 1500
+ },
+ {
+  "id": "gA4ukk_Adi1spMuag9Tkow",
+  "nome_en": "Necromancer's Robe Bottom",
+  "nome_ptbr": "Necromancer's Robe Bottom",
+  "categoria": "Peitorais",
+  "emoji": "👕",
+  "max_stack": 1,
+  "durabilidade": 1500
+ },
+ {
+  "id": "VC09I0jpA170BKygkhJ2UQ",
+  "nome_en": "Necromancer's Robe Top",
+  "nome_ptbr": "Necromancer's Robe Top",
+  "categoria": "Peitorais",
+  "emoji": "👕",
+  "max_stack": 1,
+  "durabilidade": 1500
+ },
+ {
+  "id": "6khNUkAOBBavR761Jxbj3g",
+  "nome_en": "Necromancer's Staff",
+  "nome_ptbr": "Necromancer's Staff",
+  "categoria": "Cajados",
+  "emoji": "🪄",
+  "max_stack": 1,
+  "durabilidade": 1050
+ },
+ {
+  "id": "ffhRi0ROvrJqaHW9odKKWQ",
+  "nome_en": "Necrotic Bonemeal",
+  "nome_ptbr": "Necrotic Bonemeal",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "8ivfA0axvgaP1smick68pw",
+  "nome_en": "Oak Battlestaff",
+  "nome_ptbr": "Cajado de Batalha de Carvalho",
+  "categoria": "Cajados",
+  "emoji": "🪄",
+  "max_stack": 1,
+  "durabilidade": 1050
+ },
+ {
+  "id": "TsGMyBWLNEWhBdNu21CwCA",
+  "nome_en": "Oak Logs",
+  "nome_ptbr": "Troncos de Carvalho",
+  "categoria": "Lenha",
+  "emoji": "🌲",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "UBB8W0_AMoWP5yKf7M9KRw",
+  "nome_en": "Oak Longbow",
+  "nome_ptbr": "Arco Longo de Carvalho",
+  "categoria": "Arcos",
+  "emoji": "🏹",
+  "max_stack": 1,
+  "durabilidade": 1050
+ },
+ {
+  "id": "FaDdOe9tLUOzvrkYSPpb3Q",
+  "nome_en": "Oak Plank",
+  "nome_ptbr": "Tábua de Carvalho",
+  "categoria": "Lenha",
+  "emoji": "🌲",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "g7aQPfflM0q63qyJZyWI8w",
+  "nome_en": "Oak Shortbow",
+  "nome_ptbr": "Arco Curto de Carvalho",
+  "categoria": "Arcos",
+  "emoji": "🏹",
+  "max_stack": 1,
+  "durabilidade": 1050
+ },
+ {
+  "id": "KdEPik9BM_2zKiOenCEJgQ",
+  "nome_en": "Oak tree Seed",
+  "nome_ptbr": "Oak tree Seed",
+  "categoria": "Fazenda",
+  "emoji": "🌱",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "JsMp30dRbfOXIPuy-4NmFA",
+  "nome_en": "Onion",
+  "nome_ptbr": "Cebola",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "s7eNFE3W-S0tBnKewniiKQ",
+  "nome_en": "Onion seeds",
+  "nome_ptbr": "Onion seeds",
+  "categoria": "Fazenda",
+  "emoji": "🌱",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "GAnIKkuMoUfiGC2wiSfmqg",
+  "nome_en": "Opal",
+  "nome_ptbr": "Opala",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "541r5U652crDNBS00bHcdA",
+  "nome_en": "Orange Adventurer's Cape",
+  "nome_ptbr": "Orange Adventurer's Cape",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "RFgA4kE-5E71wiGpmjWkKA",
+  "nome_en": "Ornate Maul Handle",
+  "nome_ptbr": "Ornate Maul Handle",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "6kYeY05XaTnhySas_bXdnw",
+  "nome_en": "Padded Cloth",
+  "nome_ptbr": "Padded Cloth",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "mkSObERGptKuVly00uIfTQ",
+  "nome_en": "Paladin Platelegs",
+  "nome_ptbr": "Paladin Platelegs",
+  "categoria": "Perneiras",
+  "emoji": "👖",
+  "max_stack": 1,
+  "durabilidade": 1400
+ },
+ {
+  "id": "5PEcXkJHZY9PDqKb9Skqww",
+  "nome_en": "Paladin's Helm",
+  "nome_ptbr": "Paladin's Helm",
+  "categoria": "Elmos",
+  "emoji": "⛑️",
+  "max_stack": 1,
+  "durabilidade": 1400
+ },
+ {
+  "id": "0LL6JE9-pi2e3VSDOwqqYw",
+  "nome_en": "Paladin's Platebody",
+  "nome_ptbr": "Paladin's Platebody",
+  "categoria": "Peitorais",
+  "emoji": "👕",
+  "max_stack": 1,
+  "durabilidade": 1500
+ },
+ {
+  "id": "FPYmOkCqcOpLYpaP1DKYjA",
+  "nome_en": "Peach",
+  "nome_ptbr": "Peach",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "yBO0NEdxMTVnKD2dMKXIPA",
+  "nome_en": "Phoenix Ring",
+  "nome_ptbr": "Phoenix Ring",
+  "categoria": "Anéis",
+  "emoji": "💍",
+  "max_stack": 1,
+  "durabilidade": 1000
+ },
+ {
+  "id": "LoXsN0jDsW_KeC-xjR4TAg",
+  "nome_en": "Pink Adventurer's Cape",
+  "nome_ptbr": "Pink Adventurer's Cape",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "HCdglE6uSn0nY36BNP8tOg",
+  "nome_en": "Pink Dyad Cape",
+  "nome_ptbr": "Pink Dyad Cape",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "vXzmDEEKYJvFqymlqaOrEg",
+  "nome_en": "Pink Hex Cape",
+  "nome_ptbr": "Pink Hex Cape",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "BOb1iEzyCdDhlNWQVxo_eA",
+  "nome_en": "Pioneer's Cape",
+  "nome_ptbr": "Pioneer's Cape",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "TNwe-UTLT1bxEPKBM9GnAQ",
+  "nome_en": "Pioneer's Scarf",
+  "nome_ptbr": "Pioneer's Scarf",
+  "categoria": "Elmos",
+  "emoji": "⛑️",
+  "max_stack": 1,
+  "durabilidade": 1000
+ },
+ {
+  "id": "laNSqkNnDER7ezCtp2lG8g",
+  "nome_en": "Plan Bundle: Armadyl Flags",
+  "nome_ptbr": "Plan Bundle: Armadyl Flags",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "_r4tv0Or4Z_aYuCIdhISCw",
+  "nome_en": "Plan Bundle: Bandos Flags",
+  "nome_ptbr": "Plan Bundle: Bandos Flags",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "HyQ-yU9LWdZBuDK9NWpzxA",
+  "nome_en": "Plan Bundle: Guthix Flags",
+  "nome_ptbr": "Plan Bundle: Guthix Flags",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "T1-6GEAixEvLgCyqhPJmIA",
+  "nome_en": "Plan Bundle: Saradomin Flags",
+  "nome_ptbr": "Plan Bundle: Saradomin Flags",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "eZGIUkNmYIYoiHeA00tLiQ",
+  "nome_en": "Plan Bundle: Zamorak Flags",
+  "nome_ptbr": "Plan Bundle: Zamorak Flags",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "XXWU70NlMFVOmPO4gXCVwA",
+  "nome_en": "Plant Cure",
+  "nome_ptbr": "Plant Cure",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 20,
+  "durabilidade": null
+ },
+ {
+  "id": "vxn3aEpxraaQXJi9Btd7Cw",
+  "nome_en": "Poison Ichor",
+  "nome_ptbr": "Poison Ichor",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "Fypi50GPQu-8haahRVUasQ",
+  "nome_en": "Poisoned Bronze Arrow",
+  "nome_ptbr": "Poisoned Bronze Arrow",
+  "categoria": "Flechas/Virotes",
+  "emoji": "🏹",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "NN7EB08_YDtZEeiIzRl1GQ",
+  "nome_en": "Poisoned Fang Arrow",
+  "nome_ptbr": "Poisoned Fang Arrow",
+  "categoria": "Flechas/Virotes",
+  "emoji": "🏹",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "cNekSUokIAxgCmaxWWEiHw",
+  "nome_en": "Poisoned Iron Arrow",
+  "nome_ptbr": "Poisoned Iron Arrow",
+  "categoria": "Flechas/Virotes",
+  "emoji": "🏹",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "sccIUU_309OurvKGEt8e_w",
+  "nome_en": "Poisoned Mithril Arrow",
+  "nome_ptbr": "Poisoned Mithril Arrow",
+  "categoria": "Flechas/Virotes",
+  "emoji": "🏹",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "weTVSE6xbZDSgvqupBR0UQ",
+  "nome_en": "Poisoned Steel Arrow",
+  "nome_ptbr": "Poisoned Steel Arrow",
+  "categoria": "Flechas/Virotes",
+  "emoji": "🏹",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "HwM2_HvXZUyt8FmT4F2iYQ",
+  "nome_en": "Potato",
+  "nome_ptbr": "Batata",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "cW7jv0WM_XgkG_OsOz_YgQ",
+  "nome_en": "Potato seeds",
+  "nome_ptbr": "Potato seeds",
+  "categoria": "Fazenda",
+  "emoji": "🌱",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "j_sPzUBqZftQOjuet7eAzg",
+  "nome_en": "Primordial Heart",
+  "nome_ptbr": "Primordial Heart",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "wHJdjE9MS1vFXXqX9pNeWA",
+  "nome_en": "Pumpkin",
+  "nome_ptbr": "Pumpkin",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "2_CkFkMTSN7b5_-eDlNPDQ",
+  "nome_en": "Pumpkin Seeds",
+  "nome_ptbr": "Pumpkin Seeds",
+  "categoria": "Fazenda",
+  "emoji": "🌱",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "ziJyKkjO9ax3UsWGTvPMtw",
+  "nome_en": "Pumpkin Soup",
+  "nome_ptbr": "Pumpkin Soup",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "kZor20jQ-GKLW52SdVDwAw",
+  "nome_en": "Pumpkin Spice Infusion",
+  "nome_ptbr": "Pumpkin Spice Infusion",
+  "categoria": "Poções",
+  "emoji": "🧪",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "pU_QfU6ScaLWNcu2Chk9-g",
+  "nome_en": "Pungent Omelette",
+  "nome_ptbr": "Pungent Omelette",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "GjJEvUEeLJDK4rC8sNKYXA",
+  "nome_en": "Purified King's Token",
+  "nome_ptbr": "Purified King's Token",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "tjyp-0ILfgtqr1K_O7O6pw",
+  "nome_en": "Purple Adventurer's Cape",
+  "nome_ptbr": "Purple Adventurer's Cape",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "J_6-sk2CKwAAW0Sgbwhb1g",
+  "nome_en": "Quarrymaster Potion",
+  "nome_ptbr": "Quarrymaster Potion",
+  "categoria": "Poções",
+  "emoji": "🧪",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "E5lUJEc3VidsqDGPkYhl4A",
+  "nome_en": "Ram Horn",
+  "nome_ptbr": "Ram Horn",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "iBBfwk2Gnv0b5CqMNA5biw",
+  "nome_en": "Ranged Cape",
+  "nome_ptbr": "Ranged Cape",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "dgUWeUtE1THccFOPOwoilw",
+  "nome_en": "Ranged Cape - Trimmed",
+  "nome_ptbr": "Ranged Cape - Trimmed",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "G3PQn0IrK3xN_KiFGiK1XA",
+  "nome_en": "Ranger Hat",
+  "nome_ptbr": "Ranger Hat",
+  "categoria": "Elmos",
+  "emoji": "⛑️",
+  "max_stack": 1,
+  "durabilidade": 1250
+ },
+ {
+  "id": "uRgtu0xFj-2S1suM_JFJoQ",
+  "nome_en": "Ranger Tights",
+  "nome_ptbr": "Ranger Tights",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 1,
+  "durabilidade": 1250
+ },
+ {
+  "id": "IalNEUbWy5_alu6a4ffmUw",
+  "nome_en": "Ranger Tunic",
+  "nome_ptbr": "Ranger Tunic",
+  "categoria": "Peitorais",
+  "emoji": "👕",
+  "max_stack": 1,
+  "durabilidade": 1250
+ },
+ {
+  "id": "0aufkk55nHU1TlSAXZ0o3g",
+  "nome_en": "Rat Roast",
+  "nome_ptbr": "Rat Roast",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "tosPpUxp9FZgwdGvvXrcjw",
+  "nome_en": "Raw Bestial Meat",
+  "nome_ptbr": "Raw Bestial Meat",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "6VtTq32kQkyOk-E3Ly05-A",
+  "nome_en": "Raw Bird Meat",
+  "nome_ptbr": "Raw Bird Meat",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "Ttc6u0zyAi-JMaOjrxwtNQ",
+  "nome_en": "Raw Farm Meat",
+  "nome_ptbr": "Raw Farm Meat",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "Ua7XqsiwjUio_H540eRegw",
+  "nome_en": "Raw Game Meat",
+  "nome_ptbr": "Raw Game Meat",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "1k8-cj3JqEGeRgu1P7PK2g",
+  "nome_en": "Raw Rat Meat",
+  "nome_ptbr": "Raw Rat Meat",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "-Rg5cUmrkSN3dROPddWxFQ",
+  "nome_en": "Red Adventurer's Cape",
+  "nome_ptbr": "Red Adventurer's Cape",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "QNqJUkJWdSpXTleZ1KTEdQ",
+  "nome_en": "Red Dyad Cape",
+  "nome_ptbr": "Red Dyad Cape",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "ivdulE2nDCtOoLePNKfp0w",
+  "nome_en": "Red Hex Cape",
+  "nome_ptbr": "Red Hex Cape",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "DY6MkEu_wT76ukyxwYr45g",
+  "nome_en": "Red Topaz",
+  "nome_ptbr": "Red Topaz",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "GHxAwJ8gNkSe3vxloWof2A",
+  "nome_en": "Redberries",
+  "nome_ptbr": "Redberries",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "ipb2Z0dRiFIUUhqLsIqIxA",
+  "nome_en": "Redberry Crunchies",
+  "nome_ptbr": "Redberry Crunchies",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "GBmnz07RWPG4dnKvJqcLPw",
+  "nome_en": "Redberry Crunchies",
+  "nome_ptbr": "Redberry Crunchies",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "kP1gFUp7vT74QYWp9gwnNg",
+  "nome_en": "Redberry Glazed Roast Flank",
+  "nome_ptbr": "Redberry Glazed Roast Flank",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "h_Jzr26f5kiw_PRKFEkHrA",
+  "nome_en": "Redberry Glazed Roast Meat",
+  "nome_ptbr": "Redberry Glazed Roast Meat",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "BHyv-U4eeKvSxeqdh5UswQ",
+  "nome_en": "Redberry Infusion",
+  "nome_ptbr": "Redberry Infusion",
+  "categoria": "Poções",
+  "emoji": "🧪",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "AwUFeEoCOtrQnjq0M1wo8A",
+  "nome_en": "Redberry Roast Rat",
+  "nome_ptbr": "Redberry Roast Rat",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "7lSIik5yoOFoPX-5w38Ytg",
+  "nome_en": "Redberry seeds",
+  "nome_ptbr": "Redberry seeds",
+  "categoria": "Fazenda",
+  "emoji": "🌱",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "mkaB7UQN1fBbSkGNVTVRZw",
+  "nome_en": "Reinforced Body",
+  "nome_ptbr": "Reinforced Body",
+  "categoria": "Peitorais",
+  "emoji": "👕",
+  "max_stack": 1,
+  "durabilidade": 1000
+ },
+ {
+  "id": "YvIen0_ZFiR1Kn-5ucQrDA",
+  "nome_en": "Reinforced Helmet",
+  "nome_ptbr": "Reinforced Helmet",
+  "categoria": "Elmos",
+  "emoji": "⛑️",
+  "max_stack": 1,
+  "durabilidade": 1000
+ },
+ {
+  "id": "GZuI4kHd7c-hpqWq5Nbdpw",
+  "nome_en": "Reinforced Platelegs",
+  "nome_ptbr": "Reinforced Platelegs",
+  "categoria": "Perneiras",
+  "emoji": "👖",
+  "max_stack": 1,
+  "durabilidade": 1000
+ },
+ {
+  "id": "SRKw_UuOlGyEv4uAhkQh1A",
+  "nome_en": "Relentless Infusion",
+  "nome_ptbr": "Relentless Infusion",
+  "categoria": "Poções",
+  "emoji": "🧪",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "R9IjjUjvqfnoc3ml3yyurg",
+  "nome_en": "Restless Ghosts Reward Pack",
+  "nome_ptbr": "Restless Ghosts Reward Pack",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 10,
+  "durabilidade": null
+ },
+ {
+  "id": "xPzAAUqcRS8ZetuUKSJG5Q",
+  "nome_en": "Ring of Life",
+  "nome_ptbr": "Ring of Life",
+  "categoria": "Anéis",
+  "emoji": "💍",
+  "max_stack": 1,
+  "durabilidade": 1
+ },
+ {
+  "id": "mETsn0hsQKyU-h-s1LRQ6g",
+  "nome_en": "Ring of Pursuit",
+  "nome_ptbr": "Ring of Pursuit",
+  "categoria": "Anéis",
+  "emoji": "💍",
+  "max_stack": 1,
+  "durabilidade": 1000
+ },
+ {
+  "id": "3NlCk0PLvMeVQ06pQp2V8g",
+  "nome_en": "Ring of Pursuit",
+  "nome_ptbr": "Ring of Pursuit",
+  "categoria": "Anéis",
+  "emoji": "💍",
+  "max_stack": 1,
+  "durabilidade": 18000
+ },
+ {
+  "id": "hN41hUB2BvFbvyiqYpSgyg",
+  "nome_en": "Ring of Recoil",
+  "nome_ptbr": "Ring of Recoil",
+  "categoria": "Anéis",
+  "emoji": "💍",
+  "max_stack": 1,
+  "durabilidade": 2500
+ },
+ {
+  "id": "osDyaUIyzTvf1iaY4WQrKg",
+  "nome_en": "Roast Dinner",
+  "nome_ptbr": "Roast Dinner",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "u1SkBEnMIdkuQ0-028XVmw",
+  "nome_en": "Roast Pumpkin",
+  "nome_ptbr": "Roast Pumpkin",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "GQcT3TAgK0ulDFXjsp-k1A",
+  "nome_en": "Rough Cloth",
+  "nome_ptbr": "Rough Cloth",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "qOY004ZJaEaR8DmcDqB2KA",
+  "nome_en": "Rune Essence",
+  "nome_ptbr": "Essência de Runa",
+  "categoria": "Runas",
+  "emoji": "✨",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "8IK7e0kOy0gVVDKoVnHucA",
+  "nome_en": "Runecrafting Cape",
+  "nome_ptbr": "Runecrafting Cape",
+  "categoria": "Runas",
+  "emoji": "✨",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "OlEZ-03KPyGi7U-IlAvobg",
+  "nome_en": "Runecrafting Cape (Trimmed)",
+  "nome_ptbr": "Runecrafting Cape (Trimmed)",
+  "categoria": "Runas",
+  "emoji": "✨",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "MRRcVkTaxPfC_0evKhclKA",
+  "nome_en": "Sacred Oil",
+  "nome_ptbr": "Sacred Oil",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "LD2aYUnB_pK6aHOn64cemw",
+  "nome_en": "Salve Amulet",
+  "nome_ptbr": "Salve Amulet",
+  "categoria": "Amuletos",
+  "emoji": "📿",
+  "max_stack": 1,
+  "durabilidade": 2500
+ },
+ {
+  "id": "f_tlM0y-QfSP8Ha6vD6Rmg",
+  "nome_en": "Salve Crystal",
+  "nome_ptbr": "Salve Crystal",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "RdhNn0ebpZZIPQqMviMjNg",
+  "nome_en": "Sandstone",
+  "nome_ptbr": "Sandstone",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "TvL1Ik7Vc-NHKlCx--22Cg",
+  "nome_en": "Sapphire",
+  "nome_ptbr": "Safira",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "ZTw--ktbOOeumxWjvwYW3g",
+  "nome_en": "Saradomin Symbol",
+  "nome_ptbr": "Saradomin Symbol",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "lbGGMk9q_D8NqFer1Phs6Q",
+  "nome_en": "Shadow Body",
+  "nome_ptbr": "Shadow Body",
+  "categoria": "Peitorais",
+  "emoji": "👕",
+  "max_stack": 1,
+  "durabilidade": 1750
+ },
+ {
+  "id": "_SPkA02pw6hv7kG38Dh4Yw",
+  "nome_en": "Shadow Chaps",
+  "nome_ptbr": "Shadow Chaps",
+  "categoria": "Perneiras",
+  "emoji": "👖",
+  "max_stack": 1,
+  "durabilidade": 1750
+ },
+ {
+  "id": "biA3GUeX-fn65ZCLmkdsag",
+  "nome_en": "Shadow Cowl",
+  "nome_ptbr": "Shadow Cowl",
+  "categoria": "Elmos",
+  "emoji": "⛑️",
+  "max_stack": 1,
+  "durabilidade": 1750
+ },
+ {
+  "id": "H95eaEnwm89xf7GyHBhdsQ",
+  "nome_en": "Shadow Crossbow",
+  "nome_ptbr": "Shadow Crossbow",
+  "categoria": "Bestas",
+  "emoji": "🏹",
+  "max_stack": 1,
+  "durabilidade": 1600
+ },
+ {
+  "id": "Ewe_yEPwqy4Bx0ajfHlwvw",
+  "nome_en": "Shadow Sword",
+  "nome_ptbr": "Shadow Sword",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 1300
+ },
+ {
+  "id": "48BYVkZfcyg3uoyx2hBHmQ",
+  "nome_en": "Shadow Sword",
+  "nome_ptbr": "Shadow Sword",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 1300
+ },
+ {
+  "id": "NSARJEh5evOUK_Cs17GhLA",
+  "nome_en": "Shadowscale Cape",
+  "nome_ptbr": "Shadowscale Cape",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "mOrF6UCuMkbZY0mVJp3wSg",
+  "nome_en": "Shadowscale Hood",
+  "nome_ptbr": "Shadowscale Hood",
+  "categoria": "Elmos",
+  "emoji": "⛑️",
+  "max_stack": 1,
+  "durabilidade": 1250
+ },
+ {
+  "id": "hJyKREoYCuSo8E20uZBB9g",
+  "nome_en": "Shard of the Dreaming Stone",
+  "nome_ptbr": "Shard of the Dreaming Stone",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 14,
+  "durabilidade": null
+ },
+ {
+  "id": "6lzGokw1exVCJAmMfnUnkg",
+  "nome_en": "Shocking Plant Bulb",
+  "nome_ptbr": "Shocking Plant Bulb",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "fluVNEWmCK3dY4ybEOTJ7A",
+  "nome_en": "Shrapnel",
+  "nome_ptbr": "Shrapnel",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "xuoyTUAlufgRGmy9Kr2hDw",
+  "nome_en": "Shroud Of Noggin",
+  "nome_ptbr": "Shroud Of Noggin",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 1,
+  "durabilidade": 500
+ },
+ {
+  "id": "gunABauXjk6khTFVIKifoA",
+  "nome_en": "Silver Bar",
+  "nome_ptbr": "Barra de Prata",
+  "categoria": "Barras",
+  "emoji": "🧱",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "xawyKY4sAkmNcNuINCw3ww",
+  "nome_en": "Silver Ore",
+  "nome_ptbr": "Minério de Prata",
+  "categoria": "Minérios",
+  "emoji": "🪨",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "63n2EE_I8ZHdhimzuwvIVw",
+  "nome_en": "Silver Salvage Pile",
+  "nome_ptbr": "Silver Salvage Pile",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "FpVrUUuv6LynSPqjP9SwUw",
+  "nome_en": "Skeleton Pack",
+  "nome_ptbr": "Skeleton Pack",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "XWOefkcc3bliVpWrsPMokg",
+  "nome_en": "Skullsplitter",
+  "nome_ptbr": "Skullsplitter",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 1,
+  "durabilidade": 1050
+ },
+ {
+  "id": "EWuEEEhBQ59daI2TL5y9YQ",
+  "nome_en": "Small Animal Fang",
+  "nome_ptbr": "Small Animal Fang",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "YczziUGCmgiUTD2RtEWmpQ",
+  "nome_en": "Small Ash Pile",
+  "nome_ptbr": "Small Ash Pile",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "xAyLrEN_5B3KGXOjhpGzrg",
+  "nome_en": "Small Wardstone",
+  "nome_ptbr": "Small Wardstone",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 25,
+  "durabilidade": null
+ },
+ {
+  "id": "VP4HYkC55gMC4pGC3c6L4w",
+  "nome_en": "Snapdragon",
+  "nome_ptbr": "Snapdragon",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "WVHbYkW9ZZEfyEarxYImSw",
+  "nome_en": "Snapdragon Seeds",
+  "nome_ptbr": "Snapdragon Seeds",
+  "categoria": "Fazenda",
+  "emoji": "🌱",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "_a30PUP3vGbK6omuRTvw2Q",
+  "nome_en": "Soft Animal Fur",
+  "nome_ptbr": "Soft Animal Fur",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "wzNQOkfqch-Pm3avRapETg",
+  "nome_en": "Soul Fragment",
+  "nome_ptbr": "Soul Fragment",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "RcJw8Ede_CIqdmSZCv-D2A",
+  "nome_en": "Spare Farmers Supplies",
+  "nome_ptbr": "Spare Farmers Supplies",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 10,
+  "durabilidade": null
+ },
+ {
+  "id": "uqGAn0tZnBkZEJSwmx70KA",
+  "nome_en": "Spectral Chinchompa Cape",
+  "nome_ptbr": "Spectral Chinchompa Cape",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "UBjRA0kZ03sJQmq-urBsTA",
+  "nome_en": "Spectral Chinchompa Skull",
+  "nome_ptbr": "Spectral Chinchompa Skull",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "tNBdikFL0zvyBmaARPJORA",
+  "nome_en": "Spectral Silver Thread",
+  "nome_ptbr": "Spectral Silver Thread",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "TASgGUjnZPDyV6arZ72Yhg",
+  "nome_en": "Splitbark Body",
+  "nome_ptbr": "Splitbark Body",
+  "categoria": "Peitorais",
+  "emoji": "👕",
+  "max_stack": 1,
+  "durabilidade": 1500
+ },
+ {
+  "id": "DIvBq0PMLtU5hRymvVGsqA",
+  "nome_en": "Splitbark Helm",
+  "nome_ptbr": "Splitbark Helm",
+  "categoria": "Elmos",
+  "emoji": "⛑️",
+  "max_stack": 1,
+  "durabilidade": 1500
+ },
+ {
+  "id": "kx5mgkBuVkrt5oaFyFIjag",
+  "nome_en": "Splitbark Legs",
+  "nome_ptbr": "Splitbark Legs",
+  "categoria": "Perneiras",
+  "emoji": "👖",
+  "max_stack": 1,
+  "durabilidade": 1500
+ },
+ {
+  "id": "P456RETd4H4vi_2X5C8XTA",
+  "nome_en": "Splitbark Staff",
+  "nome_ptbr": "Splitbark Staff",
+  "categoria": "Cajados",
+  "emoji": "🪄",
+  "max_stack": 1,
+  "durabilidade": 1300
+ },
+ {
+  "id": "iFw4Z0VzNkp7Dy6VdzfGiw",
+  "nome_en": "Squeaking Sausage",
+  "nome_ptbr": "Squeaking Sausage",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "Hcq0C0UjvN3n8q-X2uqa7w",
+  "nome_en": "Staff of Light",
+  "nome_ptbr": "Staff of Light",
+  "categoria": "Cajados",
+  "emoji": "🪄",
+  "max_stack": 1,
+  "durabilidade": 1300
+ },
+ {
+  "id": "gC-ZukCFUhIWbCyJIkj3LQ",
+  "nome_en": "Steak",
+  "nome_ptbr": "Steak",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "jS5_8UZSJZ_bkh-ojI0Rwg",
+  "nome_en": "Steak 'N' Eggs",
+  "nome_ptbr": "Steak 'N' Eggs",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "U1bXxkSd4aE-4TiyxP2L1w",
+  "nome_en": "Steak Sandwich",
+  "nome_ptbr": "Steak Sandwich",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "ZBZGmUwRoHleCpi1KISp-g",
+  "nome_en": "Steel Arrow",
+  "nome_ptbr": "Flecha de Aço",
+  "categoria": "Flechas/Virotes",
+  "emoji": "🏹",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "bDrJG99f7UKcLJ-z3G_e3w",
+  "nome_en": "Steel Bar",
+  "nome_ptbr": "Barra de Aço",
+  "categoria": "Barras",
+  "emoji": "🧱",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "0tQXR0oHEGdg44m6RHe5BA",
+  "nome_en": "Steel Barbed Arrow",
+  "nome_ptbr": "Steel Barbed Arrow",
+  "categoria": "Flechas/Virotes",
+  "emoji": "🏹",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "_1UJR0bdUz0CNMyyUwbTig",
+  "nome_en": "Steel Bolt",
+  "nome_ptbr": "Virote de Aço",
+  "categoria": "Flechas/Virotes",
+  "emoji": "🏹",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "Nro5M0QUOoJMnwyFVlNzuA",
+  "nome_en": "Steel Crossbow",
+  "nome_ptbr": "Besta de Aço",
+  "categoria": "Bestas",
+  "emoji": "🏹",
+  "max_stack": 1,
+  "durabilidade": 1300
+ },
+ {
+  "id": "iMCDeEyx3QdQI06yZtaE8w",
+  "nome_en": "Steel Crossbow Limbs",
+  "nome_ptbr": "Steel Crossbow Limbs",
+  "categoria": "Bestas",
+  "emoji": "🏹",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "X7WHfk6N0b3zFdmwn2Vacg",
+  "nome_en": "Steel Dagger",
+  "nome_ptbr": "Adaga de Aço",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 1300
+ },
+ {
+  "id": "l_dStU-tZdJ-0SWqCljYMA",
+  "nome_en": "Steel Fire Arrow",
+  "nome_ptbr": "Steel Fire Arrow",
+  "categoria": "Flechas/Virotes",
+  "emoji": "🏹",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "vD5BTU75YhilvnGtFX3L0Q",
+  "nome_en": "Steel Full Helm",
+  "nome_ptbr": "Steel Full Helm",
+  "categoria": "Elmos",
+  "emoji": "⛑️",
+  "max_stack": 1,
+  "durabilidade": 1500
+ },
+ {
+  "id": "ij6dREu-BJWgGwGB01XLdA",
+  "nome_en": "Steel Greataxe",
+  "nome_ptbr": "Steel Greataxe",
+  "categoria": "Ferramentas",
+  "emoji": "⛏️",
+  "max_stack": 1,
+  "durabilidade": 1300
+ },
+ {
+  "id": "vI0ix0WJSchv2dysqMjcaw",
+  "nome_en": "Steel Greatsword",
+  "nome_ptbr": "Espadão de Aço",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 1300
+ },
+ {
+  "id": "t6PZE0lGoToPSDq_5wY90g",
+  "nome_en": "Steel Logging Axe",
+  "nome_ptbr": "Machado de Lenhador de Aço",
+  "categoria": "Ferramentas",
+  "emoji": "⛏️",
+  "max_stack": 1,
+  "durabilidade": 2400
+ },
+ {
+  "id": "-OI9N0GCWiJtKNqmlBmAfw",
+  "nome_en": "Steel Mace",
+  "nome_ptbr": "Maça de Aço",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 1,
+  "durabilidade": 1300
+ },
+ {
+  "id": "gnsOeUlUW-HZZv6kTQo2AQ",
+  "nome_en": "Steel Pickaxe",
+  "nome_ptbr": "Picareta de Aço",
+  "categoria": "Ferramentas",
+  "emoji": "⛏️",
+  "max_stack": 1,
+  "durabilidade": 2100
+ },
+ {
+  "id": "uRhtpkdkwxqA1tih10PgbQ",
+  "nome_en": "Steel Platebody",
+  "nome_ptbr": "Peitoral de Aço",
+  "categoria": "Peitorais",
+  "emoji": "👕",
+  "max_stack": 1,
+  "durabilidade": 1500
+ },
+ {
+  "id": "WpUQ9kNFlOMYxp-YGrfOlQ",
+  "nome_en": "Steel Platelegs",
+  "nome_ptbr": "Perneiras de Aço",
+  "categoria": "Perneiras",
+  "emoji": "👖",
+  "max_stack": 1,
+  "durabilidade": 1500
+ },
+ {
+  "id": "iPIO-EarGDwHMbu3ED65iw",
+  "nome_en": "Steel Salvage Pile",
+  "nome_ptbr": "Steel Salvage Pile",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "-AMBe0n3DyCGhIWsqB8r-Q",
+  "nome_en": "Steel Scimitar",
+  "nome_ptbr": "Cimitarra de Aço",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 1300
+ },
+ {
+  "id": "X2mSMUNh2YKRnuS037ghVA",
+  "nome_en": "Steel Shield",
+  "nome_ptbr": "Escudo de Aço",
+  "categoria": "Escudos",
+  "emoji": "🛡️",
+  "max_stack": 1,
+  "durabilidade": 1300
+ },
+ {
+  "id": "Rah78Usgu3iPhOCdFtjVmQ",
+  "nome_en": "Steel Spade",
+  "nome_ptbr": "Steel Spade",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 1,
+  "durabilidade": 450
+ },
+ {
+  "id": "q_AyO0EBaOKF0su-tl7Gsg",
+  "nome_en": "Steel Sword",
+  "nome_ptbr": "Espada de Aço",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 1300
+ },
+ {
+  "id": "xHf190QoFqK2is6m53ViSQ",
+  "nome_en": "Steel Warhammer",
+  "nome_ptbr": "Martelo de Guerra de Aço",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 1300
+ },
+ {
+  "id": "9FOjcUsCSkwoL6i8ln6M9g",
+  "nome_en": "Steel Watering Can",
+  "nome_ptbr": "Steel Watering Can",
+  "categoria": "Anéis",
+  "emoji": "💍",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "_R44FI_bhEm8Gx61swlzpA",
+  "nome_en": "Stone",
+  "nome_ptbr": "Pedra",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "vmEIW09ztuDtLmGpyzQBbQ",
+  "nome_en": "Stone Arrow",
+  "nome_ptbr": "Flecha de Pedra",
+  "categoria": "Flechas/Virotes",
+  "emoji": "🏹",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "jEGEekTLabfTqtWElqNXLQ",
+  "nome_en": "Stone Block",
+  "nome_ptbr": "Stone Block",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "IJILMByu-kCq_0feZkzKBw",
+  "nome_en": "Stone Club",
+  "nome_ptbr": "Stone Club",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 700
+ },
+ {
+  "id": "f5pdM9IkUU2dZp0okjecuA",
+  "nome_en": "Stone Dagger",
+  "nome_ptbr": "Adaga de Pedra",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 700
+ },
+ {
+  "id": "0NWm0hwPokOAgp0ux3ambA",
+  "nome_en": "Stone Logging Axe",
+  "nome_ptbr": "Machado de Lenhador de Pedra",
+  "categoria": "Ferramentas",
+  "emoji": "⛏️",
+  "max_stack": 1,
+  "durabilidade": 1200
+ },
+ {
+  "id": "BcoOLIbLs0SLeM3EhJJXSw",
+  "nome_en": "Stone Pickaxe",
+  "nome_ptbr": "Picareta de Pedra",
+  "categoria": "Ferramentas",
+  "emoji": "⛏️",
+  "max_stack": 1,
+  "durabilidade": 1200
+ },
+ {
+  "id": "KMexB0_3MwL8rEC0g0xd5g",
+  "nome_en": "Stormtouched Cape",
+  "nome_ptbr": "Stormtouched Cape",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "eAqy2E05wXWCK4O5s2Dnwg",
+  "nome_en": "Studded Leather Body",
+  "nome_ptbr": "Corpete de Couro Cravejado",
+  "categoria": "Peitorais",
+  "emoji": "👕",
+  "max_stack": 1,
+  "durabilidade": 1500
+ },
+ {
+  "id": "bZAEoUISHmuQXu6HlIFIyQ",
+  "nome_en": "Studded Leather Chaps",
+  "nome_ptbr": "Perneiras de Couro Cravejado",
+  "categoria": "Perneiras",
+  "emoji": "👖",
+  "max_stack": 1,
+  "durabilidade": 1500
+ },
+ {
+  "id": "YVvQRk9Uv1a4PceWi3985w",
+  "nome_en": "Studded Leather Cowl",
+  "nome_ptbr": "Capuz de Couro Cravejado",
+  "categoria": "Elmos",
+  "emoji": "⛑️",
+  "max_stack": 1,
+  "durabilidade": 1500
+ },
+ {
+  "id": "v7vIfkOdeCdyHqa8oMhdDQ",
+  "nome_en": "Subjugation Staff",
+  "nome_ptbr": "Subjugation Staff",
+  "categoria": "Cajados",
+  "emoji": "🪄",
+  "max_stack": 1,
+  "durabilidade": 1600
+ },
+ {
+  "id": "zMkPh01oP5052KmW1ctXeA",
+  "nome_en": "Sun Ring",
+  "nome_ptbr": "Sun Ring",
+  "categoria": "Anéis",
+  "emoji": "💍",
+  "max_stack": 1,
+  "durabilidade": 1000
+ },
+ {
+  "id": "DJIQWUsnDB7Umey0E2dFgA",
+  "nome_en": "Swamp Tar",
+  "nome_ptbr": "Swamp Tar",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "ehZX4E-aGmiITq6BdnbgFA",
+  "nome_en": "Swamp Thread",
+  "nome_ptbr": "Swamp Thread",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "zsimokwEIE-BaUmW949QtQ",
+  "nome_en": "Swamp Weed",
+  "nome_ptbr": "Swamp Weed",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "VbutMUHbEUrnNpGleFj_vw",
+  "nome_en": "Swamp Weed Seeds",
+  "nome_ptbr": "Swamp Weed Seeds",
+  "categoria": "Fazenda",
+  "emoji": "🌱",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "8qJOoUX9S5-1ogG8C5AcFA",
+  "nome_en": "Sweet Veg Ball",
+  "nome_ptbr": "Sweet Veg Ball",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "mXFVTke_27MjRnGxbcyATw",
+  "nome_en": "T1 Bleeding Dagger",
+  "nome_ptbr": "T1 Bleeding Dagger",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 300
+ },
+ {
+  "id": "P4DqJ03JPXW9Uf-z9vf9cA",
+  "nome_en": "T1 Burning Dagger",
+  "nome_ptbr": "T1 Burning Dagger",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 300
+ },
+ {
+  "id": "wKLbQE45kY_FG3CqMpInFw",
+  "nome_en": "T1 Poison Dagger",
+  "nome_ptbr": "T1 Poison Dagger",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 300
+ },
+ {
+  "id": "pmx4j0E3SP9r4gmY38QrYA",
+  "nome_en": "T1 Shock Dagger",
+  "nome_ptbr": "T1 Shock Dagger",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 300
+ },
+ {
+  "id": "AQ-JQEAJEyOWJKuGTq7KCQ",
+  "nome_en": "T2 Bleeding Dagger",
+  "nome_ptbr": "T2 Bleeding Dagger",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 375
+ },
+ {
+  "id": "GO-fJEIf4N7Y0EeG5D0YSw",
+  "nome_en": "T2 Burning Dagger",
+  "nome_ptbr": "T2 Burning Dagger",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 375
+ },
+ {
+  "id": "UW6yfU2tUde27I2aZB9JHA",
+  "nome_en": "T2 Poison Dagger",
+  "nome_ptbr": "T2 Poison Dagger",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 375
+ },
+ {
+  "id": "dKeIN0KKjY2p7NqOFSISdg",
+  "nome_en": "T2 Shock Dagger",
+  "nome_ptbr": "T2 Shock Dagger",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 375
+ },
+ {
+  "id": "jWfoPkWonpdDzBWYUQ1qPg",
+  "nome_en": "T3 Bleeding Dagger",
+  "nome_ptbr": "T3 Bleeding Dagger",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 450
+ },
+ {
+  "id": "Z4zEt0wViBus7gSH4qejYg",
+  "nome_en": "T3 Burning Dagger",
+  "nome_ptbr": "T3 Burning Dagger",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 450
+ },
+ {
+  "id": "NA76rEFl7Di8f5aFj_L3SA",
+  "nome_en": "T3 Poison Dagger",
+  "nome_ptbr": "T3 Poison Dagger",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 450
+ },
+ {
+  "id": "PPvgBkmqKmyUwki-TAtqig",
+  "nome_en": "T3 Shock Dagger",
+  "nome_ptbr": "T3 Shock Dagger",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 450
+ },
+ {
+  "id": "-ahw20RwuJqFDsKcOrryNQ",
+  "nome_en": "T4 Bleeding Dagger",
+  "nome_ptbr": "T4 Bleeding Dagger",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 525
+ },
+ {
+  "id": "CN1GVEgi8t_uRs-yFmH_FQ",
+  "nome_en": "T4 Burning Dagger",
+  "nome_ptbr": "T4 Burning Dagger",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 525
+ },
+ {
+  "id": "3LufGUl5SzS2zV2Vj7QCPg",
+  "nome_en": "T4 Poison Dagger",
+  "nome_ptbr": "T4 Poison Dagger",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 525
+ },
+ {
+  "id": "5JCljkf2DRoxnQCI94gFJQ",
+  "nome_en": "T4 Shock Dagger",
+  "nome_ptbr": "T4 Shock Dagger",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 525
+ },
+ {
+  "id": "Vnjun0JNiDTYsG21iTb2gg",
+  "nome_en": "Tainted King's Token",
+  "nome_ptbr": "Tainted King's Token",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "6L-fvUa58zMKWFabeAk0tg",
+  "nome_en": "Tattered Cape",
+  "nome_ptbr": "Tattered Cape",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "ARf7DUYPa_AlyLOOsnTIYw",
+  "nome_en": "Thane's Authority",
+  "nome_ptbr": "Thane's Authority",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 1,
+  "durabilidade": 1300
+ },
+ {
+  "id": "3GRiakVrfak9eBKzKYJqeQ",
+  "nome_en": "The Binding of Ib",
+  "nome_ptbr": "The Binding of Ib",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "GQ7na09L7n8GPkmXLLw01Q",
+  "nome_en": "The Importance of Chaos",
+  "nome_ptbr": "The Importance of Chaos",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "mt-zJkY9TORHawyjpD2CRw",
+  "nome_en": "The Pride of the Avernic",
+  "nome_ptbr": "The Pride of the Avernic",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "I7Cpnk8nMRCVenu9yIrRsA",
+  "nome_en": "The Wrath of Baba Potterington",
+  "nome_ptbr": "The Wrath of Baba Potterington",
+  "categoria": "Anéis",
+  "emoji": "💍",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "7fPUAi9DYkOSI5B_t79TVw",
+  "nome_en": "Tin Bar",
+  "nome_ptbr": "Barra de Estanho",
+  "categoria": "Barras",
+  "emoji": "🧱",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "h1AqBkRETk-Fu_65W6BjVw",
+  "nome_en": "Tin Ore",
+  "nome_ptbr": "Minério de Estanho",
+  "categoria": "Minérios",
+  "emoji": "🪨",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "ds7-v0heeg1F8sW65bvAzQ",
+  "nome_en": "Tin Salvage Pile",
+  "nome_ptbr": "Tin Salvage Pile",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "YMXvUEKL-S_EPFm7a5xvHA",
+  "nome_en": "Titan's Wrath",
+  "nome_ptbr": "Titan's Wrath",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 1,
+  "durabilidade": 1300
+ },
+ {
+  "id": "61d3bkS0nDQWlVqHDt5OaQ",
+  "nome_en": "Toadflax",
+  "nome_ptbr": "Toadflax",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "ePekjUBWSOdzQMmsbjvP8g",
+  "nome_en": "Toadflax Seeds",
+  "nome_ptbr": "Toadflax Seeds",
+  "categoria": "Fazenda",
+  "emoji": "🌱",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "9sGUYUTljibjYSOO3fbgIQ",
+  "nome_en": "Tomato",
+  "nome_ptbr": "Tomato",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "McU9BUE_ZXBScBa7M6QZRw",
+  "nome_en": "Tomato seeds",
+  "nome_ptbr": "Tomato seeds",
+  "categoria": "Fazenda",
+  "emoji": "🌱",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "4z-8l0h5MJBHfpm2GOyiDw",
+  "nome_en": "Tome of Attack - Vol 1",
+  "nome_ptbr": "Tome of Attack - Vol 1",
+  "categoria": "Tumbas",
+  "emoji": "🪦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "x4yO1keTodki4u2fuVOFqA",
+  "nome_en": "Tome of Attack - Vol 2",
+  "nome_ptbr": "Tome of Attack - Vol 2",
+  "categoria": "Tumbas",
+  "emoji": "🪦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "xKjZUEBiIC72rFitwW4m6Q",
+  "nome_en": "Tome of Construction - Vol 1",
+  "nome_ptbr": "Tome of Construction - Vol 1",
+  "categoria": "Tumbas",
+  "emoji": "🪦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "pwfJkkgr-BjVlw-gEXjXrw",
+  "nome_en": "Tome of Construction - Vol 2",
+  "nome_ptbr": "Tome of Construction - Vol 2",
+  "categoria": "Tumbas",
+  "emoji": "🪦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "yxFSIE8VtUQs4c6l7eM_cw",
+  "nome_en": "Tome of Cooking - Vol 1",
+  "nome_ptbr": "Tome of Cooking - Vol 1",
+  "categoria": "Tumbas",
+  "emoji": "🪦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "xeKfT0nc_p4FcdSOi7korw",
+  "nome_en": "Tome of Cooking - Vol 2",
+  "nome_ptbr": "Tome of Cooking - Vol 2",
+  "categoria": "Tumbas",
+  "emoji": "🪦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "-c0ia0DAjcLPRlCGHFGi1A",
+  "nome_en": "Tome of Farming - Vol 1",
+  "nome_ptbr": "Tome of Farming - Vol 1",
+  "categoria": "Tumbas",
+  "emoji": "🪦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "I7LcEEj5FmwWq3GNQclQrA",
+  "nome_en": "Tome of Farming - Vol 2",
+  "nome_ptbr": "Tome of Farming - Vol 2",
+  "categoria": "Tumbas",
+  "emoji": "🪦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "2cTzA0DMigYJPoSk3U-WKw",
+  "nome_en": "Tome of Magic - Vol 1",
+  "nome_ptbr": "Tome of Magic - Vol 1",
+  "categoria": "Tumbas",
+  "emoji": "🪦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "qubFp0_qYyO8K-mNKyS0GA",
+  "nome_en": "Tome of Magic - Vol 2",
+  "nome_ptbr": "Tome of Magic - Vol 2",
+  "categoria": "Tumbas",
+  "emoji": "🪦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "NfrIoUsI1Obs-4KY7LuBkQ",
+  "nome_en": "Tome of Mining - Vol 1",
+  "nome_ptbr": "Tome of Mining - Vol 1",
+  "categoria": "Tumbas",
+  "emoji": "🪦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "4xxJcEnzI6vYpCuDcVIhkw",
+  "nome_en": "Tome of Mining - Vol 2",
+  "nome_ptbr": "Tome of Mining - Vol 2",
+  "categoria": "Tumbas",
+  "emoji": "🪦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "44ZDU03461OXgqSqIMb2IA",
+  "nome_en": "Tome of Ranged - Vol 1",
+  "nome_ptbr": "Tome of Ranged - Vol 1",
+  "categoria": "Tumbas",
+  "emoji": "🪦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "9pn4hkp6rYDf93WjY8uwbQ",
+  "nome_en": "Tome of Ranged - Vol 2",
+  "nome_ptbr": "Tome of Ranged - Vol 2",
+  "categoria": "Tumbas",
+  "emoji": "🪦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "U6OtnkxHtcHAIPy1kMGc8A",
+  "nome_en": "Tome of Runecrafting - Vol 1",
+  "nome_ptbr": "Tome of Runecrafting - Vol 1",
+  "categoria": "Runas",
+  "emoji": "✨",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "A16R9EEWxwuqhsykRimejQ",
+  "nome_en": "Tome of Runecrafting - Vol 2",
+  "nome_ptbr": "Tome of Runecrafting - Vol 2",
+  "categoria": "Runas",
+  "emoji": "✨",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "llpKZU92JhzHdva7AC5vqw",
+  "nome_en": "Tome of the Artisan - Vol 1",
+  "nome_ptbr": "Tome of the Artisan - Vol 1",
+  "categoria": "Tumbas",
+  "emoji": "🪦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "Oom9EkKGmERNFOWbQDqK-A",
+  "nome_en": "Tome of the Artisan - Vol 2",
+  "nome_ptbr": "Tome of the Artisan - Vol 2",
+  "categoria": "Tumbas",
+  "emoji": "🪦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "KlQuMkdkj3bNzr2LWvCBxw",
+  "nome_en": "Tome of the Dragon Slayer",
+  "nome_ptbr": "Tome of the Dragon Slayer",
+  "categoria": "Tumbas",
+  "emoji": "🪦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "9_oomElWmcQ3vDWxNIfvbA",
+  "nome_en": "Tome of the Undying",
+  "nome_ptbr": "Tome of the Undying",
+  "categoria": "Tumbas",
+  "emoji": "🪦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "1lnRvU1YsQeoDdyR_9s6Ug",
+  "nome_en": "Tome of Woodcutting - Vol 1",
+  "nome_ptbr": "Tome of Woodcutting - Vol 1",
+  "categoria": "Lenha",
+  "emoji": "🌲",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "7hpoTUnHdDAIftKIzaRVVA",
+  "nome_en": "Tome of Woodcutting - Vol 2",
+  "nome_ptbr": "Tome of Woodcutting - Vol 2",
+  "categoria": "Lenha",
+  "emoji": "🌲",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "lWGe1hSwiECAS9xhsMzJfg",
+  "nome_en": "Torch",
+  "nome_ptbr": "Torch",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 1,
+  "durabilidade": 1800
+ },
+ {
+  "id": "iO8n7UBZaw3mT3m27D2frw",
+  "nome_en": "Twilight Lily",
+  "nome_ptbr": "Twilight Lily",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "5Y972kmdvcs4vSqWaXZltw",
+  "nome_en": "Ulv's Longbow",
+  "nome_ptbr": "Ulv's Longbow",
+  "categoria": "Arcos",
+  "emoji": "🏹",
+  "max_stack": 1,
+  "durabilidade": 1300
+ },
+ {
+  "id": "wEJ4yUvsp9EeQvK1IvMN9g",
+  "nome_en": "Undead Bone",
+  "nome_ptbr": "Undead Bone",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "ztBa9UgwHvLRyD-ko9Ea3w",
+  "nome_en": "Undead Draconic Visage",
+  "nome_ptbr": "Undead Draconic Visage",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "C12YuEnnFEKdJhWmXv3hFg",
+  "nome_en": "Undead Meat",
+  "nome_ptbr": "Undead Meat",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "cEEQVE9__6Ch0naJHHXmvQ",
+  "nome_en": "Undead Ranger's Bow",
+  "nome_ptbr": "Undead Ranger's Bow",
+  "categoria": "Arcos",
+  "emoji": "🏹",
+  "max_stack": 1,
+  "durabilidade": 1050
+ },
+ {
+  "id": "yxA67EjEbE--tVi4u0pn6A",
+  "nome_en": "Undead Spade",
+  "nome_ptbr": "Undead Spade",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 1,
+  "durabilidade": 450
+ },
+ {
+  "id": "ksnsjULZfCA4oa63yNWkkg",
+  "nome_en": "Unholy Symbol",
+  "nome_ptbr": "Unholy Symbol",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 1,
+  "durabilidade": 2500
+ },
+ {
+  "id": "XgIbvE39a-uFSJKWcwYDSA",
+  "nome_en": "Unholy Water",
+  "nome_ptbr": "Unholy Water",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "PGr-_U1RdW7DxSyRq38KHw",
+  "nome_en": "Unusual Trout",
+  "nome_ptbr": "Unusual Trout",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "52QCB0uSNJD0UoC21lRJvA",
+  "nome_en": "Vault Core",
+  "nome_ptbr": "Vault Core",
+  "categoria": "Minérios",
+  "emoji": "🪨",
+  "max_stack": 25,
+  "durabilidade": null
+ },
+ {
+  "id": "T8l7pktHUJoUuxi9mkrT7g",
+  "nome_en": "Vault Shard",
+  "nome_ptbr": "Vault Shard",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "V8Zm8EJdBfS9TYyDcNaosQ",
+  "nome_en": "Vegan Fryup",
+  "nome_ptbr": "Vegan Fryup",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "lUXT6k3qLQtJa4CdnnJw5g",
+  "nome_en": "Vegetable Soup",
+  "nome_ptbr": "Vegetable Soup",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "3zU6qknpEF2Wg6STSQMHtQ",
+  "nome_en": "Velgar's Head",
+  "nome_ptbr": "Velgar's Head",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "r8vHFkQKCscKp1OoC17YCQ",
+  "nome_en": "Vile Ashes",
+  "nome_ptbr": "Vile Ashes",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "z-xbJy9IS0iWNNx9WciARQ",
+  "nome_en": "Vine Root",
+  "nome_ptbr": "Vine Root",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 20,
+  "durabilidade": null
+ },
+ {
+  "id": "bbLdJRhwPEWt1ScENYRUCg",
+  "nome_en": "Water Rune",
+  "nome_ptbr": "Runa de Água",
+  "categoria": "Runas",
+  "emoji": "✨",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "Oj3BdU4ZfC9iOtq4vXaOww",
+  "nome_en": "Watermelon",
+  "nome_ptbr": "Watermelon",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "DwwoW0qeygf3xt-AJSJ8YA",
+  "nome_en": "Watermelon Jerky",
+  "nome_ptbr": "Watermelon Jerky",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "GX_XpEZAZdX7koKAEyFSKQ",
+  "nome_en": "Watermelon seeds",
+  "nome_ptbr": "Watermelon seeds",
+  "categoria": "Fazenda",
+  "emoji": "🌱",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "ukjoSEXQTWbO6zSJvP5Z4Q",
+  "nome_en": "Weak Antipoison Potion",
+  "nome_ptbr": "Weak Antipoison Potion",
+  "categoria": "Poções",
+  "emoji": "🧪",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "CPT7I01jfIBmhyCQLJH31A",
+  "nome_en": "Weak Focused Artisan Potion",
+  "nome_ptbr": "Weak Focused Artisan Potion",
+  "categoria": "Poções",
+  "emoji": "🧪",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "Gl810k3TcUSB866zC50I2g",
+  "nome_en": "Weak Focused Attack Potion",
+  "nome_ptbr": "Weak Focused Attack Potion",
+  "categoria": "Poções",
+  "emoji": "🧪",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "m4bFA0UwQOecAhah3hNtSA",
+  "nome_en": "Weak Focused Construction Potion",
+  "nome_ptbr": "Weak Focused Construction Potion",
+  "categoria": "Poções",
+  "emoji": "🧪",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "K7le0EXS_TjIx-Wb9d9PZg",
+  "nome_en": "Weak Focused Cooking Potion",
+  "nome_ptbr": "Weak Focused Cooking Potion",
+  "categoria": "Poções",
+  "emoji": "🧪",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "HCnG10E8sW72-wa0bbZZfg",
+  "nome_en": "Weak Focused Farming Potion",
+  "nome_ptbr": "Weak Focused Farming Potion",
+  "categoria": "Poções",
+  "emoji": "🧪",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "8gh6wkTHrHGgAMSeSMHNTw",
+  "nome_en": "Weak Focused Mining Potion",
+  "nome_ptbr": "Weak Focused Mining Potion",
+  "categoria": "Poções",
+  "emoji": "🧪",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "0PXPSUTx8SdrxW6J26Ljfw",
+  "nome_en": "Weak Focused Runecraft Potion",
+  "nome_ptbr": "Weak Focused Runecraft Potion",
+  "categoria": "Runas",
+  "emoji": "✨",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "U3WBak2LNdsGzrajcaLGpw",
+  "nome_en": "Weak Focused Woodcutting Potion",
+  "nome_ptbr": "Weak Focused Woodcutting Potion",
+  "categoria": "Lenha",
+  "emoji": "🌲",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "qRA1TEfZJkMoanWXc_l-Sg",
+  "nome_en": "Weak Healing Potion",
+  "nome_ptbr": "Weak Healing Potion",
+  "categoria": "Poções",
+  "emoji": "🧪",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "ni4XGUQ7iWkplmuumD7kkA",
+  "nome_en": "Weak Lumberjack Potion",
+  "nome_ptbr": "Weak Lumberjack Potion",
+  "categoria": "Poções",
+  "emoji": "🧪",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "2aa7lkBxEmc_Zuy6bPQ-Ag",
+  "nome_en": "Weak Quarrymaster Potion",
+  "nome_ptbr": "Weak Quarrymaster Potion",
+  "categoria": "Poções",
+  "emoji": "🧪",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "gMtJMk-b5kwQmSKqmGSimw",
+  "nome_en": "Weapon Barbs",
+  "nome_ptbr": "Weapon Barbs",
+  "categoria": "Barras",
+  "emoji": "🧱",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "0h15KUoKwZakrXihaEqoqg",
+  "nome_en": "Weapon Poison",
+  "nome_ptbr": "Weapon Poison",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "tZixd0Fg53WIeDKDenVy4A",
+  "nome_en": "Weeds",
+  "nome_ptbr": "Weeds",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "1PhTmE-FuOrQnFSxSVMfUQ",
+  "nome_en": "Wheat",
+  "nome_ptbr": "Trigo",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "muWQNEPDzvIGl3ekVbIVRQ",
+  "nome_en": "Wheat seeds",
+  "nome_ptbr": "Wheat seeds",
+  "categoria": "Fazenda",
+  "emoji": "🌱",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "3wV1xUv5zBDHRiaAk2qv7w",
+  "nome_en": "Whetstone",
+  "nome_ptbr": "Whetstone",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "qANQGE8VKB_lSNeI-PHxGQ",
+  "nome_en": "Whispering Cape",
+  "nome_ptbr": "Whispering Cape",
+  "categoria": "Anéis",
+  "emoji": "💍",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "HbmyZUThqBt2KcOj76C94w",
+  "nome_en": "White Adventurer's Cape",
+  "nome_ptbr": "White Adventurer's Cape",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "xtEdM0Yqszwm-EecebIkmg",
+  "nome_en": "White Full Helm",
+  "nome_ptbr": "White Full Helm",
+  "categoria": "Elmos",
+  "emoji": "⛑️",
+  "max_stack": 1,
+  "durabilidade": 1500
+ },
+ {
+  "id": "ayHkBEYv_2a4B12L34FYzg",
+  "nome_en": "White Platebody",
+  "nome_ptbr": "White Platebody",
+  "categoria": "Peitorais",
+  "emoji": "👕",
+  "max_stack": 1,
+  "durabilidade": 1500
+ },
+ {
+  "id": "Mbvs0E3m6SxphTmzqShZxw",
+  "nome_en": "White Platelegs",
+  "nome_ptbr": "White Platelegs",
+  "categoria": "Perneiras",
+  "emoji": "👖",
+  "max_stack": 1,
+  "durabilidade": 1500
+ },
+ {
+  "id": "LURhZ0Q6FaLGzh-siBuT7g",
+  "nome_en": "Wild Anima",
+  "nome_ptbr": "Wild Anima",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "fr5LJkUvJRZ-DbqVbKaB4w",
+  "nome_en": "Wild Archer Body",
+  "nome_ptbr": "Wild Archer Body",
+  "categoria": "Peitorais",
+  "emoji": "👕",
+  "max_stack": 1,
+  "durabilidade": 1400
+ },
+ {
+  "id": "l6qWl0-xTPdrhweMah3eTg",
+  "nome_en": "Wild Archer Chaps",
+  "nome_ptbr": "Wild Archer Chaps",
+  "categoria": "Perneiras",
+  "emoji": "👖",
+  "max_stack": 1,
+  "durabilidade": 1400
+ },
+ {
+  "id": "gIoZIUIT52OUDkGFuzSBlw",
+  "nome_en": "Wild Archer Cowl",
+  "nome_ptbr": "Wild Archer Cowl",
+  "categoria": "Elmos",
+  "emoji": "⛑️",
+  "max_stack": 1,
+  "durabilidade": 1400
+ },
+ {
+  "id": "Ub1yCE7dcEADMJKZcOHMMQ",
+  "nome_en": "Wild Pie",
+  "nome_ptbr": "Wild Pie",
+  "categoria": "Comida",
+  "emoji": "🍖",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "NqTlRkd7Zw4BE9GM_mDbtw",
+  "nome_en": "Wild Scout's Shortbow",
+  "nome_ptbr": "Wild Scout's Shortbow",
+  "categoria": "Arcos",
+  "emoji": "🏹",
+  "max_stack": 1,
+  "durabilidade": 1050
+ },
+ {
+  "id": "rwa8v0ugnp7LnvGKd3V29g",
+  "nome_en": "Willow Logs",
+  "nome_ptbr": "Troncos de Salgueiro",
+  "categoria": "Lenha",
+  "emoji": "🌲",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "h9TzWU4BA7oNtFC_5A8DLg",
+  "nome_en": "Willow Longbow",
+  "nome_ptbr": "Arco Longo de Salgueiro",
+  "categoria": "Arcos",
+  "emoji": "🏹",
+  "max_stack": 1,
+  "durabilidade": 1300
+ },
+ {
+  "id": "djB3Z0qsYhwDyyS0xxKMuQ",
+  "nome_en": "Willow Shortbow",
+  "nome_ptbr": "Arco Curto de Salgueiro",
+  "categoria": "Arcos",
+  "emoji": "🏹",
+  "max_stack": 1,
+  "durabilidade": 1300
+ },
+ {
+  "id": "ztu0Ik00blWibq6-8Y9f2g",
+  "nome_en": "Willow tree seed",
+  "nome_ptbr": "Willow tree seed",
+  "categoria": "Fazenda",
+  "emoji": "🌱",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "QezLIU6YRuQdDUKbCkZqBA",
+  "nome_en": "Willow tree seed",
+  "nome_ptbr": "Willow tree seed",
+  "categoria": "Fazenda",
+  "emoji": "🌱",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "7MEFaERG0Ka6-jO7J8Vc3A",
+  "nome_en": "Wither Water",
+  "nome_ptbr": "Wither Water",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "fS-ZKE_Ymkc-RL-2ySIl9A",
+  "nome_en": "Withered Heart",
+  "nome_ptbr": "Withered Heart",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "rCw_tULBJw2cbgiNTYjmuQ",
+  "nome_en": "Withering Heights Reward Pack",
+  "nome_ptbr": "Withering Heights Reward Pack",
+  "categoria": "Anéis",
+  "emoji": "💍",
+  "max_stack": 10,
+  "durabilidade": null
+ },
+ {
+  "id": "h0jHf-hTx0KeGyukdCnN4Q",
+  "nome_en": "Wizard Hat",
+  "nome_ptbr": "Wizard Hat",
+  "categoria": "Elmos",
+  "emoji": "⛑️",
+  "max_stack": 1,
+  "durabilidade": 1250
+ },
+ {
+  "id": "FlnNkilo_EyfB0gbqf32AQ",
+  "nome_en": "Wizard Robe Legs",
+  "nome_ptbr": "Wizard Robe Legs",
+  "categoria": "Peitorais",
+  "emoji": "👕",
+  "max_stack": 1,
+  "durabilidade": 1250
+ },
+ {
+  "id": "2-okKxsy7k-FRgP-vgQEQA",
+  "nome_en": "Wizard Robes",
+  "nome_ptbr": "Wizard Robes",
+  "categoria": "Peitorais",
+  "emoji": "👕",
+  "max_stack": 1,
+  "durabilidade": 1250
+ },
+ {
+  "id": "sJPSNEYJF6H5AqaDdl0pQQ",
+  "nome_en": "Wolfbane Dagger",
+  "nome_ptbr": "Wolfbane Dagger",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 1300
+ },
+ {
+  "id": "tONipUK6uHIncbGoHW67Ww",
+  "nome_en": "Woodcutting Cape",
+  "nome_ptbr": "Woodcutting Cape",
+  "categoria": "Lenha",
+  "emoji": "🌲",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "bIwxyUxgeaVtw_-2_uCxKw",
+  "nome_en": "Woodcutting Cape (Trimmed)",
+  "nome_ptbr": "Woodcutting Cape (Trimmed)",
+  "categoria": "Lenha",
+  "emoji": "🌲",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "v1ZsjAYc-EC084k4NAV-rA",
+  "nome_en": "Wooden Arrow",
+  "nome_ptbr": "Flecha de Madeira",
+  "categoria": "Flechas/Virotes",
+  "emoji": "🏹",
+  "max_stack": 999,
+  "durabilidade": null
+ },
+ {
+  "id": "vcTl56joPka7MwbZ3Mvxbg",
+  "nome_en": "Wooden Club",
+  "nome_ptbr": "Wooden Club",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 275
+ },
+ {
+  "id": "XiatxUToDUaswQb3Xrz6NQ",
+  "nome_en": "Wooden Shield",
+  "nome_ptbr": "Escudo de Madeira",
+  "categoria": "Escudos",
+  "emoji": "🛡️",
+  "max_stack": 1,
+  "durabilidade": 500
+ },
+ {
+  "id": "fgdBl0_xCWAS7oeytewVnA",
+  "nome_en": "Wooden Spade",
+  "nome_ptbr": "Wooden Spade",
+  "categoria": "Lenha",
+  "emoji": "🌲",
+  "max_stack": 1,
+  "durabilidade": 300
+ },
+ {
+  "id": "fLnzAkbRMzh0TW-4zuBoLQ",
+  "nome_en": "Wooden Training Sword",
+  "nome_ptbr": "Wooden Training Sword",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 1,
+  "durabilidade": 850
+ },
+ {
+  "id": "KdTx0k1z9bKZ6EeFI_R9NA",
+  "nome_en": "Wooden Watering Can",
+  "nome_ptbr": "Wooden Watering Can",
+  "categoria": "Anéis",
+  "emoji": "💍",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "ZdUEQUlgodd2eLeZKYrHFA",
+  "nome_en": "Woodsman Ring",
+  "nome_ptbr": "Woodsman Ring",
+  "categoria": "Anéis",
+  "emoji": "💍",
+  "max_stack": 1,
+  "durabilidade": 1000
+ },
+ {
+  "id": "Jf2AM4PfnUqwTuW0cPXheA",
+  "nome_en": "Wool Cloth",
+  "nome_ptbr": "Wool Cloth",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "vgsjm0jT19zFn1uH9N2Rbg",
+  "nome_en": "Wool Thread",
+  "nome_ptbr": "Wool Thread",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 50,
+  "durabilidade": null
+ },
+ {
+  "id": "KWy6hkjlCUL1a0eynn0ptg",
+  "nome_en": "Yellow Adventurer's Cape",
+  "nome_ptbr": "Yellow Adventurer's Cape",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "n7f1sU8i2d5NTeqr79Q2jw",
+  "nome_en": "Yellow Dyad Cape",
+  "nome_ptbr": "Yellow Dyad Cape",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "5ObYyU8L58JkwhCmQRd4ow",
+  "nome_en": "Yellow Hex Cape",
+  "nome_ptbr": "Yellow Hex Cape",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "8L37OE7i2JOHvnKTu-_-xw",
+  "nome_en": "Zamorak Cape",
+  "nome_ptbr": "Zamorak Cape",
+  "categoria": "Capas",
+  "emoji": "🧥",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "Y6JG90UQGtCjaEWeXeohyA",
+  "nome_en": "Zamorak Hood",
+  "nome_ptbr": "Zamorak Hood",
+  "categoria": "Elmos",
+  "emoji": "⛑️",
+  "max_stack": 1,
+  "durabilidade": 1750
+ },
+ {
+  "id": "qoTWm0fCuyU02EaXPn_WYw",
+  "nome_en": "Zamorak Robe Legs",
+  "nome_ptbr": "Zamorak Robe Legs",
+  "categoria": "Peitorais",
+  "emoji": "👕",
+  "max_stack": 1,
+  "durabilidade": 1750
+ },
+ {
+  "id": "OezNHEUySdZx5LKVOe5__A",
+  "nome_en": "Zamorak Robes",
+  "nome_ptbr": "Zamorak Robes",
+  "categoria": "Peitorais",
+  "emoji": "👕",
+  "max_stack": 1,
+  "durabilidade": 1750
+ },
+ {
+  "id": "IpM2CEjR22G7q_eELH0Iow",
+  "nome_en": "Zamorak Staff",
+  "nome_ptbr": "Zamorak Staff",
+  "categoria": "Cajados",
+  "emoji": "🪄",
+  "max_stack": 1,
+  "durabilidade": 1600
+ },
+ {
+  "id": "jiVl80bzK87SNYiQaaybXQ",
+  "nome_en": "Zamorakian Mage Pack",
+  "nome_ptbr": "Zamorakian Mage Pack",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "0ZKBCU6_6BuBFhCE66pz0A",
+  "nome_en": "Zamorakian Warrior Pack",
+  "nome_ptbr": "Zamorakian Warrior Pack",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "Xu0iS035hkxA9PKMNalJdQ",
+  "nome_en": "Zogre Pack",
+  "nome_ptbr": "Zogre Pack",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "z0Cq8kyZGceXi3KE508GDg",
+  "nome_en": "Zombie Axe",
+  "nome_ptbr": "Zombie Axe",
+  "categoria": "Ferramentas",
+  "emoji": "⛏️",
+  "max_stack": 1,
+  "durabilidade": 1300
+ },
+ {
+  "id": "YCNMyE4JSnEKtNmJJL1sMw",
+  "nome_en": "Zombie Pack",
+  "nome_ptbr": "Zombie Pack",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "LbZ25U9zDiMV9Y2mZiUkdA",
+  "nome_en": "[PH] Abysal Lantern",
+  "nome_ptbr": "[PH] Abysal Lantern",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 25,
+  "durabilidade": null
+ },
+ {
+  "id": "L910nkHgsySXXwio7CfE7w",
+  "nome_en": "[PH] Dreamstone Lantern",
+  "nome_ptbr": "[PH] Dreamstone Lantern",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "CgBtgUYiZCZC5QmnqvAebw",
+  "nome_en": "[PH] Gatekeeper Greatsword",
+  "nome_ptbr": "[PH] Gatekeeper Greatsword",
+  "categoria": "Armas Corpo a Corpo",
+  "emoji": "⚔️",
+  "max_stack": 99,
+  "durabilidade": null
+ },
+ {
+  "id": "lZVUXUVhycw9AC-chq6hvg",
+  "nome_en": "[PH] Lantern Handle",
+  "nome_ptbr": "[PH] Lantern Handle",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 25,
+  "durabilidade": null
+ },
+ {
+  "id": "HHXDR0_DJmuYJ423pebA5g",
+  "nome_en": "[PH] Lantern Lens",
+  "nome_ptbr": "[PH] Lantern Lens",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "kKE0g096uQ-0_7eA5qolUg",
+  "nome_en": "[PH] Large Dream Shard",
+  "nome_ptbr": "[PH] Large Dream Shard",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 25,
+  "durabilidade": null
+ },
+ {
+  "id": "HRS8Uk9eJ7jNYTaxeR6-xw",
+  "nome_en": "[PH] Lens Mould",
+  "nome_ptbr": "[PH] Lens Mould",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 25,
+  "durabilidade": null
+ },
+ {
+  "id": "aqAX10VI_108ALiidaJH_A",
+  "nome_en": "[PH] Page from Demon Master's Journal",
+  "nome_ptbr": "[PH] Page from Demon Master's Journal",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "aS0zgEZbMtsDiiKNGvsyVg",
+  "nome_en": "[PH] Page from Ratmaster's Journal",
+  "nome_ptbr": "[PH] Page from Ratmaster's Journal",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "7e6im0NkLJ8wwPiVslzvdw",
+  "nome_en": "[PH] Page from the Houndmaster's Journal",
+  "nome_ptbr": "[PH] Page from the Houndmaster's Journal",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 1,
+  "durabilidade": null
+ },
+ {
+  "id": "HoxsiUzCz6tQz7SvHZ74Qw",
+  "nome_en": "[PH] Portal Sigil",
+  "nome_ptbr": "[PH] Portal Sigil",
+  "categoria": "Itens Básicos",
+  "emoji": "📦",
+  "max_stack": 8,
+  "durabilidade": null
+ }
+]
