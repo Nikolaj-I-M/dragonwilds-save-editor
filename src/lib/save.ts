@@ -64,6 +64,18 @@ export function getStamina(data: SaveData): number {
   return data.GameProgress.Character?.Stamina?.CurrentValue ?? 0;
 }
 
+export function getSustenance(data: SaveData): number {
+  return (data.GameProgress.Character?.Sustenance as { SustenanceValue?: number } | undefined)?.SustenanceValue ?? 0;
+}
+
+export function getHydration(data: SaveData): number {
+  return (data.GameProgress.Character?.Hydration as { HydrationValue?: number } | undefined)?.HydrationValue ?? 0;
+}
+
+export function getEndurance(data: SaveData): number {
+  return (data.GameProgress.Character?.Endurance as { EnduranceValue?: number } | undefined)?.EnduranceValue ?? 0;
+}
+
 /** Returns the skill XP values stored by current Dragonwilds saves. */
 export function getSkillXp(data: SaveData): Record<string, number> {
   const skillsContainer = data.GameProgress.Skills as { Skills?: unknown } | undefined;
@@ -128,6 +140,31 @@ export function setHealth(data: SaveData, value: number): SaveData {
 
 export function setStamina(data: SaveData, value: number): SaveData {
   return setAttribute(data, "Stamina", Math.max(0, value));
+}
+
+function setSurvivalValue(
+  data: SaveData,
+  attribute: "Sustenance" | "Hydration" | "Endurance",
+  value: number,
+): SaveData {
+  const next = structuredClone(data);
+  const character = (next.GameProgress.Character ??= {});
+  const key = `${attribute}Value`;
+  const record = (character[attribute] ??= {}) as Record<string, number>;
+  record[key] = Math.max(0, Math.min(100, value));
+  return next;
+}
+
+export function setSustenance(data: SaveData, value: number): SaveData {
+  return setSurvivalValue(data, "Sustenance", value);
+}
+
+export function setHydration(data: SaveData, value: number): SaveData {
+  return setSurvivalValue(data, "Hydration", value);
+}
+
+export function setEndurance(data: SaveData, value: number): SaveData {
+  return setSurvivalValue(data, "Endurance", value);
 }
 
 /** Updates XP only. Dragonwilds calculates the displayed level itself when loading. */

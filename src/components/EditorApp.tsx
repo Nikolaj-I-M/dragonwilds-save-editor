@@ -16,18 +16,24 @@ import { detectLang, itemName, t } from "@/lib/i18n";
 import {
   clearSlot as clearSlotIn,
   getCharName,
+  getEndurance,
   getHealth,
+  getHydration,
   getInventoryEntries,
   getSkillXp,
   getStamina,
+  getSustenance,
   InvalidSaveError,
   parseSave,
   serializeSave,
   setCharName,
   setHealth,
+  setHydration,
   setSlot,
   setSkillXp,
   setStamina,
+  setSustenance,
+  setEndurance,
 } from "@/lib/save";
 import { downloadText, pickSaveFile, writeToHandle } from "@/lib/files";
 import {
@@ -300,12 +306,15 @@ export default function EditorApp() {
   }, [data, selectedSlot, mutate, lang, push]);
 
   const handleApplyCharacter = useCallback(
-    (changes: { name: string; health: number; stamina: number }) => {
+    (changes: { name: string; health: number; stamina: number; sustenance: number; hydration: number; endurance: number }) => {
       if (!data) return;
       const renamed = changes.name !== getCharName(data);
       let next = setCharName(data, changes.name);
       next = setHealth(next, changes.health);
       next = setStamina(next, changes.stamina);
+      next = setSustenance(next, changes.sustenance);
+      next = setHydration(next, changes.hydration);
+      next = setEndurance(next, changes.endurance);
       mutate(next);
       push(
         renamed
@@ -432,6 +441,9 @@ export default function EditorApp() {
               charName={getCharName(data)}
               health={getHealth(data)}
               stamina={getStamina(data)}
+              sustenance={getSustenance(data)}
+              hydration={getHydration(data)}
+              endurance={getEndurance(data)}
               onApply={handleApplyCharacter}
             />
             <SkillsPanel

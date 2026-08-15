@@ -9,20 +9,29 @@ interface Props {
   charName: string;
   health: number;
   stamina: number;
-  onApply: (changes: { name: string; health: number; stamina: number }) => void;
+  sustenance: number;
+  hydration: number;
+  endurance: number;
+  onApply: (changes: { name: string; health: number; stamina: number; sustenance: number; hydration: number; endurance: number }) => void;
 }
 
 /** Escala ilustrativa das barras (atributos do jogo ficam tipicamente em 0–200). */
 const BAR_SCALE = 200;
 
-export default function CharacterPanel({ lang, charName, health, stamina, onApply }: Props) {
+export default function CharacterPanel({ lang, charName, health, stamina, sustenance, hydration, endurance, onApply }: Props) {
   const [name, setName] = useState(charName);
   const [healthValue, setHealthValue] = useState(Math.round(health));
   const [staminaValue, setStaminaValue] = useState(Math.round(stamina));
+  const [sustenanceValue, setSustenanceValue] = useState(Math.round(sustenance));
+  const [hydrationValue, setHydrationValue] = useState(Math.round(hydration));
+  const [enduranceValue, setEnduranceValue] = useState(Math.round(endurance));
 
   useEffect(() => setName(charName), [charName]);
   useEffect(() => setHealthValue(Math.round(health)), [health]);
   useEffect(() => setStaminaValue(Math.round(stamina)), [stamina]);
+  useEffect(() => setSustenanceValue(Math.round(sustenance)), [sustenance]);
+  useEffect(() => setHydrationValue(Math.round(hydration)), [hydration]);
+  useEffect(() => setEnduranceValue(Math.round(endurance)), [endurance]);
 
   return (
     <div className="panel">
@@ -56,6 +65,24 @@ export default function CharacterPanel({ lang, charName, health, stamina, onAppl
         />
       </div>
 
+      {[
+        [t(lang, "sustenance"), sustenanceValue, setSustenanceValue],
+        [t(lang, "hydration"), hydrationValue, setHydrationValue],
+        [t(lang, "endurance"), enduranceValue, setEnduranceValue],
+      ].map(([label, value, setValue]) => (
+        <div key={label as string} className="mt-2 flex items-center justify-between gap-2.5">
+          <span className="text-sm font-semibold text-muted">{label as string}</span>
+          <input
+            type="number"
+            className="field w-[110px] text-right"
+            min={0}
+            max={100}
+            value={value as number}
+            onChange={(event) => (setValue as (next: number) => void)(Number(event.target.value))}
+          />
+        </div>
+      ))}
+
       <div className="mt-2 flex items-center justify-between gap-2.5">
         <span className="text-sm font-semibold text-stamina">⚡ {t(lang, "stamina")}</span>
         <input
@@ -80,6 +107,9 @@ export default function CharacterPanel({ lang, charName, health, stamina, onAppl
             name: name.trim() || charName,
             health: healthValue,
             stamina: staminaValue,
+            sustenance: sustenanceValue,
+            hydration: hydrationValue,
+            endurance: enduranceValue,
           })
         }
       >
