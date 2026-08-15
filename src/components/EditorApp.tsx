@@ -299,6 +299,30 @@ export default function EditorApp() {
     [data, selectedSlot, mutate, lang, push],
   );
 
+  const handleCtrlAddToBackpack = useCallback((item: CatalogItem) => {
+    if (!data) return;
+    const emptySlot = Array.from({ length: 24 }, (_, index) => index + 8)
+      .find((slot) => !inventoryEntries[String(slot)]);
+    if (emptySlot === undefined) {
+      push(t(lang, "toast_backpack_full"), "error");
+      return;
+    }
+    mutate(setSlot(data, emptySlot, item, item.max_stack));
+    setSelectedSlot(emptySlot);
+    setFlashSlot(emptySlot);
+    setTimeout(() => setFlashSlot(null), 550);
+    push(t(lang, "toast_item_added", {
+      item: itemName(lang, item), count: item.max_stack, slot: emptySlot,
+    }), "success");
+  }, [data, inventoryEntries, lang, mutate, push]);
+
+  const handleCtrlClearBackpackSlot = useCallback((slot: number) => {
+    if (!data) return;
+    mutate(clearSlotIn(data, slot));
+    if (selectedSlot === slot) setSelectedSlot(null);
+    push(t(lang, "toast_slot_cleared", { slot }));
+  }, [data, lang, mutate, push, selectedSlot]);
+
   const handleClearSlot = useCallback(() => {
     if (!data || selectedSlot === null) return;
     mutate(clearSlotIn(data, selectedSlot));
@@ -421,12 +445,14 @@ export default function EditorApp() {
             selectedSlot={selectedSlot}
             flashSlot={flashSlot}
             onSelectSlot={setSelectedSlot}
+            onCtrlClickBackpackSlot={handleCtrlClearBackpackSlot}
           />
           <aside className="flex min-w-0 flex-col gap-3.5">
             <ItemBrowser
               lang={lang}
               selectedItem={selectedItem}
               onSelectItem={setSelectedItem}
+              onCtrlClickItem={handleCtrlAddToBackpack}
             />
             <ItemDetail
               lang={lang}

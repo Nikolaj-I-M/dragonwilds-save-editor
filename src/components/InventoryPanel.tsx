@@ -21,10 +21,11 @@ interface Props {
   selectedSlot: number | null;
   flashSlot: number | null;
   onSelectSlot: (slot: number) => void;
+  onCtrlClickBackpackSlot: (slot: number) => void;
 }
 
 function SlotButton({
-  lang, slot, entry, selected, flash, onSelect,
+  lang, slot, entry, selected, flash, onSelect, onCtrlClick,
 }: {
   lang: Lang;
   slot: number;
@@ -32,6 +33,7 @@ function SlotButton({
   selected: boolean;
   flash: boolean;
   onSelect: (slot: number) => void;
+  onCtrlClick: (slot: number) => void;
 }) {
   const item = entry ? CATALOG_BY_ID.get(entry.ItemData) : undefined;
   const icon = item ? iconUrl(item) : null;
@@ -49,7 +51,13 @@ function SlotButton({
   return (
     <button
       className={`slot ${entry ? "filled" : ""} ${selected ? "selected" : ""} ${flash ? "flash" : ""}`}
-      onClick={() => onSelect(slot)}
+      onClick={(event) => {
+        if (event.ctrlKey && slot >= 8 && slot <= 31 && entry) {
+          onCtrlClick(slot);
+          return;
+        }
+        onSelect(slot);
+      }}
       {...tipHandlers(tipTitle, tipSub)}
     >
       <span className="pointer-events-none absolute top-0.5 left-1.5 text-[9.5px] text-muted-2">
@@ -84,7 +92,7 @@ function SlotButton({
 }
 
 function InventoryPanel({
-  lang, entries, selectedSlot, flashSlot, onSelectSlot,
+  lang, entries, selectedSlot, flashSlot, onSelectSlot, onCtrlClickBackpackSlot,
 }: Props) {
   return (
     <section className="flex min-w-0 flex-col gap-3.5">
@@ -123,6 +131,7 @@ function InventoryPanel({
                   selected={selectedSlot === slot}
                   flash={flashSlot === slot}
                   onSelect={onSelectSlot}
+                  onCtrlClick={onCtrlClickBackpackSlot}
                 />
               );
             })}

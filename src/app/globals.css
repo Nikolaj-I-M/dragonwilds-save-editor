@@ -245,6 +245,26 @@ body::before {
   box-shadow: 0 0 12px #c9a22766;
 }
 
+.favorite-toggle {
+  position: absolute;
+  top: 2px;
+  right: 2px;
+  width: 19px;
+  height: 19px;
+  padding: 0;
+  border: 0;
+  border-radius: 999px;
+  background: #0a0e17cc;
+  color: #73809b;
+  font-size: 13px;
+  line-height: 19px;
+  cursor: pointer;
+  opacity: 0;
+  transition: color 0.15s, background 0.15s, opacity 0.15s;
+}
+.relative:hover .favorite-toggle, .favorite-toggle:focus, .favorite-toggle.active { opacity: 1; }
+.favorite-toggle:hover, .favorite-toggle.active { color: var(--color-gold-bright); background: #252011e8; }
+
 /* ---- chips de categoria ---- */
 
 .chip {

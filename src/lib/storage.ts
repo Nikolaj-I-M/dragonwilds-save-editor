@@ -6,6 +6,7 @@
  *  - `dw:recents`  last opened saves (with content), to reopen in one click
  *  - `dw:vault`    timestamped backup snapshots taken on every open/save,
  *                  so a previous version can always be restored
+ *  - `dw:favorites` item IDs starred in the item browser
  */
 
 import type { Lang } from "./types";
@@ -14,6 +15,7 @@ const KEY_LANG = "dw:lang";
 const KEY_SESSION = "dw:session";
 const KEY_RECENTS = "dw:recents";
 const KEY_VAULT = "dw:vault";
+const KEY_FAVORITES = "dw:favorites";
 const MAX_RECENTS = 5;
 const MAX_VAULT = 30;
 
@@ -133,4 +135,14 @@ export function clearVault(): void {
   } catch {
     /* ignore */
   }
+}
+
+// ---- Favoritos ----------------------------------------------------------------
+
+export function loadFavorites(): string[] {
+  return read<string[]>(KEY_FAVORITES) ?? [];
+}
+
+export function saveFavorites(itemIds: string[]): void {
+  write(KEY_FAVORITES, [...new Set(itemIds)]);
 }

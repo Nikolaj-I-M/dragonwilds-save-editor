@@ -4,17 +4,23 @@ import { memo, useMemo, useState } from "react";
 import { tipHandlers } from "@/components/Tooltip";
 import { CATALOG, iconUrl } from "@/lib/catalog";
 import { categoryName, itemName, t } from "@/lib/i18n";
+import { loadFavorites, saveFavorites } from "@/lib/storage";
 import type { CatalogItem, Lang } from "@/lib/types";
 
 interface Props {
   lang: Lang;
   selectedItem: CatalogItem | null;
   onSelectItem: (item: CatalogItem) => void;
+  onCtrlClickItem: (item: CatalogItem) => void;
 }
 
-function ItemBrowser({ lang, selectedItem, onSelectItem }: Props) {
+const FAVORITES = "__favorites__";
+
+function ItemBrowser({ lang, selectedItem, onSelectItem, onCtrlClickItem }: Props) {
   const [search, setSearch] = useState("");
   const [category, setCategory] = useState<string | null>(null);
+  const [favorites, setFavorites] = useState<string[]>(loadFavorites);
+  const favoriteSet = useMemo(() => new Set(favorites), [favorites]);
 
   const categories = useMemo(
     () =>
@@ -27,7 +33,8 @@ function ItemBrowser({ lang, selectedItem, onSelectItem }: Props) {
   const items = useMemo(() => {
     const query = search.trim().toLowerCase();
     return CATALOG.filter((item) => {
-      if (category && item.category !== category) return false;
+      if (category === FAVORITES && !favoriteSet.has(item.id)) return false;
+      if (category && category !== FAVORITES && item.category !== category) return false;
       if (!query) return true;
       return (
         item.name.toLowerCase().includes(query) ||
@@ -35,7 +42,15 @@ function ItemBrowser({ lang, selectedItem, onSelectItem }: Props) {
         categoryName(lang, item.category).toLowerCase().includes(query)
       );
     });
-  }, [search, category, lang]);
+  }, [search, category, favoriteSet, lang]);
+
+  const toggleFavorite = (itemId: string) => {
+    const next = favoriteSet.has(itemId)
+      ? favorites.filter((id) => id !== itemId)
+      : [...favorites, itemId];
+    setFavorites(next);
+    saveFavorites(next);
+  };
 
   return (
     <div className="panel flex flex-col">
@@ -68,6 +83,12 @@ function ItemBrowser({ lang, selectedItem, onSelectItem }: Props) {
         >
           {t(lang, "all_categories")}
         </button>
+        <button
+          className={`chip ${category === FAVORITES ? "active" : ""}`}
+          onClick={() => setCategory(category === FAVORITES ? null : FAVORITES)}
+        >
+          ★ {t(lang, "favorites")}
+        </button>
         {categories.map((cat) => (
           <button
             key={cat}
@@ -90,27 +111,38 @@ function ItemBrowser({ lang, selectedItem, onSelectItem }: Props) {
         {items.map((item, index) => {
           const icon = iconUrl(item);
           return (
-            <button
-              key={item.id}
-              role="option"
-              aria-selected={selectedItem?.id === item.id}
-              className={`item-cell ${selectedItem?.id === item.id ? "active" : ""}`}
-              style={index < 40 ? { animationDelay: `${index * 12}ms` } : { animation: "none" }}
-              onClick={() => onSelectItem(item)}
-              {...tipHandlers(itemName(lang, item), categoryName(lang, item.category))}
-            >
-              {icon ? (
-                // eslint-disable-next-line @next/next/no-img-element
-                <img
-                  src={icon}
-                  alt=""
-                  loading="lazy"
-                  className="pointer-events-none h-[80%] w-[80%] object-contain drop-shadow-[0_2px_3px_rgba(0,0,0,0.7)]"
-                />
-              ) : (
-                <span className="pointer-events-none text-xl">{item.emoji}</span>
-              )}
-            </button>
+            <div key={item.id} className="relative" style={index < 40 ? { animationDelay: `${index * 12}ms` } : { animation: "none" }}>
+              <button
+                role="option"
+                aria-selected={selectedItem?.id === item.id}
+                className={`item-cell w-full ${selectedItem?.id === item.id ? "active" : ""}`}
+                onClick={(event) => {
+                  onSelectItem(item);
+                  if (event.ctrlKey) onCtrlClickItem(item);
+                }}
+                {...tipHandlers(itemName(lang, item), categoryName(lang, item.category))}
+              >
+                {icon ? (
+                  // eslint-disable-next-line @next/next/no-img-element
+                  <img
+                    src={icon}
+                    alt=""
+                    loading="lazy"
+                    className="pointer-events-none h-[80%] w-[80%] object-contain drop-shadow-[0_2px_3px_rgba(0,0,0,0.7)]"
+                  />
+                ) : (
+                  <span className="pointer-events-none text-xl">{item.emoji}</span>
+                )}
+              </button>
+              <button
+                className={`favorite-toggle ${favoriteSet.has(item.id) ? "active" : ""}`}
+                onClick={() => toggleFavorite(item.id)}
+                aria-label={favoriteSet.has(item.id) ? t(lang, "remove_favorite") : t(lang, "add_favorite")}
+                title={favoriteSet.has(item.id) ? t(lang, "remove_favorite") : t(lang, "add_favorite")}
+              >
+                ★
+              </button>
+            </div>
           );
         })}
       </div>
