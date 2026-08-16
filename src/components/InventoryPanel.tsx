@@ -22,6 +22,7 @@ interface Props {
   flashSlot: number | null;
   onSelectSlot: (slot: number) => void;
   onCtrlClickBackpackSlot: (slot: number) => void;
+  onFetch: () => void;
 }
 
 function SlotButton({
@@ -92,7 +93,7 @@ function SlotButton({
 }
 
 function InventoryPanel({
-  lang, entries, selectedSlot, flashSlot, onSelectSlot, onCtrlClickBackpackSlot,
+  lang, entries, selectedSlot, flashSlot, onSelectSlot, onCtrlClickBackpackSlot, onFetch,
 }: Props) {
   return (
     <section className="flex min-w-0 flex-col gap-3.5">
@@ -115,6 +116,11 @@ function InventoryPanel({
             <span className="ml-auto text-[11.5px] tracking-[0.06em] text-muted-2">
               {section.start}–{section.end}
             </span>
+            {section.key === "action_bar" && (
+              <button className="chip !py-1 !px-2" onClick={onFetch}>
+                ↻ {t(lang, "fetch")}
+              </button>
+            )}
           </div>
           <div
             className="grid gap-[7px]"

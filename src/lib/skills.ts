@@ -20,15 +20,26 @@ export const SKILLS: SkillDefinition[] = [
   { id: "pJggvotwOkuoc98igUn7xA", name: "Agility", maxLevel: 99 },
 ];
 
-// Dragonwilds uses RuneScape's standard cumulative XP curve.
+/**
+ * Dragonwilds XP thresholds as rebalanced in 0.11.0.3.
+ * Levels 1–93 use 10% of the classic recursive curve; the final levels use
+ * the game's custom bridge/quadratic portion. Level 99 starts at 1,000,000 XP.
+ */
 const XP_AT_LEVEL = Array.from({ length: 100 }, (_, index) => {
   const level = index + 1;
   if (level <= 1) return 0;
+
+  if (level >= 96) {
+    const offset = level - 95;
+    return 14_241 * offset ** 2 + 81_114 * offset + 447_689;
+  }
+  if (level >= 94) return 342_568 + Math.round(52_560.5 * (level - 93));
+
   let points = 0;
   for (let current = 1; current < level; current += 1) {
     points += Math.floor(current + 300 * 2 ** (current / 7));
   }
-  return Math.floor(points / 4);
+  return Math.floor(points / 10);
 });
 
 export function levelForXp(xp: number, maxLevel = 99): number {

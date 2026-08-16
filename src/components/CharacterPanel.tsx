@@ -13,12 +13,13 @@ interface Props {
   hydration: number;
   endurance: number;
   onApply: (changes: { name: string; health: number; stamina: number; sustenance: number; hydration: number; endurance: number }) => void;
+  onFetch: () => void;
 }
 
 /** Escala ilustrativa das barras (atributos do jogo ficam tipicamente em 0–200). */
 const BAR_SCALE = 200;
 
-export default function CharacterPanel({ lang, charName, health, stamina, sustenance, hydration, endurance, onApply }: Props) {
+export default function CharacterPanel({ lang, charName, health, stamina, sustenance, hydration, endurance, onApply, onFetch }: Props) {
   const [name, setName] = useState(charName);
   const [healthValue, setHealthValue] = useState(Math.round(health));
   const [staminaValue, setStaminaValue] = useState(Math.round(stamina));
@@ -35,9 +36,14 @@ export default function CharacterPanel({ lang, charName, health, stamina, susten
 
   return (
     <div className="panel">
-      <h2 className="mb-3 font-display text-[15px] font-bold tracking-[0.08em] text-gold-bright">
-        🐉 {t(lang, "character")}
-      </h2>
+      <div className="mb-3 flex items-center gap-2">
+        <h2 className="font-display text-[15px] font-bold tracking-[0.08em] text-gold-bright">
+          🐉 {t(lang, "character")}
+        </h2>
+        <button className="chip ml-auto !py-1 !px-2" onClick={onFetch}>
+          ↻ {t(lang, "fetch")}
+        </button>
+      </div>
 
       <label className="mb-1.5 block text-[12.5px] text-muted">{t(lang, "char_name")}</label>
       <input

@@ -42,12 +42,10 @@ import {
   deleteVaultEntry,
   loadLang,
   loadRecents,
-  loadSession,
   loadVault,
   pushVaultEntry,
   rememberRecent,
   saveLang,
-  saveSession,
   type RecentSave,
   type VaultEntry,
   type VaultOrigin,
@@ -77,7 +75,7 @@ export default function EditorApp() {
     [data],
   );
 
-  // ---- Boot: restaura idioma, sessão e recentes do localStorage -------------
+  // ---- Boot: restaura idioma, recentes e backups do localStorage -----------
 
   useEffect(() => {
     // Explicit choice wins; otherwise follow the browser's language.
@@ -86,41 +84,12 @@ export default function EditorApp() {
     document.documentElement.lang = activeLang;
     setRecents(loadRecents());
     setVault(loadVault());
-
-    const session = loadSession();
-    if (session) {
-      try {
-        setData(parseSave(session.text));
-        setFileName(session.fileName);
-        setDirty(session.dirty);
-        push(t(activeLang, "session_restored"));
-      } catch {
-        clearSession();
-      }
-    }
+    // A cached save can be older than the game file and overwrite earned XP.
+    // Keep recents/backups, but always require loading the live save explicitly.
+    clearSession();
     setHydrated(true);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
-
-  // ---- Persistência contínua da sessão (debounced) ----------------------------
-
-  useEffect(() => {
-    if (!hydrated) return;
-    if (!data) {
-      clearSession();
-      return;
-    }
-    const timer = setTimeout(() => {
-      saveSession({
-        fileName,
-        charName: getCharName(data),
-        text: serializeSave(data),
-        dirty,
-        savedAt: Date.now(),
-      });
-    }, 400);
-    return () => clearTimeout(timer);
-  }, [data, fileName, dirty, hydrated]);
 
   // ---- Aviso ao fechar com alterações não salvas ---------------------------------
 
@@ -352,9 +321,38 @@ export default function EditorApp() {
 
   const handleApplySkills = useCallback((values: Record<string, number>) => {
     if (!data) return;
+    if (Object.keys(values).length === 0) return;
     mutate(setSkillXp(data, values));
     push(t(lang, "toast_skills"), "success");
   }, [data, lang, mutate, push]);
+
+  const handleFetchSection = useCallback(async (section: "inventory" | "character" | "skills") => {
+    if (!data || !localSaveName) {
+      push(t(lang, "toast_fetch_requires_local"), "error");
+      return;
+    }
+    try {
+      const response = await fetch(`/api/local-save?name=${encodeURIComponent(localSaveName)}`);
+      const result = (await response.json()) as { text?: string; error?: string };
+      if (!response.ok || typeof result.text !== "string") throw new Error(result.error ?? "Could not read character save.");
+      const live = parseSave(result.text);
+      const next = structuredClone(data);
+      if (section === "inventory") {
+        next.GameProgress.Inventory = structuredClone(live.GameProgress.Inventory);
+      } else if (section === "character") {
+        next.meta_data = structuredClone(live.meta_data);
+        next.GameProgress.Character = structuredClone(live.GameProgress.Character);
+      } else {
+        next.GameProgress.Skills = structuredClone(live.GameProgress.Skills);
+      }
+      setData(next);
+      setOriginalText(result.text);
+      snapshot(fileName, getCharName(live), result.text, "opened");
+      push(t(lang, "toast_fetched"), "success");
+    } catch (error) {
+      push(String(error), "error");
+    }
+  }, [data, fileName, lang, localSaveName, push, snapshot]);
 
   const handleLangChange = useCallback((next: Lang) => {
     setLang(next);
@@ -446,6 +444,7 @@ export default function EditorApp() {
             flashSlot={flashSlot}
             onSelectSlot={setSelectedSlot}
             onCtrlClickBackpackSlot={handleCtrlClearBackpackSlot}
+            onFetch={() => handleFetchSection("inventory")}
           />
           <aside className="flex min-w-0 flex-col gap-3.5">
             <ItemBrowser
@@ -471,11 +470,13 @@ export default function EditorApp() {
               hydration={getHydration(data)}
               endurance={getEndurance(data)}
               onApply={handleApplyCharacter}
+              onFetch={() => handleFetchSection("character")}
             />
             <SkillsPanel
               lang={lang}
               values={getSkillXp(data)}
               onApply={handleApplySkills}
+              onFetch={() => handleFetchSection("skills")}
             />
           </aside>
         </main>
