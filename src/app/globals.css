@@ -247,6 +247,7 @@ body::before {
 
 .favorite-toggle {
   position: absolute;
+  z-index: 5;
   top: 2px;
   right: 2px;
   width: 19px;
@@ -259,6 +260,7 @@ body::before {
   font-size: 13px;
   line-height: 19px;
   cursor: pointer;
+  pointer-events: auto;
   opacity: 0;
   transition: color 0.15s, background 0.15s, opacity 0.15s;
 }

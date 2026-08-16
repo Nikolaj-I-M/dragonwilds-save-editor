@@ -136,7 +136,12 @@ function ItemBrowser({ lang, selectedItem, onSelectItem, onCtrlClickItem }: Prop
               </button>
               <button
                 className={`favorite-toggle ${favoriteSet.has(item.id) ? "active" : ""}`}
-                onClick={() => toggleFavorite(item.id)}
+                type="button"
+                onPointerDown={(event) => event.stopPropagation()}
+                onClick={(event) => {
+                  event.stopPropagation();
+                  toggleFavorite(item.id);
+                }}
                 aria-label={favoriteSet.has(item.id) ? t(lang, "remove_favorite") : t(lang, "add_favorite")}
                 title={favoriteSet.has(item.id) ? t(lang, "remove_favorite") : t(lang, "add_favorite")}
               >
