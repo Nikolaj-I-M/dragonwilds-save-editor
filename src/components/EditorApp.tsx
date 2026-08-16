@@ -327,12 +327,13 @@ export default function EditorApp() {
   }, [data, lang, mutate, push]);
 
   const handleFetchSection = useCallback(async (section: "inventory" | "character" | "skills") => {
-    if (!data || !localSaveName) {
+    const sourceName = localSaveName ?? (fileName.endsWith(".json") ? fileName : null);
+    if (!data || !sourceName) {
       push(t(lang, "toast_fetch_requires_local"), "error");
       return;
     }
     try {
-      const response = await fetch(`/api/local-save?name=${encodeURIComponent(localSaveName)}`);
+      const response = await fetch(`/api/local-save?name=${encodeURIComponent(sourceName)}`);
       const result = (await response.json()) as { text?: string; error?: string };
       if (!response.ok || typeof result.text !== "string") throw new Error(result.error ?? "Could not read character save.");
       const live = parseSave(result.text);
