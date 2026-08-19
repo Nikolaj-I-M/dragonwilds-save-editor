@@ -374,7 +374,9 @@ export default function EditorApp() {
         return;
       }
       handleRef.current = null;
-      setLocalSaveName(null);
+      // Vault entries retain the original .json filename. Treat it as the
+      // target local save so a restored backup can be written back directly.
+      setLocalSaveName(entry.fileName.endsWith(".json") ? entry.fileName : null);
       setData(parsed);
       setFileName(entry.fileName);
       setOriginalText(entry.text);
