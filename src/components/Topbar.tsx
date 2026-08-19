@@ -10,6 +10,7 @@ interface Props {
   charName: string;
   fileName: string;
   onOpen: () => void;
+  onOpenSaveFolder: () => void;
   onSave: () => void;
   onDownloadBackup: () => void;
   onOpenVault: () => void;
@@ -18,7 +19,7 @@ interface Props {
 }
 
 export default function Topbar({
-  lang, loaded, dirty, charName, fileName, onOpen, onSave, onDownloadBackup,
+  lang, loaded, dirty, charName, fileName, onOpen, onOpenSaveFolder, onSave, onDownloadBackup,
   onOpenVault, vaultCount, onLangChange,
 }: Props) {
   return (
@@ -52,6 +53,9 @@ export default function Topbar({
       )}
 
       <div className="ml-auto flex items-center gap-2.5">
+        <button className="btn hidden lg:inline-flex" onClick={onOpenSaveFolder}>
+          📁 {t(lang, "open_save_folder")}
+        </button>
         {loaded && dirty && <span className="dirty-dot" title={t(lang, "unsaved_changes")} />}
         <button
           className="btn relative !px-3"

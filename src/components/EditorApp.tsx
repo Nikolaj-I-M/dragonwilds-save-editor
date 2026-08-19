@@ -165,6 +165,16 @@ export default function EditorApp() {
     }
   }, [confirmDiscard, openText, push]);
 
+  const handleOpenSaveFolder = useCallback(async () => {
+    try {
+      const response = await fetch("/api/open-save-folder", { method: "POST" });
+      const result = (await response.json()) as { error?: string };
+      if (!response.ok) throw new Error(result.error ?? "Could not open the save folder.");
+    } catch (error) {
+      push(String(error), "error");
+    }
+  }, [push]);
+
   const handleDropFile = useCallback(
     async (file: File) => {
       if (!confirmDiscard()) return;
@@ -425,6 +435,7 @@ export default function EditorApp() {
         charName={loaded ? getCharName(data) : ""}
         fileName={fileName}
         onOpen={handleOpen}
+        onOpenSaveFolder={handleOpenSaveFolder}
         onSave={handleSave}
         onDownloadBackup={handleDownloadBackup}
         onOpenVault={() => setVaultOpen(true)}

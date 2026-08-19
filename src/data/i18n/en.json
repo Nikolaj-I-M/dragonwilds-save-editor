@@ -2,6 +2,7 @@
  "ui": {
   "app_title": "Dragonwilds — Save Editor",
   "open_save": "Open Save",
+  "open_save_folder": "Open save folder",
   "write_save": "Save",
   "fetch": "Fetch",
   "download_save": "Download Save",
