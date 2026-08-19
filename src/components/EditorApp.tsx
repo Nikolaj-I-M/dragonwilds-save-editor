@@ -195,15 +195,19 @@ export default function EditorApp() {
   const handleSave = useCallback(async () => {
     if (!data) return;
     const text = serializeSave(data);
-    if (localSaveName) {
+    // A restored history/recent entry has no file handle, but its displayed
+    // .json filename still identifies the matching live Dragonwilds save.
+    const targetLocalSave = localSaveName ?? (fileName.endsWith(".json") ? fileName : null);
+    if (targetLocalSave) {
       try {
         const response = await fetch("/api/local-save", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ name: localSaveName, text }),
+          body: JSON.stringify({ name: targetLocalSave, text }),
         });
         const result = (await response.json()) as { ok?: boolean; backup?: string; error?: string };
         if (!response.ok || !result.ok) throw new Error(result.error ?? "Could not save character.");
+        setLocalSaveName(targetLocalSave);
         setDirty(false);
         setOriginalText(text);
         const charName = getCharName(data);
@@ -213,8 +217,12 @@ export default function EditorApp() {
         push(`Saved directly to Dragonwilds. Backup: ${result.backup}`, "success");
         return;
       } catch (err) {
-        push(String(err), "error");
-        return;
+        // A manually opened JSON or sample can share a filename pattern but
+        // not exist in the game folder. Preserve the normal download fallback.
+        if (localSaveName) {
+          push(String(err), "error");
+          return;
+        }
       }
     }
     let wroteInPlace = false;
